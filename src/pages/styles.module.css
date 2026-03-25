@@ -1,0 +1,359 @@
+/* stylelint-disable docusaurus/copyright-header */
+
+/**
+ * CSS files with the .module.css suffix will be treated as CSS modules
+ * and scoped locally.
+ */
+
+.heroBanner {
+  padding: 4rem 0;
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+}
+
+@media screen and (max-width: 996px) {
+  .heroBanner {
+    padding: 2rem;
+  }
+}
+
+@media screen and (min-width: 966px) {
+  .heroText {
+    padding-top: 4rem;
+  }
+}
+
+.buttons {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.features {
+  display: flex;
+  align-items: center;
+  padding: 2rem 0;
+  width: 100%;
+}
+
+.featureImage {
+  height: 200px;
+  width: 200px;
+}
+
+.openPageChartRow {
+  margin-top: 32px;
+}
+
+@media screen and (max-width: 996px) {
+  .openPageCard {
+    margin-bottom: 16px;
+  }
+  .openPageChartRow {
+    margin-top: 0px;
+  }
+}
+
+li.openPageList:not(:last-child) {
+  margin-bottom: 3px;
+}
+
+li.openPageList {
+  padding-left: 10px;
+}
+
+li.openPageList::first-letter {
+  text-transform: uppercase;
+}
+
+.inputField {
+  background: var(--ifm-navbar-search-input-background-color) no-repeat 0.75rem
+    center / 1rem 1rem;
+  border: none;
+  border-radius: 5px;
+  outline: none;
+  color: var(--ifm-navbar-search-input-color);
+  display: block;
+  font-size: 0.9rem;
+  line-height: 2rem;
+  padding: 5px 15px;
+  width: 20rem;
+}
+
+.contactTextAreaField {
+  font-family: Arial;
+  background: var(--ifm-navbar-search-input-background-color) no-repeat 0.75rem
+    center / 1rem 1rem;
+  border: none;
+  border-radius: 5px;
+  color: var(--ifm-navbar-search-input-color);
+  cursor: text;
+  display: block;
+  font-size: 0.9rem;
+  line-height: 2rem;
+  padding: 5px 15px;
+  width: 100%;
+  height: 200px;
+  resize: vertical;
+}
+
+@media screen and (min-width: 966px) {
+  .plusForm {
+    margin-top: 4rem;
+  }
+}
+
+.plusTitle {
+  font-size: 50px;
+}
+
+.plusInput {
+  display: inline-block;
+}
+
+.plusInputButton {
+  height: 42px;
+}
+
+.plusFeatureTitle {
+  font-size: 30px;
+}
+
+.plusTooExpensiveTitle {
+  font-size: 40px;
+  text-align: center;
+}
+
+.tableContainer {
+  display: flex;
+  justify-content: center; /* Centrer horizontalement */
+  align-items: center; /* Centrer verticalement (optionnel) */
+  margin: 20px 0; /* Marge autour de la table */
+}
+
+.priceTable th,
+.priceTable td {
+  border: 1px solid #ddd;
+  padding: 10px;
+  text-align: center;
+}
+
+.invertImageColor {
+  filter: grayscale(1) invert(1);
+}
+
+.plusRow {
+  margin-top: 10rem;
+}
+
+.listUnstyled {
+  padding-left: 0;
+  list-style: none;
+}
+
+.listUnstyled li {
+  padding-left: 10px;
+  padding-top: 3px;
+  padding-bottom: 3px;
+}
+
+.checkIcons {
+  height: 22px;
+  width: 22x;
+  margin-right: 8px;
+  vertical-align: middle;
+}
+
+.plusPricingTitle {
+  font-size: 30px;
+  display: inline-block;
+}
+
+.plusPricingTitleMonth {
+  font-size: 15px;
+  display: inline-block;
+}
+
+.plusImage {
+  margin-left: 10%;
+  width: 80%;
+}
+
+@media screen and (max-width: 996px) {
+  .plusRow {
+    margin-top: 2rem;
+  }
+  .plusImage {
+    display: none;
+  }
+}
+
+.skeletonCard {
+  background: var(--ifm-card-background-color);
+  border-radius: 8px;
+  padding: 2rem;
+  margin-bottom: 1rem;
+  box-shadow: var(--ifm-global-shadow-lw);
+}
+
+.skeletonTitle {
+  height: 20px;
+  background: linear-gradient(90deg, var(--ifm-color-emphasis-200) 25%, var(--ifm-color-emphasis-300) 50%, var(--ifm-color-emphasis-200) 75%);
+  background-size: 200% 100%;
+  animation: shimmer 1.5s infinite;
+  border-radius: 4px;
+  margin-bottom: 1.5rem;
+  width: 60%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.skeletonNumber {
+  height: 80px;
+  background: linear-gradient(90deg, var(--ifm-color-emphasis-200) 25%, var(--ifm-color-emphasis-300) 50%, var(--ifm-color-emphasis-200) 75%);
+  background-size: 200% 100%;
+  animation: shimmer 1.5s infinite;
+  border-radius: 8px;
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.skeletonChart {
+  height: 300px;
+  background: linear-gradient(90deg, var(--ifm-color-emphasis-200) 25%, var(--ifm-color-emphasis-300) 50%, var(--ifm-color-emphasis-200) 75%);
+  background-size: 200% 100%;
+  animation: shimmer 1.5s infinite;
+  border-radius: 8px;
+  margin-top: 2rem;
+}
+
+@keyframes shimmer {
+  0% {
+    background-position: 200% 0;
+  }
+  100% {
+    background-position: -200% 0;
+  }
+}
+
+.loadingText {
+  text-align: center;
+  margin-top: 2rem;
+  margin-bottom: 3rem;
+  font-size: 1.2rem;
+  color: var(--ifm-color-emphasis-700);
+  animation: fadeInOut 2s infinite;
+}
+
+@keyframes fadeInOut {
+  0%, 100% {
+    opacity: 0.5;
+  }
+  50% {
+    opacity: 1;
+  }
+}
+
+.starterKitInputButton {
+  margin-top: 20px;
+  padding: 10px;
+  font-size: 1.1rem;
+}
+
+.starterKitImage {
+  margin-left: 10rem;
+  width: 30rem;
+}
+
+.starterKitRow {
+  margin-top: 10rem;
+}
+
+.specImage {
+  border-radius: 6px;
+}
+
+@media screen and (max-width: 996px) {
+  .starterKitRow {
+    margin-top: 2rem;
+  }
+  .starterKitImage {
+    display: none;
+  }
+  .specImage {
+    margin-bottom: 20px;
+  }
+  .flexColumnFirstOnMobile {
+    order: 1;
+  }
+  .flexColumnSecondOnMobile {
+    order: 2;
+  }
+}
+
+/*
+Black friday
+*/
+
+.progressContainer {
+  margin: 20px 0;
+  text-align: center;
+}
+
+.progressContainer {
+  margin: 20px 0;
+  text-align: center;
+}
+
+.progressBarBackground {
+  background-color: #f0f0f0; /* Static background color */
+  position: relative;
+  height: 10px;
+  border-radius: 5px;
+  overflow: hidden; /* Ensures the animation stays inside this div */
+}
+
+.progressBar {
+  background-color: #ff5722; /* Progress bar color */
+  height: 100%;
+  transition: width 0.3s ease; /* Smooth width transition */
+}
+
+.loadingAnimation {
+  filter: blur(1rem);
+}
+
+@keyframes pulse {
+  0% {
+    transform: scale(1);
+    opacity: 1;
+  }
+  50% {
+    transform: scale(1.1); /* Grossissement léger */
+    opacity: 0.8; /* Effet de fondu */
+  }
+  100% {
+    transform: scale(1);
+    opacity: 1;
+  }
+}
+
+.pulse {
+  animation: pulse 1.2s infinite; /* Applique l'animation */
+}
+
+.kitsRemainingText {
+  margin-top: 8px;
+  font-size: 16px; /* Taille légèrement augmentée pour la lisibilité */
+  color: #ff5722;
+  font-weight: bold;
+  text-align: center;
+}
+
+.blackFridayBanner {
+  color: #ff5722;
+  font-weight: bolder;
+  font-size: 25px;
+}

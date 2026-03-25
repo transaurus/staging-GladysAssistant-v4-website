@@ -1,0 +1,38 @@
+{
+  "title": {
+    "message": "Gladys Assistant",
+    "description": "The title in the navbar"
+  },
+  "item.label.Integrations": {
+    "message": "Intégrations",
+    "description": "Navbar item with label Integrations"
+  },
+  "item.label.Getting started": {
+    "message": "Installer Gladys",
+    "description": "Navbar item with label Getting started"
+  },
+  "item.label.Blog": {
+    "message": "Blog",
+    "description": "Navbar item with label Blog"
+  },
+  "item.label.Login": {
+    "message": "Login",
+    "description": "Navbar item with label Login"
+  },
+  "item.label.Community": {
+    "message": "Forum",
+    "description": "Navbar item with label Community"
+  },
+  "logo.alt": {
+    "message": "Gladys Assistant logo",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.Plus": {
+    "message": "Plus",
+    "description": "Navbar item with label Plus"
+  },
+  "item.label.Formation": {
+    "message": "Formation",
+    "description": "Navbar item with label Formation"
+  }
+}

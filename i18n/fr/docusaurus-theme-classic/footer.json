@@ -1,0 +1,110 @@
+{
+  "link.title.Getting Started": {
+    "message": "Commencer",
+    "description": "The title of the footer links column with title=Getting Started in the footer"
+  },
+  "link.title.Socials": {
+    "message": "Réseaux sociaux",
+    "description": "The title of the footer links column with title=Socials in the footer"
+  },
+  "link.title.More": {
+    "message": "En savoir plus",
+    "description": "The title of the footer links column with title=More in the footer"
+  },
+  "link.item.label.Raspberry Pi": {
+    "message": "Raspberry Pi",
+    "description": "The label of footer link with label=Raspberry Pi linking to docs/installation/raspberry-pi/"
+  },
+  "link.item.label.Installing on Docker": {
+    "message": "Installation avec Docker",
+    "description": "The label of footer link with label=Docker linking to docs/installation/docker"
+  },
+  "link.item.label.Freebox Delta": {
+    "message": "Freebox Delta",
+    "description": "The label of footer link with label=Freebox Delta linking to docs/installation/freebox-delta"
+  },
+  "link.item.label.Forum": {
+    "message": "Forum",
+    "description": "The label of footer link with label=Forum linking to https://community.gladysassistant.com"
+  },
+  "link.item.label.Twitter": {
+    "message": "Twitter",
+    "description": "The label of footer link with label=Twitter linking to https://twitter.com/gladysassistant"
+  },
+  "link.item.label.Facebook": {
+    "message": "Facebook",
+    "description": "The label of footer link with label=Facebook linking to https://facebook.com/gladysassistant"
+  },
+  "link.item.label.Instagram": {
+    "message": "Instagram",
+    "description": "The label of footer link with label=Instagram linking to https://instagram.com/gladysassistant"
+  },
+  "link.item.label.Blog": {
+    "message": "Blog",
+    "description": "The label of footer link with label=Blog linking to blog"
+  },
+  "link.item.label.GitHub": {
+    "message": "GitHub",
+    "description": "The label of footer link with label=GitHub linking to https://github.com/gladysassistant/gladys"
+  },
+  "copyright": {
+    "message": "Copyright © Gladys Assistant.",
+    "description": "The footer copyright"
+  },
+  "link.item.label.Open Metrics": {
+    "message": "Le projet en chiffre",
+    "description": "The label of footer link with label=Open Metrics linking to /open"
+  },
+  "link.item.label.Contact Us": {
+    "message": "Contactez-nous",
+    "description": "The label of footer link with label=Contact Us linking to /contact"
+  },
+  "link.item.label.Recommended hardware": {
+    "message": "Matériel recommandé",
+    "description": "The label of footer link with label=Recommended hardware linking to docs"
+  },
+  "link.item.label.Donate": {
+    "message": "Faire un don",
+    "description": "The label of footer link with label=Donate linking to https://www.buymeacoffee.com/gladysassistant"
+  },
+  "link.item.label.Starter kit (FR only)": {
+    "message": "Kit de démarrage officiel",
+    "description": "The label of footer link with label=Starter kit (FR only)"
+  },
+  "link.item.label.The ultimate guide": {
+    "message": "Commencer sur Gladys Assistant",
+    "description": "The label of footer link with label=The ultimate guide linking to docs"
+  },
+  "link.item.label.Kit de démarrage officiel": {
+    "message": "Kit de démarrage officiel",
+    "description": "The label of footer link with label=Kit de démarrage officiel linking to /starter-kit/"
+  },
+  "link.item.label.Installing on a Mini-PC": {
+    "message": "Installation sur un Mini-PC",
+    "description": "The label of footer link with label=Installing on a Mini-PC linking to docs/installation/mini-pc/"
+  },
+  "link.item.label.Installing on a Synology NAS": {
+    "message": "Installation sur un NAS Synology",
+    "description": "The label of footer link with label=Installing on a Synology NAS linking to docs/installation/synology/"
+  },
+  "link.item.label.Installing on an Unraid server": {
+    "message": "Installation sur un serveur Unraid",
+    "description": "The label of footer link with label=Installing on an Unraid server linking to docs/installation/unraid/"
+  },
+  "link.item.label.Installation sur une Freebox Delta": {
+    "message": "Installation sur une Freebox Delta",
+    "description": "The label of footer link with label=Installation sur une Freebox Delta linking to docs/installation/freebox-delta/"
+  },
+  "link.title.Gladys Plus": {
+    "message": "Gladys Plus",
+    "description": "The title of the footer links column with title=Gladys Plus in the footer"
+  },
+  "link.item.label.What is Gladys Plus?": {
+    "message": "Qu'est-ce que Gladys Plus ?",
+    "description": "The label of footer link with label=What is Gladys Plus? linking to /plus"
+  },
+  "link.item.label.Login to Gladys Plus": {
+    "message": "Se connecter à Gladys Plus",
+    "description": "The label of footer link with label=Login to Gladys Plus linking to https://plus.gladysassistant.com"
+  }
+}
