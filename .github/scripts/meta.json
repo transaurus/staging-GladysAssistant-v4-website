@@ -1,0 +1,10 @@
+{
+  "sourceUrl": "https://github.com/GladysAssistant/v4-website",
+  "branch": "master",
+  "docusaurusRoot": ".",
+  "configFile": "docusaurus.config.js",
+  "translateCommand": "npx docusaurus write-translations --locale fr",
+  "buildCommand": "yarn build",
+  "buildOutput": "build",
+  "packageManager": "yarn"
+}
