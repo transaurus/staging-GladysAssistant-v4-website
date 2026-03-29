@@ -153,6 +153,8 @@ jobs:
           fi
 
       - name: 'Rebuild with translations'
+        env:
+          DOCUSAURUS_IGNORE_SSG_WARNINGS: 'true'
         run: |
           DOC_ROOT="${{ steps.meta.outputs.docusaurusRoot }}"
 
