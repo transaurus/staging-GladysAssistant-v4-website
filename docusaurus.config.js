@@ -22,7 +22,7 @@ module.exports = {
   projectName: "gladys", // Usually your repo name.
   i18n: {
     defaultLocale: "en",
-    locales: ["en", "fr"],
+    locales: ["en", "zh-Hans"],
     localeConfigs: {
       en: {
         label: "English",

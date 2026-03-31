@@ -1,0 +1,610 @@
+"use strict";
+exports.ids = ["8788"];
+exports.modules = {
+30195(__unused_rspack_module, __webpack_exports__, __webpack_require__) {
+__webpack_require__.r(__webpack_exports__);
+__webpack_require__.d(__webpack_exports__, {
+  assets: () => (assets),
+  contentTitle: () => (contentTitle),
+  "default": () => (MDXContent),
+  frontMatter: () => (frontMatter),
+  metadata: () => (/* reexport default export from named module */ _site_docusaurus_docusaurus_plugin_content_docs_default_site_docs_integrations_energy_monitoring_md_ec8_json__rspack_import_0),
+  toc: () => (toc)
+});
+/* import */ var _site_docusaurus_docusaurus_plugin_content_docs_default_site_docs_integrations_energy_monitoring_md_ec8_json__rspack_import_0 = __webpack_require__(21462);
+/* import */ var react_jsx_runtime__rspack_import_1 = __webpack_require__(74848);
+/* import */ var _mdx_js_react__rspack_import_2 = __webpack_require__(28453);
+
+
+const frontMatter = {
+	id: 'energy-monitoring',
+	title: 'Monitor your energy consumption in Gladys Assistant',
+	sidebar_label: 'Energy Monitoring'
+};
+const contentTitle = undefined;
+
+const assets = {
+
+};
+
+
+
+const toc = [{
+  "value": "Compatible Hardware",
+  "id": "compatible-hardware",
+  "level": 2
+}, {
+  "value": "1. <strong>With a Lixee ZLinky TIC via Zigbee (France only)</strong>",
+  "id": "1-with-a-lixee-zlinky-tic-via-zigbee-france-only",
+  "level": 3
+}, {
+  "value": "2. <strong>Through the Enedis integration on Gladys Plus (France only)</strong>",
+  "id": "2-through-the-enedis-integration-on-gladys-plus-france-only",
+  "level": 3
+}, {
+  "value": "3. <strong>With a Zigbee plug that measures consumption (international)</strong>",
+  "id": "3-with-a-zigbee-plug-that-measures-consumption-international",
+  "level": 3
+}, {
+  "value": "4. <strong>With a custom MQTT device (international)</strong>",
+  "id": "4-with-a-custom-mqtt-device-international",
+  "level": 3
+}, {
+  "value": "Configuration",
+  "id": "configuration",
+  "level": 2
+}, {
+  "value": "Step 1: Configure the Enedis integration (optional, France only)",
+  "id": "step-1-configure-the-enedis-integration-optional-france-only",
+  "level": 3
+}, {
+  "value": "Step 2: Configure your energy rates",
+  "id": "step-2-configure-your-energy-rates",
+  "level": 3
+}, {
+  "value": "Import a contract",
+  "id": "import-a-contract",
+  "level": 4
+}, {
+  "value": "Manually create a contract",
+  "id": "manually-create-a-contract",
+  "level": 3
+}, {
+  "value": "Step 3: Update your Zigbee devices",
+  "id": "step-3-update-your-zigbee-devices",
+  "level": 3
+}, {
+  "value": "Step 4: Update your MQTT devices",
+  "id": "step-4-update-your-mqtt-devices",
+  "level": 3
+}, {
+  "value": "Step 5: Verify your electrical network hierarchy",
+  "id": "step-5-verify-your-electrical-network-hierarchy",
+  "level": 3
+}, {
+  "value": "Step 6: Recalculate all historical consumption",
+  "id": "step-6-recalculate-all-historical-consumption",
+  "level": 3
+}, {
+  "value": "Step 7: Display your consumption on the dashboard",
+  "id": "step-7-display-your-consumption-on-the-dashboard",
+  "level": 3
+}, {
+  "value": "Feedback?",
+  "id": "feedback",
+  "level": 2
+}];
+function _createMdxContent(props) {
+  const _components = {
+    a: "a",
+    admonition: "admonition",
+    code: "code",
+    h2: "h2",
+    h3: "h3",
+    h4: "h4",
+    img: "img",
+    li: "li",
+    p: "p",
+    pre: "pre",
+    strong: "strong",
+    ul: "ul",
+    ...(0,_mdx_js_react__rspack_import_2/* .useMDXComponents */.R)(),
+    ...props.components
+  };
+  return (0,react_jsx_runtime__rspack_import_1.jsxs)(react_jsx_runtime__rspack_import_1.Fragment, {
+    children: [(0,react_jsx_runtime__rspack_import_1.jsx)(_components.p, {
+      children: "The \"Energy Monitoring\" integration allows you to track your energy consumption with Gladys Assistant."
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.p, {
+      children: "It is available since Gladys Assistant 4.66."
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.h2, {
+      id: "compatible-hardware",
+      children: "Compatible Hardware"
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.p, {
+      children: "To use this integration, you need devices that report energy consumption data in kWh."
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.p, {
+      children: "There are several ways to achieve this:"
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsxs)(_components.h3, {
+      id: "1-with-a-lixee-zlinky-tic-via-zigbee-france-only",
+      children: ["1. ", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.strong, {
+        children: "With a Lixee ZLinky TIC via Zigbee (France only)"
+      })]
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.admonition, {
+      title: "For French users",
+      type: "note",
+      children: (0,react_jsx_runtime__rspack_import_1.jsx)(_components.p, {
+        children: "This option is specific to France and the Linky smart meter."
+      })
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.p, {
+      children: "This is the best solution for accurately tracking your consumption in France: readings every minute in kWh, perfect for monitoring your entire home."
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.p, {
+      children: "Zigbee compatible, available for €49:"
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsxs)(_components.ul, {
+      children: ["\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.li, {
+        children: (0,react_jsx_runtime__rspack_import_1.jsx)(_components.a, {
+          href: "https://www.domadoo.fr/fr/eco-energie/7492-lixee-module-tic-vers-zigbee-30-pour-compteur-linky-v2-v4000-0014-3770014375179.html?domid=17",
+          children: "on Domadoo"
+        })
+      }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.li, {
+        children: (0,react_jsx_runtime__rspack_import_1.jsx)(_components.a, {
+          href: "https://lixee.fr/fr/produits/42-zlinky-tic-v2-3770014375179.html",
+          children: "on the Lixee website"
+        })
+      }), "\n"]
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.p, {
+      children: "At my place, this gives me a chart like this:"
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.p, {
+      children: (0,react_jsx_runtime__rspack_import_1.jsx)(_components.img, {
+        alt: "Energy monitoring chart",
+        src: (__webpack_require__(65099)/* ["default"] */.A) + "",
+        width: "1214",
+        height: "1018"
+      })
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.p, {
+      children: "Each color represents an energy price (I'm on Tempo pricing), you can clearly see the white days that appeared in late November with the return of cold weather 🥶"
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsxs)(_components.h3, {
+      id: "2-through-the-enedis-integration-on-gladys-plus-france-only",
+      children: ["2. ", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.strong, {
+        children: "Through the Enedis integration on Gladys Plus (France only)"
+      })]
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.admonition, {
+      title: "For French users",
+      type: "note",
+      children: (0,react_jsx_runtime__rspack_import_1.jsx)(_components.p, {
+        children: "This option is specific to France and requires a Linky meter with an Enedis account."
+      })
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.p, {
+      children: "The Enedis integration allows you to retrieve the recorded values from your Linky meter, automatically sent to Enedis once a day."
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.p, {
+      children: "This integration works without hardware, but it has the drawback of only returning consumption once a day, unlike the ZLinky which sends data live every 60 seconds."
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsxs)(_components.p, {
+      children: ["To configure Enedis, go to ", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.a, {
+        href: "/docs/integrations/enedis/",
+        children: "this tutorial"
+      }), "."]
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsxs)(_components.h3, {
+      id: "3-with-a-zigbee-plug-that-measures-consumption-international",
+      children: ["3. ", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.strong, {
+        children: "With a Zigbee plug that measures consumption (international)"
+      })]
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.p, {
+      children: "This is the recommended option for international users. Ideal for tracking a specific appliance. At my place, I use this NOUS plug to track my washing machine's consumption for example:"
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.p, {
+      children: (0,react_jsx_runtime__rspack_import_1.jsx)(_components.a, {
+        href: "https://www.domadoo.fr/fr/prises-connectees/6165-nous-prise-intelligente-zigbee-30-mesure-de-consommation-5907772033517.html?domid=17",
+        children: "NOUS A1Z plug with consumption measurement on Domadoo"
+      })
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsxs)(_components.h3, {
+      id: "4-with-a-custom-mqtt-device-international",
+      children: ["4. ", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.strong, {
+        children: "With a custom MQTT device (international)"
+      })]
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.p, {
+      children: "This option works worldwide. If you have a smart meter or devices that return consumption values in kWh, you can integrate them with Gladys Assistant using the MQTT integration."
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.h2, {
+      id: "configuration",
+      children: "Configuration"
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.admonition, {
+      type: "info",
+      children: (0,react_jsx_runtime__rspack_import_1.jsx)(_components.p, {
+        children: "You must be on Gladys Assistant 4.66 or higher to use this integration.\nYou can update with one click in Gladys system settings."
+      })
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.p, {
+      children: "The order of steps in this tutorial is important!"
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.h3, {
+      id: "step-1-configure-the-enedis-integration-optional-france-only",
+      children: "Step 1: Configure the Enedis integration (optional, France only)"
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.admonition, {
+      title: "For French users",
+      type: "note",
+      children: (0,react_jsx_runtime__rspack_import_1.jsx)(_components.p, {
+        children: "Skip this step if you're not in France."
+      })
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsxs)(_components.p, {
+      children: ["If you plan to use the Enedis integration, go to ", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.a, {
+        href: "/docs/integrations/enedis/",
+        children: "this tutorial"
+      }), " and follow the instructions."]
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.p, {
+      children: "If you're already using the Enedis integration, you need to go to the integration, \"My meters\" tab, and check if the device needs a feature update."
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.p, {
+      children: "If an \"Update\" button is displayed, click on it, then click \"Sync with Gladys Plus\"."
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.p, {
+      children: "At the end of synchronization, you can verify that your Enedis device has properly uploaded data to Gladys by creating a chart on the \"Enedis (30-minute consumption)\" feature."
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.p, {
+      children: "If you see all your consumption in kWh, great, you can move on to the next step!"
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.h3, {
+      id: "step-2-configure-your-energy-rates",
+      children: "Step 2: Configure your energy rates"
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.p, {
+      children: "You now need to tell Gladys which energy provider you use and what your rate is."
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.p, {
+      children: "Two options are available: either you're on a contract that Gladys knows and you can import it easily, or you have an unknown contract and you need to configure it manually."
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsxs)(_components.p, {
+      children: ["Note: The list of energy contracts is open-source and can be modified by anyone on ", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.a, {
+        href: "https://github.com/GladysAssistant/energy-contracts",
+        children: "this GitHub repository"
+      }), "."]
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.h4, {
+      id: "import-a-contract",
+      children: "Import a contract"
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.p, {
+      children: "To configure your contract, go to the \"Energy Monitoring\" integration, in the \"Energy rates\" tab, then click \"Import\":"
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.p, {
+      children: (0,react_jsx_runtime__rspack_import_1.jsx)(_components.img, {
+        alt: "Energy monitoring create price",
+        src: (__webpack_require__(42626)/* ["default"] */.A) + "",
+        width: "2532",
+        height: "992"
+      })
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.p, {
+      children: "Gladys asks you to select an electricity meter."
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.p, {
+      children: "If you're using the Enedis integration, you should see your meter here, you can select it."
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.p, {
+      children: "Otherwise, you can click \"Create an electricity meter\" so that Gladys automatically creates a device that will be the \"parent\" of all your energy sensors in your home."
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.p, {
+      children: "Then, select your contract from the list, then your subscribed power:"
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.p, {
+      children: (0,react_jsx_runtime__rspack_import_1.jsx)(_components.img, {
+        alt: "Energy monitoring create import price",
+        src: (__webpack_require__(11455)/* ["default"] */.A) + "",
+        width: "2446",
+        height: "1312"
+      })
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.p, {
+      children: "If you're on peak/off-peak hours, you'll need to select your contract's schedules."
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.p, {
+      children: "In the case of Tempo, this will create dozens of prices because it will import the entire history of this contract with 6 prices per period!"
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.p, {
+      children: (0,react_jsx_runtime__rspack_import_1.jsx)(_components.img, {
+        alt: "Energy monitoring contract list",
+        src: (__webpack_require__(87107)/* ["default"] */.A) + "",
+        width: "2442",
+        height: "686"
+      })
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.h3, {
+      id: "manually-create-a-contract",
+      children: "Manually create a contract"
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.p, {
+      children: "If your contract is not in the list, click \"Create\"."
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.p, {
+      children: "You'll need to create one price per period and per price type. If you're on a peak/off-peak hours contract, you'll need to create 2 prices for each period."
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.p, {
+      children: "Example:"
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.p, {
+      children: "If in 2024 your energy rate was €0.15/kWh during peak hours and €0.10/kWh during off-peak hours, and in 2025 prices drop by €0.05/kWh, you'll need to create 4 prices:"
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsxs)(_components.ul, {
+      children: ["\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.li, {
+        children: "2024 peak hours"
+      }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.li, {
+        children: "2024 off-peak hours"
+      }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.li, {
+        children: "2025 peak hours"
+      }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.li, {
+        children: "2025 off-peak hours"
+      }), "\n"]
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsxs)(_components.p, {
+      children: ["This can quickly become tedious if your contract changes prices often, which is why I strongly encourage you to add your contract to the shared contract database on ", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.a, {
+        href: "https://github.com/GladysAssistant/energy-contracts",
+        children: "the GitHub repository"
+      }), "."]
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.p, {
+      children: "It's collaborative and anyone can propose a rate!"
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.h3, {
+      id: "step-3-update-your-zigbee-devices",
+      children: "Step 3: Update your Zigbee devices"
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsxs)(_components.p, {
+      children: ["In the Zigbee integration, if you had added Zigbee devices measuring consumption ", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.strong, {
+        children: "before this update"
+      }), ", you need to update them."]
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.p, {
+      children: (0,react_jsx_runtime__rspack_import_1.jsx)(_components.img, {
+        alt: "Update Zigbee2mqtt device",
+        src: (__webpack_require__(49481)/* ["default"] */.A) + "",
+        width: "2406",
+        height: "2340"
+      })
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.p, {
+      children: "This will add the features necessary for energy monitoring."
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.h3, {
+      id: "step-4-update-your-mqtt-devices",
+      children: "Step 4: Update your MQTT devices"
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.p, {
+      children: "In the MQTT integration, if you have devices with \"Index\" features, you will see a new button on \"Index\" features to enable the energy monitoring feature:"
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.p, {
+      children: (0,react_jsx_runtime__rspack_import_1.jsx)(_components.img, {
+        alt: "Update MQTT device",
+        src: (__webpack_require__(37951)/* ["default"] */.A) + "",
+        width: "966",
+        height: "746"
+      })
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.p, {
+      children: "This will add the features necessary for energy monitoring."
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.h3, {
+      id: "step-5-verify-your-electrical-network-hierarchy",
+      children: "Step 5: Verify your electrical network hierarchy"
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.p, {
+      children: "Go to the \"Energy Monitoring\" integration, and on the first tab, you should see your electrical network hierarchy."
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.p, {
+      children: (0,react_jsx_runtime__rspack_import_1.jsx)(_components.img, {
+        alt: "Energy monitoring hierarchy",
+        src: (__webpack_require__(72969)/* ["default"] */.A) + "",
+        width: "2440",
+        height: "1520"
+      })
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.p, {
+      children: "Verify that each device is properly associated with its parent."
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.p, {
+      children: "In Gladys logic, a device's \"parent\" corresponds to what the device is plugged into."
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.p, {
+      children: "An example hierarchy:"
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.pre, {
+      children: (0,react_jsx_runtime__rspack_import_1.jsx)(_components.code, {
+        children: "- Electricity meter\n  - NOUS A1Z plug (Energy consumed)\n     - NOUS A1Z plug (30-minute consumption)\n        - NOUS A1Z plug (30-minute cost)\n"
+      })
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.p, {
+      children: "The hierarchy is very important for Gladys to correctly calculate your consumption cost."
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.h3, {
+      id: "step-6-recalculate-all-historical-consumption",
+      children: "Step 6: Recalculate all historical consumption"
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.p, {
+      children: "If your devices have consumption history, you can launch a recalculation of historical 30-minute consumption and 30-minute costs from the \"Settings\" tab:"
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.p, {
+      children: (0,react_jsx_runtime__rspack_import_1.jsx)(_components.img, {
+        alt: "Recalculate historical consumption",
+        src: (__webpack_require__(52329)/* ["default"] */.A) + "",
+        width: "2558",
+        height: "832"
+      })
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.p, {
+      children: "First click on the first button to calculate consumption from indexes, then click on the second button to calculate 30-minute costs."
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.h3, {
+      id: "step-7-display-your-consumption-on-the-dashboard",
+      children: "Step 7: Display your consumption on the dashboard"
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.p, {
+      children: "On your dashboard, you can now add a new \"Energy Consumption\" widget:"
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.p, {
+      children: (0,react_jsx_runtime__rspack_import_1.jsx)(_components.img, {
+        alt: "Dashboard energy widget",
+        src: (__webpack_require__(4886)/* ["default"] */.A) + "",
+        width: "1130",
+        height: "1132"
+      })
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.p, {
+      children: "You can display your consumption:"
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.p, {
+      children: (0,react_jsx_runtime__rspack_import_1.jsx)(_components.img, {
+        alt: "Energy monitoring chart",
+        src: (__webpack_require__(65099)/* ["default"] */.A) + "",
+        width: "1214",
+        height: "1018"
+      })
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.p, {
+      children: "You can also display each device individually, for example my washing machine:"
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.p, {
+      children: (0,react_jsx_runtime__rspack_import_1.jsx)(_components.img, {
+        alt: "Energy monitoring chart",
+        src: (__webpack_require__(59759)/* ["default"] */.A) + "",
+        width: "1196",
+        height: "1008"
+      })
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.h2, {
+      id: "feedback",
+      children: "Feedback?"
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsxs)(_components.p, {
+      children: ["This feature is brand new. If you have questions or feedback, feel free to post a message ", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.a, {
+        href: "https://community.gladysassistant.com/",
+        children: "on the forum"
+      }), "."]
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.p, {
+      children: "I'd like to thank Thomas Lemaistre, who funded this development and allowed me to bring it to life!"
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.p, {
+      children: "If in the future you'd like to see major developments like this one in Gladys, know that I'm available for feature sponsoring."
+    })]
+  });
+}
+function MDXContent(props = {}) {
+  const {wrapper: MDXLayout} = {
+    ...(0,_mdx_js_react__rspack_import_2/* .useMDXComponents */.R)(),
+    ...props.components
+  };
+  return MDXLayout ? (0,react_jsx_runtime__rspack_import_1.jsx)(MDXLayout, {
+    ...props,
+    children: (0,react_jsx_runtime__rspack_import_1.jsx)(_createMdxContent, {
+      ...props
+    })
+  }) : _createMdxContent(props);
+}
+
+
+
+},
+4886(__unused_rspack_module, __webpack_exports__, __webpack_require__) {
+__webpack_require__.d(__webpack_exports__, {
+  A: () => (__rspack_default_export)
+});
+/* export default */ const __rspack_default_export = (__webpack_require__.p + "assets/images/dashboard-energy-widget-10fe173da1a297a8e05e087aa81eb4f9.png");
+
+},
+59759(__unused_rspack_module, __webpack_exports__, __webpack_require__) {
+__webpack_require__.d(__webpack_exports__, {
+  A: () => (__rspack_default_export)
+});
+/* export default */ const __rspack_default_export = (__webpack_require__.p + "assets/images/dashboard-washing-machine-widget-c93fd69f45042ffbb8caf9fb67acbdd6.png");
+
+},
+65099(__unused_rspack_module, __webpack_exports__, __webpack_require__) {
+__webpack_require__.d(__webpack_exports__, {
+  A: () => (__rspack_default_export)
+});
+/* export default */ const __rspack_default_export = (__webpack_require__.p + "assets/images/dashoard-zlinky-widget-59f52f6c64ac35b02aad233a5661e64a.png");
+
+},
+87107(__unused_rspack_module, __webpack_exports__, __webpack_require__) {
+__webpack_require__.d(__webpack_exports__, {
+  A: () => (__rspack_default_export)
+});
+/* export default */ const __rspack_default_export = (__webpack_require__.p + "assets/images/energy-monitoring-contract-list-0eb432196823cd49d8495651d55c210d.png");
+
+},
+11455(__unused_rspack_module, __webpack_exports__, __webpack_require__) {
+__webpack_require__.d(__webpack_exports__, {
+  A: () => (__rspack_default_export)
+});
+/* export default */ const __rspack_default_export = (__webpack_require__.p + "assets/images/energy-monitoring-create-price-import-contract-abe35902c8991758da9c91245c54193d.png");
+
+},
+42626(__unused_rspack_module, __webpack_exports__, __webpack_require__) {
+__webpack_require__.d(__webpack_exports__, {
+  A: () => (__rspack_default_export)
+});
+/* export default */ const __rspack_default_export = (__webpack_require__.p + "assets/images/energy-monitoring-create-price-fb84be6adfda612823ff72b8a2f7c5d4.png");
+
+},
+72969(__unused_rspack_module, __webpack_exports__, __webpack_require__) {
+__webpack_require__.d(__webpack_exports__, {
+  A: () => (__rspack_default_export)
+});
+/* export default */ const __rspack_default_export = (__webpack_require__.p + "assets/images/energy-monitoring-hiearchy-f79d831239c3edd84f5655b0fbfd7fc8.png");
+
+},
+52329(__unused_rspack_module, __webpack_exports__, __webpack_require__) {
+__webpack_require__.d(__webpack_exports__, {
+  A: () => (__rspack_default_export)
+});
+/* export default */ const __rspack_default_export = (__webpack_require__.p + "assets/images/energy-monitoring-settings-9bff8aff98498213729d7affbc4909f8.png");
+
+},
+37951(__unused_rspack_module, __webpack_exports__, __webpack_require__) {
+__webpack_require__.d(__webpack_exports__, {
+  A: () => (__rspack_default_export)
+});
+/* export default */ const __rspack_default_export = (__webpack_require__.p + "assets/images/mqtt-create-features-08bd93fa3fd26126c139259b2de6de1c.png");
+
+},
+49481(__unused_rspack_module, __webpack_exports__, __webpack_require__) {
+__webpack_require__.d(__webpack_exports__, {
+  A: () => (__rspack_default_export)
+});
+/* export default */ const __rspack_default_export = (__webpack_require__.p + "assets/images/zigbee2mqtt-upgrade-7a74f9e0eef1ace93fb1a9e01aceff86.png");
+
+},
+28453(__unused_rspack___webpack_module__, __webpack_exports__, __webpack_require__) {
+__webpack_require__.d(__webpack_exports__, {
+  R: () => (useMDXComponents),
+  x: () => (MDXProvider)
+});
+/* import */ var react__rspack_import_0 = __webpack_require__(96540);
+/**
+ * @import {MDXComponents} from 'mdx/types.js'
+ * @import {Component, ReactElement, ReactNode} from 'react'
+ */
+
+/**
+ * @callback MergeComponents
+ *   Custom merge function.
+ * @param {Readonly<MDXComponents>} currentComponents
+ *   Current components from the context.
+ * @returns {MDXComponents}
+ *   Additional components.
+ *
+ * @typedef Props
+ *   Configuration for `MDXProvider`.
+ * @property {ReactNode | null | undefined} [children]
+ *   Children (optional).
+ * @property {Readonly<MDXComponents> | MergeComponents | null | undefined} [components]
+ *   Additional components to use or a function that creates them (optional).
+ * @property {boolean | null | undefined} [disableParentContext=false]
+ *   Turn off outer component context (default: `false`).
+ */
+
+
+
+/** @type {Readonly<MDXComponents>} */
+const emptyComponents = {}
+
+const MDXContext = react__rspack_import_0.createContext(emptyComponents)
+
+/**
+ * Get current components from the MDX Context.
+ *
+ * @param {Readonly<MDXComponents> | MergeComponents | null | undefined} [components]
+ *   Additional components to use or a function that creates them (optional).
+ * @returns {MDXComponents}
+ *   Current components.
+ */
+function useMDXComponents(components) {
+  const contextComponents = react__rspack_import_0.useContext(MDXContext)
+
+  // Memoize to avoid unnecessary top-level context changes
+  return react__rspack_import_0.useMemo(
+    function () {
+      // Custom merge via a function prop
+      if (typeof components === 'function') {
+        return components(contextComponents)
+      }
+
+      return {...contextComponents, ...components}
+    },
+    [contextComponents, components]
+  )
+}
+
+/**
+ * Provider for MDX context.
+ *
+ * @param {Readonly<Props>} properties
+ *   Properties.
+ * @returns {ReactElement}
+ *   Element.
+ * @satisfies {Component}
+ */
+function MDXProvider(properties) {
+  /** @type {Readonly<MDXComponents>} */
+  let allComponents
+
+  if (properties.disableParentContext) {
+    allComponents =
+      typeof properties.components === 'function'
+        ? properties.components(emptyComponents)
+        : properties.components || emptyComponents
+  } else {
+    allComponents = useMDXComponents(properties.components)
+  }
+
+  return react__rspack_import_0.createElement(
+    MDXContext.Provider,
+    {value: allComponents},
+    properties.children
+  )
+}
+
+
+},
+21462(module) {
+module.exports = JSON.parse('{"id":"integrations/energy-monitoring","title":"Monitor your energy consumption in Gladys Assistant","description":"The \\"Energy Monitoring\\" integration allows you to track your energy consumption with Gladys Assistant.","source":"@site/docs/integrations/energy-monitoring.md","sourceDirName":"integrations","slug":"/integrations/energy-monitoring","permalink":"/zh-Hans/docs/integrations/energy-monitoring","draft":false,"unlisted":false,"editUrl":"https://github.com/GladysAssistant/v4-website/edit/master/docs/integrations/energy-monitoring.md","tags":[],"version":"current","frontMatter":{"id":"energy-monitoring","title":"Monitor your energy consumption in Gladys Assistant","sidebar_label":"Energy Monitoring"},"sidebar":"docs","previous":{"title":"Enedis","permalink":"/zh-Hans/docs/integrations/enedis"},"next":{"title":"Free Mobile","permalink":"/zh-Hans/docs/integrations/free-mobile"}}')
+
+},
+
+};
+;

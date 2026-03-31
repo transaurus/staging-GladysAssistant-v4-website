@@ -1,0 +1,7987 @@
+exports.ids = ["106"];
+exports.modules = {
+9866(module) {
+// Exports
+module.exports = {
+	"admonition": `admonition_xJq3`,
+	"admonitionHeading": `admonitionHeading_Gvgb`,
+	"admonitionIcon": `admonitionIcon_Rf37`,
+	"admonitionContent": `admonitionContent_BuS1`
+};
+
+
+},
+21271(module) {
+// Exports
+module.exports = {
+	"copyButtonCopied": `copyButtonCopied_Vdqa`,
+	"copyButtonIcons": `copyButtonIcons_IEyt`,
+	"copyButtonIcon": `copyButtonIcon_TrPX`,
+	"copyButtonSuccessIcon": `copyButtonSuccessIcon_cVMy`
+};
+
+
+},
+68988(module) {
+// Exports
+module.exports = {
+	"wordWrapButtonIcon": `wordWrapButtonIcon_b1P5`,
+	"wordWrapButtonEnabled": `wordWrapButtonEnabled_uzNF`
+};
+
+
+},
+37713(module) {
+// Exports
+module.exports = {
+	"buttonGroup": `buttonGroup_M5ko`
+};
+
+
+},
+72059(module) {
+// Exports
+module.exports = {
+	"codeBlockContainer": `codeBlockContainer_Ckt0`
+};
+
+
+},
+19641(module) {
+// Exports
+module.exports = {
+	"codeBlock": `codeBlock_bY9V`,
+	"codeBlockStandalone": `codeBlockStandalone_MEMb`,
+	"codeBlockLines": `codeBlockLines_e6Vv`,
+	"codeBlockLinesWithNumbering": `codeBlockLinesWithNumbering_o6Pm`
+};
+
+
+},
+96524(module) {
+// Exports
+module.exports = {
+	"codeBlockContent": `codeBlockContent_QJqH`,
+	"codeBlockTitle": `codeBlockTitle_OeMC`,
+	"codeBlock": `codeBlock_a8dz`
+};
+
+
+},
+88400(module) {
+// Exports
+module.exports = {
+	"codeLine": `codeLine_lJS_`,
+	"codeLineNumber": `codeLineNumber_Tfdd`,
+	"codeLineContent": `codeLineContent_feaV`
+};
+
+
+},
+40007(module) {
+// Exports
+module.exports = {
+	"details": `details_b_Ee`
+};
+
+
+},
+53428(module) {
+// Exports
+module.exports = {
+	"breadcrumbHomeIcon": `breadcrumbHomeIcon_YNFT`
+};
+
+
+},
+11735(module) {
+// Exports
+module.exports = {
+	"breadcrumbsContainer": `breadcrumbsContainer_Z_bl`
+};
+
+
+},
+20443(module) {
+// Exports
+module.exports = {
+	"docItemContainer": `docItemContainer_Djhp`,
+	"docItemCol": `docItemCol_VOVn`
+};
+
+
+},
+50870(module) {
+// Exports
+module.exports = {
+	"tocMobile": `tocMobile_ITEo`
+};
+
+
+},
+52172(module) {
+// Exports
+module.exports = {
+	"lastUpdated": `lastUpdated_JAkA`,
+	"noPrint": `noPrint_WFHX`
+};
+
+
+},
+76079(module) {
+// Exports
+module.exports = {
+	"iconEdit": `iconEdit_Z9Sw`
+};
+
+
+},
+12052(module) {
+// Exports
+module.exports = {
+	"img": `img_ev3q`
+};
+
+
+},
+53812(module) {
+// Exports
+module.exports = {
+	"containsTaskList": `containsTaskList_mC6p`
+};
+
+
+},
+60643(module) {
+// Exports
+module.exports = {
+	"tableOfContents": `tableOfContents_bqdL`,
+	"docItemContainer": `docItemContainer_F8PC`
+};
+
+
+},
+49957(module) {
+// Exports
+module.exports = {
+	"tocCollapsibleButton": `tocCollapsibleButton_TO0P`,
+	"tocCollapsibleButtonExpanded": `tocCollapsibleButtonExpanded_MG3E`
+};
+
+
+},
+90133(module) {
+// Exports
+module.exports = {
+	"tocCollapsible": `tocCollapsible_ETCw`,
+	"tocCollapsibleContent": `tocCollapsibleContent_vkbj`,
+	"tocCollapsibleExpanded": `tocCollapsibleExpanded_sAul`
+};
+
+
+},
+19405(module) {
+// Exports
+module.exports = {
+	"tag": `tag_zVej`,
+	"tagRegular": `tagRegular_sFm0`,
+	"tagWithCount": `tagWithCount_h2kH`
+};
+
+
+},
+88435(module) {
+// Exports
+module.exports = {
+	"tags": `tags_jXut`,
+	"tag": `tag_QGVx`
+};
+
+
+},
+3079(module) {
+// Exports
+module.exports = {
+	"details": `details_lb9f`,
+	"isBrowser": `isBrowser_bmU9`,
+	"collapsibleContent": `collapsibleContent_i85q`
+};
+
+
+},
+25340(module) {
+// Exports
+module.exports = {
+	"heroBanner": `heroBanner_TLEu`,
+	"flexContainer": `flexContainer_gKUO`,
+	"heroTitle": `heroTitle_z8ps`,
+	"heroSubtitle": `heroSubtitle_Yw5z`,
+	"heroButton": `heroButton_W_9H`,
+	"heroImg": `heroImg_DKQO`,
+	"container": `container_B3Nz`,
+	"homeSection": `homeSection_C6rJ`,
+	"secondaryTitle": `secondaryTitle_z2Oe`,
+	"coolFeatureFlexContainer": `coolFeatureFlexContainer_MkEK`,
+	"coolFeatureItem": `coolFeatureItem_Wwj_`,
+	"coolFeatureVideoPlayer": `coolFeatureVideoPlayer_ou68`,
+	"coolFeatureVideoPausedOverlay": `coolFeatureVideoPausedOverlay_gfs_`,
+	"coolFeatureVideoPausedOverlaySvg": `coolFeatureVideoPausedOverlaySvg_mVFe`,
+	"coolFeatureFlexContainerToReverse": `coolFeatureFlexContainerToReverse_Jb5t`,
+	"compatibilitiesSection": `compatibilitiesSection_PaFV`,
+	"compatibilitiesRow": `compatibilitiesRow_pINf`,
+	"compatibilitiesCol": `compatibilitiesCol__CYL`,
+	"featureFlexContainer": `featureFlexContainer_ewYV`,
+	"feature": `feature_mGx4`,
+	"testimonialContainer": `testimonialContainer_fQ26`,
+	"faqRows": `faqRows_vnG3`,
+	"youtubeVideoSection": `youtubeVideoSection_HPB6`,
+	"homeYouTubeVideoTitle": `homeYouTubeVideoTitle_talW`,
+	"newsletterSection": `newsletterSection_VMUP`,
+	"newsletterSectionInputCol": `newsletterSectionInputCol_wyow`
+};
+
+
+},
+18426(module, exports) {
+/**
+ * @param {string} string    The string to parse
+ * @returns {Array<number>}  Returns an energetic array.
+ */
+function parsePart(string) {
+  let res = [];
+  let m;
+
+  for (let str of string.split(",").map((str) => str.trim())) {
+    // just a number
+    if (/^-?\d+$/.test(str)) {
+      res.push(parseInt(str, 10));
+    } else if (
+      (m = str.match(/^(-?\d+)(-|\.\.\.?|\u2025|\u2026|\u22EF)(-?\d+)$/))
+    ) {
+      // 1-5 or 1..5 (equivalent) or 1...5 (doesn't include 5)
+      let [_, lhs, sep, rhs] = m;
+
+      if (lhs && rhs) {
+        lhs = parseInt(lhs);
+        rhs = parseInt(rhs);
+        const incr = lhs < rhs ? 1 : -1;
+
+        // Make it inclusive by moving the right 'stop-point' away by one.
+        if (sep === "-" || sep === ".." || sep === "\u2025") rhs += incr;
+
+        for (let i = lhs; i !== rhs; i += incr) res.push(i);
+      }
+    }
+  }
+
+  return res;
+}
+
+exports["default"] = parsePart;
+module.exports = parsePart;
+
+
+},
+76893(__unused_rspack_module, __webpack_exports__, __webpack_require__) {
+"use strict";
+__webpack_require__.d(__webpack_exports__, {
+  A: () => (BrowserOnly)
+});
+/* import */ var react_jsx_runtime__rspack_import_0 = __webpack_require__(74848);
+/* import */ var react__rspack_import_1 = __webpack_require__(96540);
+/* import */ var _docusaurus_useIsBrowser__rspack_import_2 = __webpack_require__(88094);
+/**
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */ function _type_of(obj) {
+    "@swc/helpers - typeof";
+    return obj && typeof Symbol !== "undefined" && obj.constructor === Symbol ? "symbol" : typeof obj;
+}
+
+
+
+// Similar comp to the one described here:
+// https://www.joshwcomeau.com/react/the-perils-of-rehydration/#abstractions
+function BrowserOnly(param) {
+    var children = param.children, fallback = param.fallback;
+    var isBrowser = (0,_docusaurus_useIsBrowser__rspack_import_2/* ["default"] */.A)();
+    if (isBrowser) {
+        if (typeof children !== 'function' && "production" === 'development') {}
+        return /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)(react_jsx_runtime__rspack_import_0.Fragment, {
+            children: children === null || children === void 0 ? void 0 : children()
+        });
+    }
+    return fallback !== null && fallback !== void 0 ? fallback : null;
+}
+
+
+},
+41327(__unused_rspack_module, __webpack_exports__, __webpack_require__) {
+"use strict";
+__webpack_require__.d(__webpack_exports__, {
+  A: () => (/* export default binding */ __rspack_default_export)
+});
+/**
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */ /* export default */ function __rspack_default_export() {
+    return null;
+};
+
+
+},
+36631(__unused_rspack_module, __webpack_exports__, __webpack_require__) {
+"use strict";
+__webpack_require__.d(__webpack_exports__, {
+  _: () => (DocProvider),
+  u: () => (useDoc)
+});
+/* import */ var react_jsx_runtime__rspack_import_0 = __webpack_require__(74848);
+/* import */ var react__rspack_import_1 = __webpack_require__(96540);
+/* import */ var _docusaurus_theme_common_internal__rspack_import_2 = __webpack_require__(25511);
+/**
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */ 
+
+
+var Context = /*#__PURE__*/ react__rspack_import_1.createContext(null);
+/**
+ * Note: we don't use `PropDoc` as context value on purpose. Metadata is
+ * currently stored inside the MDX component, but we may want to change that in
+ * the future. This layer is a good opportunity to decouple storage from
+ * consuming API, potentially allowing us to provide metadata as both props and
+ * route context without duplicating the chunks in the future.
+ */ function useContextValue(content) {
+    return (0,react__rspack_import_1.useMemo)(function() {
+        return {
+            metadata: content.metadata,
+            frontMatter: content.frontMatter,
+            assets: content.assets,
+            contentTitle: content.contentTitle,
+            toc: content.toc
+        };
+    }, [
+        content
+    ]);
+}
+/**
+ * This is a very thin layer around the `content` received from the MDX loader.
+ * It provides metadata about the doc to the children tree.
+ */ function DocProvider(param) {
+    var children = param.children, content = param.content;
+    var contextValue = useContextValue(content);
+    return /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)(Context.Provider, {
+        value: contextValue,
+        children: children
+    });
+}
+/**
+ * Returns the data of the currently browsed doc. Gives access to the doc's MDX
+ * Component, front matter, metadata, TOC, etc. When swizzling a low-level
+ * component (e.g. the "Edit this page" link) and you need some extra metadata,
+ * you don't have to drill the props all the way through the component tree:
+ * simply use this hook instead.
+ */ function useDoc() {
+    var doc = (0,react__rspack_import_1.useContext)(Context);
+    if (doc === null) {
+        throw new _docusaurus_theme_common_internal__rspack_import_2/* .ReactContextError */.dV('DocProvider');
+    }
+    return doc;
+}
+
+
+},
+4917(__unused_rspack_module, __webpack_exports__, __webpack_require__) {
+"use strict";
+__webpack_require__.d(__webpack_exports__, {
+  D: () => (useBreadcrumbsStructuredData)
+});
+/* import */ var _docusaurus_useDocusaurusContext__rspack_import_0 = __webpack_require__(19087);
+/**
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */ 
+function useBreadcrumbsStructuredData(param) {
+    var breadcrumbs = param.breadcrumbs;
+    var siteConfig = (0,_docusaurus_useDocusaurusContext__rspack_import_0/* ["default"] */.A)().siteConfig;
+    return {
+        '@context': 'https://schema.org',
+        '@type': 'BreadcrumbList',
+        itemListElement: breadcrumbs// We filter breadcrumb items without links, they are not allowed
+        // See also https://github.com/facebook/docusaurus/issues/9319#issuecomment-2643560845
+        .filter(function(breadcrumb) {
+            return breadcrumb.href;
+        }).map(function(breadcrumb, index) {
+            return {
+                '@type': 'ListItem',
+                position: index + 1,
+                name: breadcrumb.label,
+                item: "".concat(siteConfig.url).concat(breadcrumb.href)
+            };
+        })
+    };
+}
+
+
+},
+84832(__unused_rspack_module, __webpack_exports__, __webpack_require__) {
+"use strict";
+__webpack_require__.d(__webpack_exports__, {
+  A: () => (AdmonitionIconDanger)
+});
+/* import */ var react_jsx_runtime__rspack_import_0 = __webpack_require__(74848);
+/* import */ var react__rspack_import_1 = __webpack_require__(96540);
+/**
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */ function _define_property(obj, key, value) {
+    if (key in obj) {
+        Object.defineProperty(obj, key, {
+            value: value,
+            enumerable: true,
+            configurable: true,
+            writable: true
+        });
+    } else {
+        obj[key] = value;
+    }
+    return obj;
+}
+function _object_spread(target) {
+    for(var i = 1; i < arguments.length; i++){
+        var source = arguments[i] != null ? arguments[i] : {};
+        var ownKeys = Object.keys(source);
+        if (typeof Object.getOwnPropertySymbols === "function") {
+            ownKeys = ownKeys.concat(Object.getOwnPropertySymbols(source).filter(function(sym) {
+                return Object.getOwnPropertyDescriptor(source, sym).enumerable;
+            }));
+        }
+        ownKeys.forEach(function(key) {
+            _define_property(target, key, source[key]);
+        });
+    }
+    return target;
+}
+function ownKeys(object, enumerableOnly) {
+    var keys = Object.keys(object);
+    if (Object.getOwnPropertySymbols) {
+        var symbols = Object.getOwnPropertySymbols(object);
+        if (enumerableOnly) {
+            symbols = symbols.filter(function(sym) {
+                return Object.getOwnPropertyDescriptor(object, sym).enumerable;
+            });
+        }
+        keys.push.apply(keys, symbols);
+    }
+    return keys;
+}
+function _object_spread_props(target, source) {
+    source = source != null ? source : {};
+    if (Object.getOwnPropertyDescriptors) {
+        Object.defineProperties(target, Object.getOwnPropertyDescriptors(source));
+    } else {
+        ownKeys(Object(source)).forEach(function(key) {
+            Object.defineProperty(target, key, Object.getOwnPropertyDescriptor(source, key));
+        });
+    }
+    return target;
+}
+
+
+function AdmonitionIconDanger(props) {
+    return /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)("svg", _object_spread_props(_object_spread({
+        viewBox: "0 0 12 16"
+    }, props), {
+        children: /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)("path", {
+            fillRule: "evenodd",
+            d: "M5.05.31c.81 2.17.41 3.38-.52 4.31C3.55 5.67 1.98 6.45.9 7.98c-1.45 2.05-1.7 6.53 3.53 7.7-2.2-1.16-2.67-4.52-.3-6.61-.61 2.03.53 3.33 1.94 2.86 1.39-.47 2.3.53 2.27 1.67-.02.78-.31 1.44-1.13 1.81 3.42-.59 4.78-3.42 4.78-5.56 0-2.84-2.53-3.22-1.25-5.61-1.52.13-2.03 1.13-1.89 2.75.09 1.08-1.02 1.8-1.86 1.33-.67-.41-.66-1.19-.06-1.78C8.18 5.31 8.68 2.45 5.05.32L5.03.3l.02.01z"
+        })
+    }));
+}
+
+
+},
+19443(__unused_rspack_module, __webpack_exports__, __webpack_require__) {
+"use strict";
+__webpack_require__.d(__webpack_exports__, {
+  A: () => (AdmonitionIconInfo)
+});
+/* import */ var react_jsx_runtime__rspack_import_0 = __webpack_require__(74848);
+/* import */ var react__rspack_import_1 = __webpack_require__(96540);
+/**
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */ function _define_property(obj, key, value) {
+    if (key in obj) {
+        Object.defineProperty(obj, key, {
+            value: value,
+            enumerable: true,
+            configurable: true,
+            writable: true
+        });
+    } else {
+        obj[key] = value;
+    }
+    return obj;
+}
+function _object_spread(target) {
+    for(var i = 1; i < arguments.length; i++){
+        var source = arguments[i] != null ? arguments[i] : {};
+        var ownKeys = Object.keys(source);
+        if (typeof Object.getOwnPropertySymbols === "function") {
+            ownKeys = ownKeys.concat(Object.getOwnPropertySymbols(source).filter(function(sym) {
+                return Object.getOwnPropertyDescriptor(source, sym).enumerable;
+            }));
+        }
+        ownKeys.forEach(function(key) {
+            _define_property(target, key, source[key]);
+        });
+    }
+    return target;
+}
+function ownKeys(object, enumerableOnly) {
+    var keys = Object.keys(object);
+    if (Object.getOwnPropertySymbols) {
+        var symbols = Object.getOwnPropertySymbols(object);
+        if (enumerableOnly) {
+            symbols = symbols.filter(function(sym) {
+                return Object.getOwnPropertyDescriptor(object, sym).enumerable;
+            });
+        }
+        keys.push.apply(keys, symbols);
+    }
+    return keys;
+}
+function _object_spread_props(target, source) {
+    source = source != null ? source : {};
+    if (Object.getOwnPropertyDescriptors) {
+        Object.defineProperties(target, Object.getOwnPropertyDescriptors(source));
+    } else {
+        ownKeys(Object(source)).forEach(function(key) {
+            Object.defineProperty(target, key, Object.getOwnPropertyDescriptor(source, key));
+        });
+    }
+    return target;
+}
+
+
+function AdmonitionIconInfo(props) {
+    return /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)("svg", _object_spread_props(_object_spread({
+        viewBox: "0 0 14 16"
+    }, props), {
+        children: /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)("path", {
+            fillRule: "evenodd",
+            d: "M7 2.3c3.14 0 5.7 2.56 5.7 5.7s-2.56 5.7-5.7 5.7A5.71 5.71 0 0 1 1.3 8c0-3.14 2.56-5.7 5.7-5.7zM7 1C3.14 1 0 4.14 0 8s3.14 7 7 7 7-3.14 7-7-3.14-7-7-7zm1 3H6v5h2V4zm0 6H6v2h2v-2z"
+        })
+    }));
+}
+
+
+},
+87467(__unused_rspack_module, __webpack_exports__, __webpack_require__) {
+"use strict";
+__webpack_require__.d(__webpack_exports__, {
+  A: () => (AdmonitionIconNote)
+});
+/* import */ var react_jsx_runtime__rspack_import_0 = __webpack_require__(74848);
+/* import */ var react__rspack_import_1 = __webpack_require__(96540);
+/**
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */ function _define_property(obj, key, value) {
+    if (key in obj) {
+        Object.defineProperty(obj, key, {
+            value: value,
+            enumerable: true,
+            configurable: true,
+            writable: true
+        });
+    } else {
+        obj[key] = value;
+    }
+    return obj;
+}
+function _object_spread(target) {
+    for(var i = 1; i < arguments.length; i++){
+        var source = arguments[i] != null ? arguments[i] : {};
+        var ownKeys = Object.keys(source);
+        if (typeof Object.getOwnPropertySymbols === "function") {
+            ownKeys = ownKeys.concat(Object.getOwnPropertySymbols(source).filter(function(sym) {
+                return Object.getOwnPropertyDescriptor(source, sym).enumerable;
+            }));
+        }
+        ownKeys.forEach(function(key) {
+            _define_property(target, key, source[key]);
+        });
+    }
+    return target;
+}
+function ownKeys(object, enumerableOnly) {
+    var keys = Object.keys(object);
+    if (Object.getOwnPropertySymbols) {
+        var symbols = Object.getOwnPropertySymbols(object);
+        if (enumerableOnly) {
+            symbols = symbols.filter(function(sym) {
+                return Object.getOwnPropertyDescriptor(object, sym).enumerable;
+            });
+        }
+        keys.push.apply(keys, symbols);
+    }
+    return keys;
+}
+function _object_spread_props(target, source) {
+    source = source != null ? source : {};
+    if (Object.getOwnPropertyDescriptors) {
+        Object.defineProperties(target, Object.getOwnPropertyDescriptors(source));
+    } else {
+        ownKeys(Object(source)).forEach(function(key) {
+            Object.defineProperty(target, key, Object.getOwnPropertyDescriptor(source, key));
+        });
+    }
+    return target;
+}
+
+
+function AdmonitionIconNote(props) {
+    return /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)("svg", _object_spread_props(_object_spread({
+        viewBox: "0 0 14 16"
+    }, props), {
+        children: /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)("path", {
+            fillRule: "evenodd",
+            d: "M6.3 5.69a.942.942 0 0 1-.28-.7c0-.28.09-.52.28-.7.19-.18.42-.28.7-.28.28 0 .52.09.7.28.18.19.28.42.28.7 0 .28-.09.52-.28.7a1 1 0 0 1-.7.3c-.28 0-.52-.11-.7-.3zM8 7.99c-.02-.25-.11-.48-.31-.69-.2-.19-.42-.3-.69-.31H6c-.27.02-.48.13-.69.31-.2.2-.3.44-.31.69h1v3c.02.27.11.5.31.69.2.2.42.31.69.31h1c.27 0 .48-.11.69-.31.2-.19.3-.42.31-.69H8V7.98v.01zM7 2.3c-3.14 0-5.7 2.54-5.7 5.68 0 3.14 2.56 5.7 5.7 5.7s5.7-2.55 5.7-5.7c0-3.15-2.56-5.69-5.7-5.69v.01zM7 .98c3.86 0 7 3.14 7 7s-3.14 7-7 7-7-3.12-7-7 3.14-7 7-7z"
+        })
+    }));
+}
+
+
+},
+96918(__unused_rspack_module, __webpack_exports__, __webpack_require__) {
+"use strict";
+__webpack_require__.d(__webpack_exports__, {
+  A: () => (AdmonitionIconTip)
+});
+/* import */ var react_jsx_runtime__rspack_import_0 = __webpack_require__(74848);
+/* import */ var react__rspack_import_1 = __webpack_require__(96540);
+/**
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */ function _define_property(obj, key, value) {
+    if (key in obj) {
+        Object.defineProperty(obj, key, {
+            value: value,
+            enumerable: true,
+            configurable: true,
+            writable: true
+        });
+    } else {
+        obj[key] = value;
+    }
+    return obj;
+}
+function _object_spread(target) {
+    for(var i = 1; i < arguments.length; i++){
+        var source = arguments[i] != null ? arguments[i] : {};
+        var ownKeys = Object.keys(source);
+        if (typeof Object.getOwnPropertySymbols === "function") {
+            ownKeys = ownKeys.concat(Object.getOwnPropertySymbols(source).filter(function(sym) {
+                return Object.getOwnPropertyDescriptor(source, sym).enumerable;
+            }));
+        }
+        ownKeys.forEach(function(key) {
+            _define_property(target, key, source[key]);
+        });
+    }
+    return target;
+}
+function ownKeys(object, enumerableOnly) {
+    var keys = Object.keys(object);
+    if (Object.getOwnPropertySymbols) {
+        var symbols = Object.getOwnPropertySymbols(object);
+        if (enumerableOnly) {
+            symbols = symbols.filter(function(sym) {
+                return Object.getOwnPropertyDescriptor(object, sym).enumerable;
+            });
+        }
+        keys.push.apply(keys, symbols);
+    }
+    return keys;
+}
+function _object_spread_props(target, source) {
+    source = source != null ? source : {};
+    if (Object.getOwnPropertyDescriptors) {
+        Object.defineProperties(target, Object.getOwnPropertyDescriptors(source));
+    } else {
+        ownKeys(Object(source)).forEach(function(key) {
+            Object.defineProperty(target, key, Object.getOwnPropertyDescriptor(source, key));
+        });
+    }
+    return target;
+}
+
+
+function AdmonitionIconTip(props) {
+    return /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)("svg", _object_spread_props(_object_spread({
+        viewBox: "0 0 12 16"
+    }, props), {
+        children: /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)("path", {
+            fillRule: "evenodd",
+            d: "M6.5 0C3.48 0 1 2.19 1 5c0 .92.55 2.25 1 3 1.34 2.25 1.78 2.78 2 4v1h5v-1c.22-1.22.66-1.75 2-4 .45-.75 1-2.08 1-3 0-2.81-2.48-5-5.5-5zm3.64 7.48c-.25.44-.47.8-.67 1.11-.86 1.41-1.25 2.06-1.45 3.23-.02.05-.02.11-.02.17H5c0-.06 0-.13-.02-.17-.2-1.17-.59-1.83-1.45-3.23-.2-.31-.42-.67-.67-1.11C2.44 6.78 2 5.65 2 5c0-2.2 2.02-4 4.5-4 1.22 0 2.36.42 3.22 1.19C10.55 2.94 11 3.94 11 5c0 .66-.44 1.78-.86 2.48zM4 14h5c-.23 1.14-1.3 2-2.5 2s-2.27-.86-2.5-2z"
+        })
+    }));
+}
+
+
+},
+55187(__unused_rspack_module, __webpack_exports__, __webpack_require__) {
+"use strict";
+__webpack_require__.d(__webpack_exports__, {
+  A: () => (AdmonitionIconCaution)
+});
+/* import */ var react_jsx_runtime__rspack_import_0 = __webpack_require__(74848);
+/* import */ var react__rspack_import_1 = __webpack_require__(96540);
+/**
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */ function _define_property(obj, key, value) {
+    if (key in obj) {
+        Object.defineProperty(obj, key, {
+            value: value,
+            enumerable: true,
+            configurable: true,
+            writable: true
+        });
+    } else {
+        obj[key] = value;
+    }
+    return obj;
+}
+function _object_spread(target) {
+    for(var i = 1; i < arguments.length; i++){
+        var source = arguments[i] != null ? arguments[i] : {};
+        var ownKeys = Object.keys(source);
+        if (typeof Object.getOwnPropertySymbols === "function") {
+            ownKeys = ownKeys.concat(Object.getOwnPropertySymbols(source).filter(function(sym) {
+                return Object.getOwnPropertyDescriptor(source, sym).enumerable;
+            }));
+        }
+        ownKeys.forEach(function(key) {
+            _define_property(target, key, source[key]);
+        });
+    }
+    return target;
+}
+function ownKeys(object, enumerableOnly) {
+    var keys = Object.keys(object);
+    if (Object.getOwnPropertySymbols) {
+        var symbols = Object.getOwnPropertySymbols(object);
+        if (enumerableOnly) {
+            symbols = symbols.filter(function(sym) {
+                return Object.getOwnPropertyDescriptor(object, sym).enumerable;
+            });
+        }
+        keys.push.apply(keys, symbols);
+    }
+    return keys;
+}
+function _object_spread_props(target, source) {
+    source = source != null ? source : {};
+    if (Object.getOwnPropertyDescriptors) {
+        Object.defineProperties(target, Object.getOwnPropertyDescriptors(source));
+    } else {
+        ownKeys(Object(source)).forEach(function(key) {
+            Object.defineProperty(target, key, Object.getOwnPropertyDescriptor(source, key));
+        });
+    }
+    return target;
+}
+
+
+function AdmonitionIconCaution(props) {
+    return /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)("svg", _object_spread_props(_object_spread({
+        viewBox: "0 0 16 16"
+    }, props), {
+        children: /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)("path", {
+            fillRule: "evenodd",
+            d: "M8.893 1.5c-.183-.31-.52-.5-.887-.5s-.703.19-.886.5L.138 13.499a.98.98 0 0 0 0 1.001c.193.31.53.501.886.501h13.964c.367 0 .704-.19.877-.5a1.03 1.03 0 0 0 .01-1.002L8.893 1.5zm.133 11.497H6.987v-2.003h2.039v2.003zm0-3.004H6.987V5.987h2.039v4.006z"
+        })
+    }));
+}
+
+
+},
+28532(__unused_rspack_module, __webpack_exports__, __webpack_require__) {
+"use strict";
+__webpack_require__.d(__webpack_exports__, {
+  A: () => (AdmonitionLayout)
+});
+/* import */ var react_jsx_runtime__rspack_import_0 = __webpack_require__(74848);
+/* import */ var react__rspack_import_1 = __webpack_require__(96540);
+/* import */ var clsx__rspack_import_3 = __webpack_require__(18215);
+/* import */ var _docusaurus_theme_common__rspack_import_4 = __webpack_require__(5678);
+/* import */ var _styles_module_css__rspack_import_2 = __webpack_require__(9866);
+/* import */ var _styles_module_css__rspack_import_2_default = /*#__PURE__*/__webpack_require__.n(_styles_module_css__rspack_import_2);
+/**
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */ 
+
+
+
+
+function AdmonitionContainer(param) {
+    var type = param.type, className = param.className, children = param.children;
+    return /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)("div", {
+        className: (0,clsx__rspack_import_3/* ["default"] */.A)(_docusaurus_theme_common__rspack_import_4/* .ThemeClassNames.common.admonition */.G.common.admonition, _docusaurus_theme_common__rspack_import_4/* .ThemeClassNames.common.admonitionType */.G.common.admonitionType(type), (_styles_module_css__rspack_import_2_default().admonition), className),
+        children: children
+    });
+}
+function AdmonitionHeading(param) {
+    var icon = param.icon, title = param.title;
+    return /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsxs)("div", {
+        className: (_styles_module_css__rspack_import_2_default().admonitionHeading),
+        children: [
+            /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)("span", {
+                className: (_styles_module_css__rspack_import_2_default().admonitionIcon),
+                children: icon
+            }),
+            title
+        ]
+    });
+}
+function AdmonitionContent(param) {
+    var children = param.children;
+    return children ? /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)("div", {
+        className: (_styles_module_css__rspack_import_2_default().admonitionContent),
+        children: children
+    }) : null;
+}
+function AdmonitionLayout(props) {
+    var type = props.type, icon = props.icon, title = props.title, children = props.children, className = props.className;
+    return /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsxs)(AdmonitionContainer, {
+        type: type,
+        className: className,
+        children: [
+            title || icon ? /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)(AdmonitionHeading, {
+                title: title,
+                icon: icon
+            }) : null,
+            /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)(AdmonitionContent, {
+                children: children
+            })
+        ]
+    });
+}
+
+
+},
+34983(__unused_rspack_module, __webpack_exports__, __webpack_require__) {
+"use strict";
+__webpack_require__.d(__webpack_exports__, {
+  A: () => (AdmonitionTypeCaution)
+});
+/* import */ var react_jsx_runtime__rspack_import_0 = __webpack_require__(74848);
+/* import */ var react__rspack_import_1 = __webpack_require__(96540);
+/* import */ var clsx__rspack_import_5 = __webpack_require__(18215);
+/* import */ var _docusaurus_Translate__rspack_import_2 = __webpack_require__(91785);
+/* import */ var _theme_Admonition_Layout__rspack_import_3 = __webpack_require__(28532);
+/* import */ var _theme_Admonition_Icon_Warning__rspack_import_4 = __webpack_require__(55187);
+/**
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */ function _define_property(obj, key, value) {
+    if (key in obj) {
+        Object.defineProperty(obj, key, {
+            value: value,
+            enumerable: true,
+            configurable: true,
+            writable: true
+        });
+    } else {
+        obj[key] = value;
+    }
+    return obj;
+}
+function _object_spread(target) {
+    for(var i = 1; i < arguments.length; i++){
+        var source = arguments[i] != null ? arguments[i] : {};
+        var ownKeys = Object.keys(source);
+        if (typeof Object.getOwnPropertySymbols === "function") {
+            ownKeys = ownKeys.concat(Object.getOwnPropertySymbols(source).filter(function(sym) {
+                return Object.getOwnPropertyDescriptor(source, sym).enumerable;
+            }));
+        }
+        ownKeys.forEach(function(key) {
+            _define_property(target, key, source[key]);
+        });
+    }
+    return target;
+}
+function ownKeys(object, enumerableOnly) {
+    var keys = Object.keys(object);
+    if (Object.getOwnPropertySymbols) {
+        var symbols = Object.getOwnPropertySymbols(object);
+        if (enumerableOnly) {
+            symbols = symbols.filter(function(sym) {
+                return Object.getOwnPropertyDescriptor(object, sym).enumerable;
+            });
+        }
+        keys.push.apply(keys, symbols);
+    }
+    return keys;
+}
+function _object_spread_props(target, source) {
+    source = source != null ? source : {};
+    if (Object.getOwnPropertyDescriptors) {
+        Object.defineProperties(target, Object.getOwnPropertyDescriptors(source));
+    } else {
+        ownKeys(Object(source)).forEach(function(key) {
+            Object.defineProperty(target, key, Object.getOwnPropertyDescriptor(source, key));
+        });
+    }
+    return target;
+}
+
+
+
+
+
+
+var infimaClassName = 'alert alert--warning';
+var defaultProps = {
+    icon: /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)(_theme_Admonition_Icon_Warning__rspack_import_4/* ["default"] */.A, {}),
+    title: /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)(_docusaurus_Translate__rspack_import_2/* ["default"] */.A, {
+        id: "theme.admonition.caution",
+        description: "The default label used for the Caution admonition (:::caution)",
+        children: "caution"
+    })
+};
+// TODO remove before v4: Caution replaced by Warning
+// see https://github.com/facebook/docusaurus/issues/7558
+function AdmonitionTypeCaution(props) {
+    return /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)(_theme_Admonition_Layout__rspack_import_3/* ["default"] */.A, _object_spread_props(_object_spread({}, defaultProps, props), {
+        className: (0,clsx__rspack_import_5/* ["default"] */.A)(infimaClassName, props.className),
+        children: props.children
+    }));
+}
+
+
+},
+23491(__unused_rspack_module, __webpack_exports__, __webpack_require__) {
+"use strict";
+__webpack_require__.d(__webpack_exports__, {
+  A: () => (AdmonitionTypeDanger)
+});
+/* import */ var react_jsx_runtime__rspack_import_0 = __webpack_require__(74848);
+/* import */ var react__rspack_import_1 = __webpack_require__(96540);
+/* import */ var clsx__rspack_import_5 = __webpack_require__(18215);
+/* import */ var _docusaurus_Translate__rspack_import_2 = __webpack_require__(91785);
+/* import */ var _theme_Admonition_Layout__rspack_import_3 = __webpack_require__(28532);
+/* import */ var _theme_Admonition_Icon_Danger__rspack_import_4 = __webpack_require__(84832);
+/**
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */ function _define_property(obj, key, value) {
+    if (key in obj) {
+        Object.defineProperty(obj, key, {
+            value: value,
+            enumerable: true,
+            configurable: true,
+            writable: true
+        });
+    } else {
+        obj[key] = value;
+    }
+    return obj;
+}
+function _object_spread(target) {
+    for(var i = 1; i < arguments.length; i++){
+        var source = arguments[i] != null ? arguments[i] : {};
+        var ownKeys = Object.keys(source);
+        if (typeof Object.getOwnPropertySymbols === "function") {
+            ownKeys = ownKeys.concat(Object.getOwnPropertySymbols(source).filter(function(sym) {
+                return Object.getOwnPropertyDescriptor(source, sym).enumerable;
+            }));
+        }
+        ownKeys.forEach(function(key) {
+            _define_property(target, key, source[key]);
+        });
+    }
+    return target;
+}
+function ownKeys(object, enumerableOnly) {
+    var keys = Object.keys(object);
+    if (Object.getOwnPropertySymbols) {
+        var symbols = Object.getOwnPropertySymbols(object);
+        if (enumerableOnly) {
+            symbols = symbols.filter(function(sym) {
+                return Object.getOwnPropertyDescriptor(object, sym).enumerable;
+            });
+        }
+        keys.push.apply(keys, symbols);
+    }
+    return keys;
+}
+function _object_spread_props(target, source) {
+    source = source != null ? source : {};
+    if (Object.getOwnPropertyDescriptors) {
+        Object.defineProperties(target, Object.getOwnPropertyDescriptors(source));
+    } else {
+        ownKeys(Object(source)).forEach(function(key) {
+            Object.defineProperty(target, key, Object.getOwnPropertyDescriptor(source, key));
+        });
+    }
+    return target;
+}
+
+
+
+
+
+
+var infimaClassName = 'alert alert--danger';
+var defaultProps = {
+    icon: /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)(_theme_Admonition_Icon_Danger__rspack_import_4/* ["default"] */.A, {}),
+    title: /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)(_docusaurus_Translate__rspack_import_2/* ["default"] */.A, {
+        id: "theme.admonition.danger",
+        description: "The default label used for the Danger admonition (:::danger)",
+        children: "danger"
+    })
+};
+function AdmonitionTypeDanger(props) {
+    return /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)(_theme_Admonition_Layout__rspack_import_3/* ["default"] */.A, _object_spread_props(_object_spread({}, defaultProps, props), {
+        className: (0,clsx__rspack_import_5/* ["default"] */.A)(infimaClassName, props.className),
+        children: props.children
+    }));
+}
+
+
+},
+55992(__unused_rspack_module, __webpack_exports__, __webpack_require__) {
+"use strict";
+__webpack_require__.d(__webpack_exports__, {
+  A: () => (AdmonitionTypeInfo)
+});
+/* import */ var react_jsx_runtime__rspack_import_0 = __webpack_require__(74848);
+/* import */ var react__rspack_import_1 = __webpack_require__(96540);
+/* import */ var clsx__rspack_import_5 = __webpack_require__(18215);
+/* import */ var _docusaurus_Translate__rspack_import_2 = __webpack_require__(91785);
+/* import */ var _theme_Admonition_Layout__rspack_import_3 = __webpack_require__(28532);
+/* import */ var _theme_Admonition_Icon_Info__rspack_import_4 = __webpack_require__(19443);
+/**
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */ function _define_property(obj, key, value) {
+    if (key in obj) {
+        Object.defineProperty(obj, key, {
+            value: value,
+            enumerable: true,
+            configurable: true,
+            writable: true
+        });
+    } else {
+        obj[key] = value;
+    }
+    return obj;
+}
+function _object_spread(target) {
+    for(var i = 1; i < arguments.length; i++){
+        var source = arguments[i] != null ? arguments[i] : {};
+        var ownKeys = Object.keys(source);
+        if (typeof Object.getOwnPropertySymbols === "function") {
+            ownKeys = ownKeys.concat(Object.getOwnPropertySymbols(source).filter(function(sym) {
+                return Object.getOwnPropertyDescriptor(source, sym).enumerable;
+            }));
+        }
+        ownKeys.forEach(function(key) {
+            _define_property(target, key, source[key]);
+        });
+    }
+    return target;
+}
+function ownKeys(object, enumerableOnly) {
+    var keys = Object.keys(object);
+    if (Object.getOwnPropertySymbols) {
+        var symbols = Object.getOwnPropertySymbols(object);
+        if (enumerableOnly) {
+            symbols = symbols.filter(function(sym) {
+                return Object.getOwnPropertyDescriptor(object, sym).enumerable;
+            });
+        }
+        keys.push.apply(keys, symbols);
+    }
+    return keys;
+}
+function _object_spread_props(target, source) {
+    source = source != null ? source : {};
+    if (Object.getOwnPropertyDescriptors) {
+        Object.defineProperties(target, Object.getOwnPropertyDescriptors(source));
+    } else {
+        ownKeys(Object(source)).forEach(function(key) {
+            Object.defineProperty(target, key, Object.getOwnPropertyDescriptor(source, key));
+        });
+    }
+    return target;
+}
+
+
+
+
+
+
+var infimaClassName = 'alert alert--info';
+var defaultProps = {
+    icon: /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)(_theme_Admonition_Icon_Info__rspack_import_4/* ["default"] */.A, {}),
+    title: /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)(_docusaurus_Translate__rspack_import_2/* ["default"] */.A, {
+        id: "theme.admonition.info",
+        description: "The default label used for the Info admonition (:::info)",
+        children: "info"
+    })
+};
+function AdmonitionTypeInfo(props) {
+    return /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)(_theme_Admonition_Layout__rspack_import_3/* ["default"] */.A, _object_spread_props(_object_spread({}, defaultProps, props), {
+        className: (0,clsx__rspack_import_5/* ["default"] */.A)(infimaClassName, props.className),
+        children: props.children
+    }));
+}
+
+
+},
+87948(__unused_rspack_module, __webpack_exports__, __webpack_require__) {
+"use strict";
+__webpack_require__.d(__webpack_exports__, {
+  A: () => (AdmonitionTypeNote)
+});
+/* import */ var react_jsx_runtime__rspack_import_0 = __webpack_require__(74848);
+/* import */ var react__rspack_import_1 = __webpack_require__(96540);
+/* import */ var clsx__rspack_import_5 = __webpack_require__(18215);
+/* import */ var _docusaurus_Translate__rspack_import_2 = __webpack_require__(91785);
+/* import */ var _theme_Admonition_Layout__rspack_import_3 = __webpack_require__(28532);
+/* import */ var _theme_Admonition_Icon_Note__rspack_import_4 = __webpack_require__(87467);
+/**
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */ function _define_property(obj, key, value) {
+    if (key in obj) {
+        Object.defineProperty(obj, key, {
+            value: value,
+            enumerable: true,
+            configurable: true,
+            writable: true
+        });
+    } else {
+        obj[key] = value;
+    }
+    return obj;
+}
+function _object_spread(target) {
+    for(var i = 1; i < arguments.length; i++){
+        var source = arguments[i] != null ? arguments[i] : {};
+        var ownKeys = Object.keys(source);
+        if (typeof Object.getOwnPropertySymbols === "function") {
+            ownKeys = ownKeys.concat(Object.getOwnPropertySymbols(source).filter(function(sym) {
+                return Object.getOwnPropertyDescriptor(source, sym).enumerable;
+            }));
+        }
+        ownKeys.forEach(function(key) {
+            _define_property(target, key, source[key]);
+        });
+    }
+    return target;
+}
+function ownKeys(object, enumerableOnly) {
+    var keys = Object.keys(object);
+    if (Object.getOwnPropertySymbols) {
+        var symbols = Object.getOwnPropertySymbols(object);
+        if (enumerableOnly) {
+            symbols = symbols.filter(function(sym) {
+                return Object.getOwnPropertyDescriptor(object, sym).enumerable;
+            });
+        }
+        keys.push.apply(keys, symbols);
+    }
+    return keys;
+}
+function _object_spread_props(target, source) {
+    source = source != null ? source : {};
+    if (Object.getOwnPropertyDescriptors) {
+        Object.defineProperties(target, Object.getOwnPropertyDescriptors(source));
+    } else {
+        ownKeys(Object(source)).forEach(function(key) {
+            Object.defineProperty(target, key, Object.getOwnPropertyDescriptor(source, key));
+        });
+    }
+    return target;
+}
+
+
+
+
+
+
+var infimaClassName = 'alert alert--secondary';
+var defaultProps = {
+    icon: /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)(_theme_Admonition_Icon_Note__rspack_import_4/* ["default"] */.A, {}),
+    title: /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)(_docusaurus_Translate__rspack_import_2/* ["default"] */.A, {
+        id: "theme.admonition.note",
+        description: "The default label used for the Note admonition (:::note)",
+        children: "note"
+    })
+};
+function AdmonitionTypeNote(props) {
+    return /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)(_theme_Admonition_Layout__rspack_import_3/* ["default"] */.A, _object_spread_props(_object_spread({}, defaultProps, props), {
+        className: (0,clsx__rspack_import_5/* ["default"] */.A)(infimaClassName, props.className),
+        children: props.children
+    }));
+}
+
+
+},
+18087(__unused_rspack_module, __webpack_exports__, __webpack_require__) {
+"use strict";
+__webpack_require__.d(__webpack_exports__, {
+  A: () => (AdmonitionTypeTip)
+});
+/* import */ var react_jsx_runtime__rspack_import_0 = __webpack_require__(74848);
+/* import */ var react__rspack_import_1 = __webpack_require__(96540);
+/* import */ var clsx__rspack_import_5 = __webpack_require__(18215);
+/* import */ var _docusaurus_Translate__rspack_import_2 = __webpack_require__(91785);
+/* import */ var _theme_Admonition_Layout__rspack_import_3 = __webpack_require__(28532);
+/* import */ var _theme_Admonition_Icon_Tip__rspack_import_4 = __webpack_require__(96918);
+/**
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */ function _define_property(obj, key, value) {
+    if (key in obj) {
+        Object.defineProperty(obj, key, {
+            value: value,
+            enumerable: true,
+            configurable: true,
+            writable: true
+        });
+    } else {
+        obj[key] = value;
+    }
+    return obj;
+}
+function _object_spread(target) {
+    for(var i = 1; i < arguments.length; i++){
+        var source = arguments[i] != null ? arguments[i] : {};
+        var ownKeys = Object.keys(source);
+        if (typeof Object.getOwnPropertySymbols === "function") {
+            ownKeys = ownKeys.concat(Object.getOwnPropertySymbols(source).filter(function(sym) {
+                return Object.getOwnPropertyDescriptor(source, sym).enumerable;
+            }));
+        }
+        ownKeys.forEach(function(key) {
+            _define_property(target, key, source[key]);
+        });
+    }
+    return target;
+}
+function ownKeys(object, enumerableOnly) {
+    var keys = Object.keys(object);
+    if (Object.getOwnPropertySymbols) {
+        var symbols = Object.getOwnPropertySymbols(object);
+        if (enumerableOnly) {
+            symbols = symbols.filter(function(sym) {
+                return Object.getOwnPropertyDescriptor(object, sym).enumerable;
+            });
+        }
+        keys.push.apply(keys, symbols);
+    }
+    return keys;
+}
+function _object_spread_props(target, source) {
+    source = source != null ? source : {};
+    if (Object.getOwnPropertyDescriptors) {
+        Object.defineProperties(target, Object.getOwnPropertyDescriptors(source));
+    } else {
+        ownKeys(Object(source)).forEach(function(key) {
+            Object.defineProperty(target, key, Object.getOwnPropertyDescriptor(source, key));
+        });
+    }
+    return target;
+}
+
+
+
+
+
+
+var infimaClassName = 'alert alert--success';
+var defaultProps = {
+    icon: /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)(_theme_Admonition_Icon_Tip__rspack_import_4/* ["default"] */.A, {}),
+    title: /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)(_docusaurus_Translate__rspack_import_2/* ["default"] */.A, {
+        id: "theme.admonition.tip",
+        description: "The default label used for the Tip admonition (:::tip)",
+        children: "tip"
+    })
+};
+function AdmonitionTypeTip(props) {
+    return /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)(_theme_Admonition_Layout__rspack_import_3/* ["default"] */.A, _object_spread_props(_object_spread({}, defaultProps, props), {
+        className: (0,clsx__rspack_import_5/* ["default"] */.A)(infimaClassName, props.className),
+        children: props.children
+    }));
+}
+
+
+},
+76346(__unused_rspack_module, __webpack_exports__, __webpack_require__) {
+"use strict";
+__webpack_require__.d(__webpack_exports__, {
+  A: () => (AdmonitionTypeWarning)
+});
+/* import */ var react_jsx_runtime__rspack_import_0 = __webpack_require__(74848);
+/* import */ var react__rspack_import_1 = __webpack_require__(96540);
+/* import */ var clsx__rspack_import_5 = __webpack_require__(18215);
+/* import */ var _docusaurus_Translate__rspack_import_2 = __webpack_require__(91785);
+/* import */ var _theme_Admonition_Layout__rspack_import_3 = __webpack_require__(28532);
+/* import */ var _theme_Admonition_Icon_Warning__rspack_import_4 = __webpack_require__(55187);
+/**
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */ function _define_property(obj, key, value) {
+    if (key in obj) {
+        Object.defineProperty(obj, key, {
+            value: value,
+            enumerable: true,
+            configurable: true,
+            writable: true
+        });
+    } else {
+        obj[key] = value;
+    }
+    return obj;
+}
+function _object_spread(target) {
+    for(var i = 1; i < arguments.length; i++){
+        var source = arguments[i] != null ? arguments[i] : {};
+        var ownKeys = Object.keys(source);
+        if (typeof Object.getOwnPropertySymbols === "function") {
+            ownKeys = ownKeys.concat(Object.getOwnPropertySymbols(source).filter(function(sym) {
+                return Object.getOwnPropertyDescriptor(source, sym).enumerable;
+            }));
+        }
+        ownKeys.forEach(function(key) {
+            _define_property(target, key, source[key]);
+        });
+    }
+    return target;
+}
+function ownKeys(object, enumerableOnly) {
+    var keys = Object.keys(object);
+    if (Object.getOwnPropertySymbols) {
+        var symbols = Object.getOwnPropertySymbols(object);
+        if (enumerableOnly) {
+            symbols = symbols.filter(function(sym) {
+                return Object.getOwnPropertyDescriptor(object, sym).enumerable;
+            });
+        }
+        keys.push.apply(keys, symbols);
+    }
+    return keys;
+}
+function _object_spread_props(target, source) {
+    source = source != null ? source : {};
+    if (Object.getOwnPropertyDescriptors) {
+        Object.defineProperties(target, Object.getOwnPropertyDescriptors(source));
+    } else {
+        ownKeys(Object(source)).forEach(function(key) {
+            Object.defineProperty(target, key, Object.getOwnPropertyDescriptor(source, key));
+        });
+    }
+    return target;
+}
+
+
+
+
+
+
+var infimaClassName = 'alert alert--warning';
+var defaultProps = {
+    icon: /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)(_theme_Admonition_Icon_Warning__rspack_import_4/* ["default"] */.A, {}),
+    title: /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)(_docusaurus_Translate__rspack_import_2/* ["default"] */.A, {
+        id: "theme.admonition.warning",
+        description: "The default label used for the Warning admonition (:::warning)",
+        children: "warning"
+    })
+};
+function AdmonitionTypeWarning(props) {
+    return /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)(_theme_Admonition_Layout__rspack_import_3/* ["default"] */.A, _object_spread_props(_object_spread({}, defaultProps, props), {
+        className: (0,clsx__rspack_import_5/* ["default"] */.A)(infimaClassName, props.className),
+        children: props.children
+    }));
+}
+
+
+},
+45080(__unused_rspack_module, __webpack_exports__, __webpack_require__) {
+"use strict";
+__webpack_require__.d(__webpack_exports__, {
+  A: () => (__rspack_default_export)
+});
+/* import */ var react_jsx_runtime__rspack_import_0 = __webpack_require__(74848);
+/* import */ var react__rspack_import_1 = __webpack_require__(96540);
+/* import */ var _theme_Admonition_Type_Note__rspack_import_2 = __webpack_require__(87948);
+/* import */ var _theme_Admonition_Type_Tip__rspack_import_3 = __webpack_require__(18087);
+/* import */ var _theme_Admonition_Type_Info__rspack_import_4 = __webpack_require__(55992);
+/* import */ var _theme_Admonition_Type_Warning__rspack_import_5 = __webpack_require__(76346);
+/* import */ var _theme_Admonition_Type_Danger__rspack_import_6 = __webpack_require__(23491);
+/* import */ var _theme_Admonition_Type_Caution__rspack_import_7 = __webpack_require__(34983);
+/**
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */ function _define_property(obj, key, value) {
+    if (key in obj) {
+        Object.defineProperty(obj, key, {
+            value: value,
+            enumerable: true,
+            configurable: true,
+            writable: true
+        });
+    } else {
+        obj[key] = value;
+    }
+    return obj;
+}
+function _object_spread(target) {
+    for(var i = 1; i < arguments.length; i++){
+        var source = arguments[i] != null ? arguments[i] : {};
+        var ownKeys = Object.keys(source);
+        if (typeof Object.getOwnPropertySymbols === "function") {
+            ownKeys = ownKeys.concat(Object.getOwnPropertySymbols(source).filter(function(sym) {
+                return Object.getOwnPropertyDescriptor(source, sym).enumerable;
+            }));
+        }
+        ownKeys.forEach(function(key) {
+            _define_property(target, key, source[key]);
+        });
+    }
+    return target;
+}
+
+
+
+
+
+
+
+
+var admonitionTypes = {
+    note: _theme_Admonition_Type_Note__rspack_import_2/* ["default"] */.A,
+    tip: _theme_Admonition_Type_Tip__rspack_import_3/* ["default"] */.A,
+    info: _theme_Admonition_Type_Info__rspack_import_4/* ["default"] */.A,
+    warning: _theme_Admonition_Type_Warning__rspack_import_5/* ["default"] */.A,
+    danger: _theme_Admonition_Type_Danger__rspack_import_6/* ["default"] */.A
+};
+// Undocumented legacy admonition type aliases
+// Provide hardcoded/untranslated retrocompatible label
+// See also https://github.com/facebook/docusaurus/issues/7767
+var admonitionAliases = {
+    secondary: function(props) {
+        return /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)(_theme_Admonition_Type_Note__rspack_import_2/* ["default"] */.A, _object_spread({
+            title: "secondary"
+        }, props));
+    },
+    important: function(props) {
+        return /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)(_theme_Admonition_Type_Info__rspack_import_4/* ["default"] */.A, _object_spread({
+            title: "important"
+        }, props));
+    },
+    success: function(props) {
+        return /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)(_theme_Admonition_Type_Tip__rspack_import_3/* ["default"] */.A, _object_spread({
+            title: "success"
+        }, props));
+    },
+    caution: _theme_Admonition_Type_Caution__rspack_import_7/* ["default"] */.A
+};
+/* export default */ const __rspack_default_export = (_object_spread({}, admonitionTypes, admonitionAliases));
+
+
+},
+12809(__unused_rspack_module, __webpack_exports__, __webpack_require__) {
+"use strict";
+__webpack_require__.d(__webpack_exports__, {
+  A: () => (Admonition)
+});
+/* import */ var react_jsx_runtime__rspack_import_0 = __webpack_require__(74848);
+/* import */ var react__rspack_import_1 = __webpack_require__(96540);
+/* import */ var _docusaurus_theme_common__rspack_import_3 = __webpack_require__(74380);
+/* import */ var _theme_Admonition_Types__rspack_import_2 = __webpack_require__(45080);
+/**
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */ function _define_property(obj, key, value) {
+    if (key in obj) {
+        Object.defineProperty(obj, key, {
+            value: value,
+            enumerable: true,
+            configurable: true,
+            writable: true
+        });
+    } else {
+        obj[key] = value;
+    }
+    return obj;
+}
+function _object_spread(target) {
+    for(var i = 1; i < arguments.length; i++){
+        var source = arguments[i] != null ? arguments[i] : {};
+        var ownKeys = Object.keys(source);
+        if (typeof Object.getOwnPropertySymbols === "function") {
+            ownKeys = ownKeys.concat(Object.getOwnPropertySymbols(source).filter(function(sym) {
+                return Object.getOwnPropertyDescriptor(source, sym).enumerable;
+            }));
+        }
+        ownKeys.forEach(function(key) {
+            _define_property(target, key, source[key]);
+        });
+    }
+    return target;
+}
+
+
+
+
+function getAdmonitionTypeComponent(type) {
+    var component = _theme_Admonition_Types__rspack_import_2/* ["default"] */.A[type];
+    if (component) {
+        return component;
+    }
+    console.warn('No admonition component found for admonition type "'.concat(type, '". Using Info as fallback.'));
+    return _theme_Admonition_Types__rspack_import_2/* ["default"].info */.A.info;
+}
+function Admonition(unprocessedProps) {
+    var props = (0,_docusaurus_theme_common__rspack_import_3/* .processAdmonitionProps */.c)(unprocessedProps);
+    var AdmonitionTypeComponent = getAdmonitionTypeComponent(props.type);
+    return /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)(AdmonitionTypeComponent, _object_spread({}, props));
+}
+
+
+},
+29746(__unused_rspack_module, __webpack_exports__, __webpack_require__) {
+"use strict";
+__webpack_require__.d(__webpack_exports__, {
+  A: () => (CodeBlockButton)
+});
+/* import */ var react_jsx_runtime__rspack_import_0 = __webpack_require__(74848);
+/* import */ var react__rspack_import_1 = __webpack_require__(96540);
+/* import */ var clsx__rspack_import_2 = __webpack_require__(18215);
+/**
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */ function _define_property(obj, key, value) {
+    if (key in obj) {
+        Object.defineProperty(obj, key, {
+            value: value,
+            enumerable: true,
+            configurable: true,
+            writable: true
+        });
+    } else {
+        obj[key] = value;
+    }
+    return obj;
+}
+function _object_spread(target) {
+    for(var i = 1; i < arguments.length; i++){
+        var source = arguments[i] != null ? arguments[i] : {};
+        var ownKeys = Object.keys(source);
+        if (typeof Object.getOwnPropertySymbols === "function") {
+            ownKeys = ownKeys.concat(Object.getOwnPropertySymbols(source).filter(function(sym) {
+                return Object.getOwnPropertyDescriptor(source, sym).enumerable;
+            }));
+        }
+        ownKeys.forEach(function(key) {
+            _define_property(target, key, source[key]);
+        });
+    }
+    return target;
+}
+function ownKeys(object, enumerableOnly) {
+    var keys = Object.keys(object);
+    if (Object.getOwnPropertySymbols) {
+        var symbols = Object.getOwnPropertySymbols(object);
+        if (enumerableOnly) {
+            symbols = symbols.filter(function(sym) {
+                return Object.getOwnPropertyDescriptor(object, sym).enumerable;
+            });
+        }
+        keys.push.apply(keys, symbols);
+    }
+    return keys;
+}
+function _object_spread_props(target, source) {
+    source = source != null ? source : {};
+    if (Object.getOwnPropertyDescriptors) {
+        Object.defineProperties(target, Object.getOwnPropertyDescriptors(source));
+    } else {
+        ownKeys(Object(source)).forEach(function(key) {
+            Object.defineProperty(target, key, Object.getOwnPropertyDescriptor(source, key));
+        });
+    }
+    return target;
+}
+function _object_without_properties(source, excluded) {
+    if (source == null) return {};
+    var target = _object_without_properties_loose(source, excluded);
+    var key, i;
+    if (Object.getOwnPropertySymbols) {
+        var sourceSymbolKeys = Object.getOwnPropertySymbols(source);
+        for(i = 0; i < sourceSymbolKeys.length; i++){
+            key = sourceSymbolKeys[i];
+            if (excluded.indexOf(key) >= 0) continue;
+            if (!Object.prototype.propertyIsEnumerable.call(source, key)) continue;
+            target[key] = source[key];
+        }
+    }
+    return target;
+}
+function _object_without_properties_loose(source, excluded) {
+    if (source == null) return {};
+    var target = {};
+    var sourceKeys = Object.keys(source);
+    var key, i;
+    for(i = 0; i < sourceKeys.length; i++){
+        key = sourceKeys[i];
+        if (excluded.indexOf(key) >= 0) continue;
+        target[key] = source[key];
+    }
+    return target;
+}
+
+
+
+function CodeBlockButton(_param) {
+    var className = _param.className, props = _object_without_properties(_param, [
+        "className"
+    ]);
+    return /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)("button", _object_spread_props(_object_spread({
+        type: "button"
+    }, props), {
+        className: (0,clsx__rspack_import_2/* ["default"] */.A)('clean-btn', className)
+    }));
+}
+
+
+},
+32191(__unused_rspack_module, __webpack_exports__, __webpack_require__) {
+"use strict";
+__webpack_require__.d(__webpack_exports__, {
+  A: () => (CopyButton)
+});
+/* import */ var react_jsx_runtime__rspack_import_0 = __webpack_require__(74848);
+/* import */ var react__rspack_import_1 = __webpack_require__(96540);
+/* import */ var clsx__rspack_import_8 = __webpack_require__(18215);
+/* import */ var _docusaurus_Translate__rspack_import_2 = __webpack_require__(91785);
+/* import */ var _docusaurus_theme_common_internal__rspack_import_7 = __webpack_require__(16244);
+/* import */ var _theme_CodeBlock_Buttons_Button__rspack_import_3 = __webpack_require__(29746);
+/* import */ var _theme_Icon_Copy__rspack_import_4 = __webpack_require__(87882);
+/* import */ var _theme_Icon_Success__rspack_import_5 = __webpack_require__(67494);
+/* import */ var _styles_module_css__rspack_import_6 = __webpack_require__(21271);
+/* import */ var _styles_module_css__rspack_import_6_default = /*#__PURE__*/__webpack_require__.n(_styles_module_css__rspack_import_6);
+/**
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */ function _array_like_to_array(arr, len) {
+    if (len == null || len > arr.length) len = arr.length;
+    for(var i = 0, arr2 = new Array(len); i < len; i++)arr2[i] = arr[i];
+    return arr2;
+}
+function _array_with_holes(arr) {
+    if (Array.isArray(arr)) return arr;
+}
+function _iterable_to_array_limit(arr, i) {
+    var _i = arr == null ? null : typeof Symbol !== "undefined" && arr[Symbol.iterator] || arr["@@iterator"];
+    if (_i == null) return;
+    var _arr = [];
+    var _n = true;
+    var _d = false;
+    var _s, _e;
+    try {
+        for(_i = _i.call(arr); !(_n = (_s = _i.next()).done); _n = true){
+            _arr.push(_s.value);
+            if (i && _arr.length === i) break;
+        }
+    } catch (err) {
+        _d = true;
+        _e = err;
+    } finally{
+        try {
+            if (!_n && _i["return"] != null) _i["return"]();
+        } finally{
+            if (_d) throw _e;
+        }
+    }
+    return _arr;
+}
+function _non_iterable_rest() {
+    throw new TypeError("Invalid attempt to destructure non-iterable instance.\\nIn order to be iterable, non-array objects must have a [Symbol.iterator]() method.");
+}
+function _sliced_to_array(arr, i) {
+    return _array_with_holes(arr) || _iterable_to_array_limit(arr, i) || _unsupported_iterable_to_array(arr, i) || _non_iterable_rest();
+}
+function _unsupported_iterable_to_array(o, minLen) {
+    if (!o) return;
+    if (typeof o === "string") return _array_like_to_array(o, minLen);
+    var n = Object.prototype.toString.call(o).slice(8, -1);
+    if (n === "Object" && o.constructor) n = o.constructor.name;
+    if (n === "Map" || n === "Set") return Array.from(n);
+    if (n === "Arguments" || /^(?:Ui|I)nt(?:8|16|32)(?:Clamped)?Array$/.test(n)) return _array_like_to_array(o, minLen);
+}
+
+
+
+
+
+
+
+
+
+function title() {
+    return (0,_docusaurus_Translate__rspack_import_2/* .translate */.T)({
+        id: 'theme.CodeBlock.copy',
+        message: 'Copy',
+        description: 'The copy button label on code blocks'
+    });
+}
+function ariaLabel(isCopied) {
+    return isCopied ? (0,_docusaurus_Translate__rspack_import_2/* .translate */.T)({
+        id: 'theme.CodeBlock.copied',
+        message: 'Copied',
+        description: 'The copied button label on code blocks'
+    }) : (0,_docusaurus_Translate__rspack_import_2/* .translate */.T)({
+        id: 'theme.CodeBlock.copyButtonAriaLabel',
+        message: 'Copy code to clipboard',
+        description: 'The ARIA label for copy code blocks button'
+    });
+}
+function useCopyButton() {
+    var _useCodeBlockContext = (0,_docusaurus_theme_common_internal__rspack_import_7/* .useCodeBlockContext */.Ph)(), code = _useCodeBlockContext.metadata.code;
+    var _useState = _sliced_to_array((0,react__rspack_import_1.useState)(false), 2), isCopied = _useState[0], setIsCopied = _useState[1];
+    var copyTimeout = (0,react__rspack_import_1.useRef)(undefined);
+    var copyCode = (0,react__rspack_import_1.useCallback)(function() {
+        navigator.clipboard.writeText(code).then(function() {
+            setIsCopied(true);
+            copyTimeout.current = window.setTimeout(function() {
+                setIsCopied(false);
+            }, 1000);
+        });
+    }, [
+        code
+    ]);
+    (0,react__rspack_import_1.useEffect)(function() {
+        return function() {
+            return window.clearTimeout(copyTimeout.current);
+        };
+    }, []);
+    return {
+        copyCode: copyCode,
+        isCopied: isCopied
+    };
+}
+function CopyButton(param) {
+    var className = param.className;
+    var _useCopyButton = useCopyButton(), copyCode = _useCopyButton.copyCode, isCopied = _useCopyButton.isCopied;
+    return /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)(_theme_CodeBlock_Buttons_Button__rspack_import_3/* ["default"] */.A, {
+        "aria-label": ariaLabel(isCopied),
+        title: title(),
+        className: (0,clsx__rspack_import_8/* ["default"] */.A)(className, (_styles_module_css__rspack_import_6_default().copyButton), isCopied && (_styles_module_css__rspack_import_6_default().copyButtonCopied)),
+        onClick: copyCode,
+        children: /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsxs)("span", {
+            className: (_styles_module_css__rspack_import_6_default().copyButtonIcons),
+            "aria-hidden": "true",
+            children: [
+                /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)(_theme_Icon_Copy__rspack_import_4/* ["default"] */.A, {
+                    className: (_styles_module_css__rspack_import_6_default().copyButtonIcon)
+                }),
+                /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)(_theme_Icon_Success__rspack_import_5/* ["default"] */.A, {
+                    className: (_styles_module_css__rspack_import_6_default().copyButtonSuccessIcon)
+                })
+            ]
+        })
+    });
+}
+
+
+},
+66146(__unused_rspack_module, __webpack_exports__, __webpack_require__) {
+"use strict";
+__webpack_require__.d(__webpack_exports__, {
+  A: () => (WordWrapButton)
+});
+/* import */ var react_jsx_runtime__rspack_import_0 = __webpack_require__(74848);
+/* import */ var react__rspack_import_1 = __webpack_require__(96540);
+/* import */ var clsx__rspack_import_7 = __webpack_require__(18215);
+/* import */ var _docusaurus_Translate__rspack_import_2 = __webpack_require__(91785);
+/* import */ var _docusaurus_theme_common_internal__rspack_import_6 = __webpack_require__(16244);
+/* import */ var _theme_CodeBlock_Buttons_Button__rspack_import_3 = __webpack_require__(29746);
+/* import */ var _theme_Icon_WordWrap__rspack_import_4 = __webpack_require__(63567);
+/* import */ var _styles_module_css__rspack_import_5 = __webpack_require__(68988);
+/* import */ var _styles_module_css__rspack_import_5_default = /*#__PURE__*/__webpack_require__.n(_styles_module_css__rspack_import_5);
+/**
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */ 
+
+
+
+
+
+
+
+function WordWrapButton(param) {
+    var className = param.className;
+    var wordWrap = (0,_docusaurus_theme_common_internal__rspack_import_6/* .useCodeBlockContext */.Ph)().wordWrap;
+    var canShowButton = wordWrap.isEnabled || wordWrap.isCodeScrollable;
+    if (!canShowButton) {
+        return false;
+    }
+    var title = (0,_docusaurus_Translate__rspack_import_2/* .translate */.T)({
+        id: 'theme.CodeBlock.wordWrapToggle',
+        message: 'Toggle word wrap',
+        description: 'The title attribute for toggle word wrapping button of code block lines'
+    });
+    return /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)(_theme_CodeBlock_Buttons_Button__rspack_import_3/* ["default"] */.A, {
+        onClick: function() {
+            return wordWrap.toggle();
+        },
+        className: (0,clsx__rspack_import_7/* ["default"] */.A)(className, wordWrap.isEnabled && (_styles_module_css__rspack_import_5_default().wordWrapButtonEnabled)),
+        "aria-label": title,
+        title: title,
+        children: /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)(_theme_Icon_WordWrap__rspack_import_4/* ["default"] */.A, {
+            className: (_styles_module_css__rspack_import_5_default().wordWrapButtonIcon),
+            "aria-hidden": "true"
+        })
+    });
+}
+
+
+},
+84909(__unused_rspack_module, __webpack_exports__, __webpack_require__) {
+"use strict";
+__webpack_require__.d(__webpack_exports__, {
+  A: () => (CodeBlockButtons)
+});
+/* import */ var react_jsx_runtime__rspack_import_0 = __webpack_require__(74848);
+/* import */ var react__rspack_import_1 = __webpack_require__(96540);
+/* import */ var clsx__rspack_import_6 = __webpack_require__(18215);
+/* import */ var _docusaurus_BrowserOnly__rspack_import_2 = __webpack_require__(76893);
+/* import */ var _theme_CodeBlock_Buttons_CopyButton__rspack_import_3 = __webpack_require__(32191);
+/* import */ var _theme_CodeBlock_Buttons_WordWrapButton__rspack_import_4 = __webpack_require__(66146);
+/* import */ var _styles_module_css__rspack_import_5 = __webpack_require__(37713);
+/* import */ var _styles_module_css__rspack_import_5_default = /*#__PURE__*/__webpack_require__.n(_styles_module_css__rspack_import_5);
+/**
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */ 
+
+
+
+
+
+
+// Code block buttons are not server-rendered on purpose
+// Adding them to the initial HTML is useless and expensive (due to JSX SVG)
+// They are hidden by default and require React  to become interactive
+function CodeBlockButtons(param) {
+    var className = param.className;
+    return /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)(_docusaurus_BrowserOnly__rspack_import_2/* ["default"] */.A, {
+        children: function() {
+            return /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsxs)("div", {
+                className: (0,clsx__rspack_import_6/* ["default"] */.A)(className, (_styles_module_css__rspack_import_5_default().buttonGroup)),
+                children: [
+                    /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)(_theme_CodeBlock_Buttons_WordWrapButton__rspack_import_4/* ["default"] */.A, {}),
+                    /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)(_theme_CodeBlock_Buttons_CopyButton__rspack_import_3/* ["default"] */.A, {})
+                ]
+            });
+        }
+    });
+}
+
+
+},
+26899(__unused_rspack_module, __webpack_exports__, __webpack_require__) {
+"use strict";
+__webpack_require__.d(__webpack_exports__, {
+  A: () => (CodeBlockContainer)
+});
+/* import */ var react_jsx_runtime__rspack_import_0 = __webpack_require__(74848);
+/* import */ var react__rspack_import_1 = __webpack_require__(96540);
+/* import */ var clsx__rspack_import_5 = __webpack_require__(18215);
+/* import */ var _docusaurus_theme_common__rspack_import_3 = __webpack_require__(74959);
+/* import */ var _docusaurus_theme_common__rspack_import_6 = __webpack_require__(5678);
+/* import */ var _docusaurus_theme_common_internal__rspack_import_4 = __webpack_require__(16244);
+/* import */ var _styles_module_css__rspack_import_2 = __webpack_require__(72059);
+/* import */ var _styles_module_css__rspack_import_2_default = /*#__PURE__*/__webpack_require__.n(_styles_module_css__rspack_import_2);
+/**
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */ function _define_property(obj, key, value) {
+    if (key in obj) {
+        Object.defineProperty(obj, key, {
+            value: value,
+            enumerable: true,
+            configurable: true,
+            writable: true
+        });
+    } else {
+        obj[key] = value;
+    }
+    return obj;
+}
+function _object_spread(target) {
+    for(var i = 1; i < arguments.length; i++){
+        var source = arguments[i] != null ? arguments[i] : {};
+        var ownKeys = Object.keys(source);
+        if (typeof Object.getOwnPropertySymbols === "function") {
+            ownKeys = ownKeys.concat(Object.getOwnPropertySymbols(source).filter(function(sym) {
+                return Object.getOwnPropertyDescriptor(source, sym).enumerable;
+            }));
+        }
+        ownKeys.forEach(function(key) {
+            _define_property(target, key, source[key]);
+        });
+    }
+    return target;
+}
+function ownKeys(object, enumerableOnly) {
+    var keys = Object.keys(object);
+    if (Object.getOwnPropertySymbols) {
+        var symbols = Object.getOwnPropertySymbols(object);
+        if (enumerableOnly) {
+            symbols = symbols.filter(function(sym) {
+                return Object.getOwnPropertyDescriptor(object, sym).enumerable;
+            });
+        }
+        keys.push.apply(keys, symbols);
+    }
+    return keys;
+}
+function _object_spread_props(target, source) {
+    source = source != null ? source : {};
+    if (Object.getOwnPropertyDescriptors) {
+        Object.defineProperties(target, Object.getOwnPropertyDescriptors(source));
+    } else {
+        ownKeys(Object(source)).forEach(function(key) {
+            Object.defineProperty(target, key, Object.getOwnPropertyDescriptor(source, key));
+        });
+    }
+    return target;
+}
+function _object_without_properties(source, excluded) {
+    if (source == null) return {};
+    var target = _object_without_properties_loose(source, excluded);
+    var key, i;
+    if (Object.getOwnPropertySymbols) {
+        var sourceSymbolKeys = Object.getOwnPropertySymbols(source);
+        for(i = 0; i < sourceSymbolKeys.length; i++){
+            key = sourceSymbolKeys[i];
+            if (excluded.indexOf(key) >= 0) continue;
+            if (!Object.prototype.propertyIsEnumerable.call(source, key)) continue;
+            target[key] = source[key];
+        }
+    }
+    return target;
+}
+function _object_without_properties_loose(source, excluded) {
+    if (source == null) return {};
+    var target = {};
+    var sourceKeys = Object.keys(source);
+    var key, i;
+    for(i = 0; i < sourceKeys.length; i++){
+        key = sourceKeys[i];
+        if (excluded.indexOf(key) >= 0) continue;
+        target[key] = source[key];
+    }
+    return target;
+}
+
+
+
+
+
+
+function CodeBlockContainer(_param) {
+    var As = _param.as, props = _object_without_properties(_param, [
+        "as"
+    ]);
+    var prismTheme = (0,_docusaurus_theme_common__rspack_import_3/* .usePrismTheme */.A)();
+    var prismCssVariables = (0,_docusaurus_theme_common_internal__rspack_import_4/* .getPrismCssVariables */.M$)(prismTheme);
+    return /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)(As, _object_spread_props(_object_spread({}, props), {
+        style: prismCssVariables,
+        className: (0,clsx__rspack_import_5/* ["default"] */.A)(props.className, (_styles_module_css__rspack_import_2_default().codeBlockContainer), _docusaurus_theme_common__rspack_import_6/* .ThemeClassNames.common.codeBlock */.G.common.codeBlock)
+    }));
+}
+
+
+},
+32913(__unused_rspack_module, __webpack_exports__, __webpack_require__) {
+"use strict";
+__webpack_require__.d(__webpack_exports__, {
+  A: () => (CodeBlockJSX)
+});
+/* import */ var react_jsx_runtime__rspack_import_0 = __webpack_require__(74848);
+/* import */ var react__rspack_import_1 = __webpack_require__(96540);
+/* import */ var clsx__rspack_import_4 = __webpack_require__(18215);
+/* import */ var _theme_CodeBlock_Container__rspack_import_2 = __webpack_require__(26899);
+/* import */ var _styles_module_css__rspack_import_3 = __webpack_require__(19641);
+/* import */ var _styles_module_css__rspack_import_3_default = /*#__PURE__*/__webpack_require__.n(_styles_module_css__rspack_import_3);
+/**
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */ 
+
+
+
+
+// TODO Docusaurus v4: move this component at the root?
+// This component only handles a rare edge-case: <pre><MyComp/></pre> in MDX
+// <pre> tags in markdown map to CodeBlocks. They may contain JSX children.
+// When children is not a simple string, we just return a styled block without
+// actually highlighting.
+function CodeBlockJSX(param) {
+    var children = param.children, className = param.className;
+    return /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)(_theme_CodeBlock_Container__rspack_import_2/* ["default"] */.A, {
+        as: "pre",
+        tabIndex: 0,
+        className: (0,clsx__rspack_import_4/* ["default"] */.A)((_styles_module_css__rspack_import_3_default().codeBlockStandalone), 'thin-scrollbar', className),
+        children: /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)("code", {
+            className: (_styles_module_css__rspack_import_3_default().codeBlockLines),
+            children: children
+        })
+    });
+}
+
+
+},
+2116(__unused_rspack_module, __webpack_exports__, __webpack_require__) {
+"use strict";
+__webpack_require__.d(__webpack_exports__, {
+  A: () => (CodeBlockString)
+});
+/* import */ var react_jsx_runtime__rspack_import_0 = __webpack_require__(74848);
+/* import */ var react__rspack_import_1 = __webpack_require__(96540);
+/* import */ var _docusaurus_theme_common__rspack_import_3 = __webpack_require__(6405);
+/* import */ var _docusaurus_theme_common_internal__rspack_import_4 = __webpack_require__(16244);
+/* import */ var _docusaurus_theme_common_internal__rspack_import_5 = __webpack_require__(38844);
+/* import */ var _theme_CodeBlock_Layout__rspack_import_2 = __webpack_require__(84354);
+/**
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */ 
+
+
+
+
+function useCodeBlockMetadata(props) {
+    var prism = (0,_docusaurus_theme_common__rspack_import_3/* .useThemeConfig */.p)().prism;
+    return (0,_docusaurus_theme_common_internal__rspack_import_4/* .createCodeBlockMetadata */.mU)({
+        code: props.children,
+        className: props.className,
+        metastring: props.metastring,
+        magicComments: prism.magicComments,
+        defaultLanguage: prism.defaultLanguage,
+        language: props.language,
+        title: props.title,
+        showLineNumbers: props.showLineNumbers
+    });
+}
+// TODO Docusaurus v4: move this component at the root?
+function CodeBlockString(props) {
+    var metadata = useCodeBlockMetadata(props);
+    var wordWrap = (0,_docusaurus_theme_common_internal__rspack_import_5/* .useCodeWordWrap */.f)();
+    return /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)(_docusaurus_theme_common_internal__rspack_import_4/* .CodeBlockContextProvider */.l8, {
+        metadata: metadata,
+        wordWrap: wordWrap,
+        children: /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)(_theme_CodeBlock_Layout__rspack_import_2/* ["default"] */.A, {})
+    });
+}
+
+
+},
+70421(__unused_rspack_module, __webpack_exports__, __webpack_require__) {
+"use strict";
+__webpack_require__.d(__webpack_exports__, {
+  A: () => (CodeBlockContent)
+});
+/* import */ var react_jsx_runtime__rspack_import_0 = __webpack_require__(74848);
+/* import */ var react__rspack_import_1 = __webpack_require__(96540);
+/* import */ var clsx__rspack_import_5 = __webpack_require__(18215);
+/* import */ var _docusaurus_theme_common_internal__rspack_import_6 = __webpack_require__(16244);
+/* import */ var _docusaurus_theme_common__rspack_import_7 = __webpack_require__(74959);
+/* import */ var prism_react_renderer__rspack_import_2 = __webpack_require__(71765);
+/* import */ var _theme_CodeBlock_Line__rspack_import_3 = __webpack_require__(43622);
+/* import */ var _styles_module_css__rspack_import_4 = __webpack_require__(19641);
+/* import */ var _styles_module_css__rspack_import_4_default = /*#__PURE__*/__webpack_require__.n(_styles_module_css__rspack_import_4);
+/**
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */ function _define_property(obj, key, value) {
+    if (key in obj) {
+        Object.defineProperty(obj, key, {
+            value: value,
+            enumerable: true,
+            configurable: true,
+            writable: true
+        });
+    } else {
+        obj[key] = value;
+    }
+    return obj;
+}
+function _object_spread(target) {
+    for(var i = 1; i < arguments.length; i++){
+        var source = arguments[i] != null ? arguments[i] : {};
+        var ownKeys = Object.keys(source);
+        if (typeof Object.getOwnPropertySymbols === "function") {
+            ownKeys = ownKeys.concat(Object.getOwnPropertySymbols(source).filter(function(sym) {
+                return Object.getOwnPropertyDescriptor(source, sym).enumerable;
+            }));
+        }
+        ownKeys.forEach(function(key) {
+            _define_property(target, key, source[key]);
+        });
+    }
+    return target;
+}
+function ownKeys(object, enumerableOnly) {
+    var keys = Object.keys(object);
+    if (Object.getOwnPropertySymbols) {
+        var symbols = Object.getOwnPropertySymbols(object);
+        if (enumerableOnly) {
+            symbols = symbols.filter(function(sym) {
+                return Object.getOwnPropertyDescriptor(object, sym).enumerable;
+            });
+        }
+        keys.push.apply(keys, symbols);
+    }
+    return keys;
+}
+function _object_spread_props(target, source) {
+    source = source != null ? source : {};
+    if (Object.getOwnPropertyDescriptors) {
+        Object.defineProperties(target, Object.getOwnPropertyDescriptors(source));
+    } else {
+        ownKeys(Object(source)).forEach(function(key) {
+            Object.defineProperty(target, key, Object.getOwnPropertyDescriptor(source, key));
+        });
+    }
+    return target;
+}
+
+
+
+
+
+
+
+
+// TODO Docusaurus v4: remove useless forwardRef
+var Pre = /*#__PURE__*/ react__rspack_import_1.forwardRef(function(props, ref) {
+    return /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)("pre", _object_spread_props(_object_spread({
+        ref: ref,
+        /* eslint-disable-next-line jsx-a11y/no-noninteractive-tabindex */ tabIndex: 0
+    }, props), {
+        className: (0,clsx__rspack_import_5/* ["default"] */.A)(props.className, (_styles_module_css__rspack_import_4_default().codeBlock), 'thin-scrollbar')
+    }));
+});
+function Code(props) {
+    var metadata = (0,_docusaurus_theme_common_internal__rspack_import_6/* .useCodeBlockContext */.Ph)().metadata;
+    return /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)("code", _object_spread_props(_object_spread({}, props), {
+        className: (0,clsx__rspack_import_5/* ["default"] */.A)(props.className, (_styles_module_css__rspack_import_4_default().codeBlockLines), metadata.lineNumbersStart !== undefined && (_styles_module_css__rspack_import_4_default().codeBlockLinesWithNumbering)),
+        style: _object_spread_props(_object_spread({}, props.style), {
+            counterReset: metadata.lineNumbersStart === undefined ? undefined : "line-count ".concat(metadata.lineNumbersStart - 1)
+        })
+    }));
+}
+function CodeBlockContent(param) {
+    var classNameProp = param.className;
+    var _useCodeBlockContext = (0,_docusaurus_theme_common_internal__rspack_import_6/* .useCodeBlockContext */.Ph)(), metadata = _useCodeBlockContext.metadata, wordWrap = _useCodeBlockContext.wordWrap;
+    var prismTheme = (0,_docusaurus_theme_common__rspack_import_7/* .usePrismTheme */.A)();
+    var code = metadata.code, language = metadata.language, lineNumbersStart = metadata.lineNumbersStart, lineClassNames = metadata.lineClassNames;
+    return /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)(prism_react_renderer__rspack_import_2/* .Highlight */.f4, {
+        theme: prismTheme,
+        code: code,
+        language: language,
+        children: function(param) {
+            var className = param.className, style = param.style, lines = param.tokens, getLineProps = param.getLineProps, getTokenProps = param.getTokenProps;
+            return /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)(Pre, {
+                ref: wordWrap.codeBlockRef,
+                className: (0,clsx__rspack_import_5/* ["default"] */.A)(classNameProp, className),
+                style: style,
+                children: /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)(Code, {
+                    children: lines.map(function(line, i) {
+                        return /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)(_theme_CodeBlock_Line__rspack_import_3/* ["default"] */.A, {
+                            line: line,
+                            getLineProps: getLineProps,
+                            getTokenProps: getTokenProps,
+                            classNames: lineClassNames[i],
+                            showLineNumbers: lineNumbersStart !== undefined
+                        }, i);
+                    })
+                })
+            });
+        }
+    });
+}
+
+
+},
+84354(__unused_rspack_module, __webpack_exports__, __webpack_require__) {
+"use strict";
+__webpack_require__.d(__webpack_exports__, {
+  A: () => (CodeBlockLayout)
+});
+/* import */ var react_jsx_runtime__rspack_import_0 = __webpack_require__(74848);
+/* import */ var react__rspack_import_1 = __webpack_require__(96540);
+/* import */ var clsx__rspack_import_7 = __webpack_require__(18215);
+/* import */ var _docusaurus_theme_common_internal__rspack_import_6 = __webpack_require__(16244);
+/* import */ var _theme_CodeBlock_Container__rspack_import_2 = __webpack_require__(26899);
+/* import */ var _theme_CodeBlock_Title__rspack_import_8 = __webpack_require__(8202);
+/* import */ var _theme_CodeBlock_Content__rspack_import_3 = __webpack_require__(70421);
+/* import */ var _theme_CodeBlock_Buttons__rspack_import_4 = __webpack_require__(84909);
+/* import */ var _styles_module_css__rspack_import_5 = __webpack_require__(96524);
+/* import */ var _styles_module_css__rspack_import_5_default = /*#__PURE__*/__webpack_require__.n(_styles_module_css__rspack_import_5);
+/**
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */ 
+
+
+
+
+
+
+
+
+function CodeBlockLayout(param) {
+    var className = param.className;
+    var metadata = (0,_docusaurus_theme_common_internal__rspack_import_6/* .useCodeBlockContext */.Ph)().metadata;
+    return /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsxs)(_theme_CodeBlock_Container__rspack_import_2/* ["default"] */.A, {
+        as: "div",
+        className: (0,clsx__rspack_import_7/* ["default"] */.A)(className, metadata.className),
+        children: [
+            metadata.title && /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)("div", {
+                className: (_styles_module_css__rspack_import_5_default().codeBlockTitle),
+                children: /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)(_theme_CodeBlock_Title__rspack_import_8/* ["default"] */.A, {
+                    children: metadata.title
+                })
+            }),
+            /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsxs)("div", {
+                className: (_styles_module_css__rspack_import_5_default().codeBlockContent),
+                children: [
+                    /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)(_theme_CodeBlock_Content__rspack_import_3/* ["default"] */.A, {}),
+                    /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)(_theme_CodeBlock_Buttons__rspack_import_4/* ["default"] */.A, {})
+                ]
+            })
+        ]
+    });
+}
+
+
+},
+69516(__unused_rspack_module, __webpack_exports__, __webpack_require__) {
+"use strict";
+__webpack_require__.d(__webpack_exports__, {
+  A: () => (CodeBlockLineToken)
+});
+/* import */ var react_jsx_runtime__rspack_import_0 = __webpack_require__(74848);
+/* import */ var react__rspack_import_1 = __webpack_require__(96540);
+/**
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */ function _define_property(obj, key, value) {
+    if (key in obj) {
+        Object.defineProperty(obj, key, {
+            value: value,
+            enumerable: true,
+            configurable: true,
+            writable: true
+        });
+    } else {
+        obj[key] = value;
+    }
+    return obj;
+}
+function _object_spread(target) {
+    for(var i = 1; i < arguments.length; i++){
+        var source = arguments[i] != null ? arguments[i] : {};
+        var ownKeys = Object.keys(source);
+        if (typeof Object.getOwnPropertySymbols === "function") {
+            ownKeys = ownKeys.concat(Object.getOwnPropertySymbols(source).filter(function(sym) {
+                return Object.getOwnPropertyDescriptor(source, sym).enumerable;
+            }));
+        }
+        ownKeys.forEach(function(key) {
+            _define_property(target, key, source[key]);
+        });
+    }
+    return target;
+}
+function _object_without_properties(source, excluded) {
+    if (source == null) return {};
+    var target = _object_without_properties_loose(source, excluded);
+    var key, i;
+    if (Object.getOwnPropertySymbols) {
+        var sourceSymbolKeys = Object.getOwnPropertySymbols(source);
+        for(i = 0; i < sourceSymbolKeys.length; i++){
+            key = sourceSymbolKeys[i];
+            if (excluded.indexOf(key) >= 0) continue;
+            if (!Object.prototype.propertyIsEnumerable.call(source, key)) continue;
+            target[key] = source[key];
+        }
+    }
+    return target;
+}
+function _object_without_properties_loose(source, excluded) {
+    if (source == null) return {};
+    var target = {};
+    var sourceKeys = Object.keys(source);
+    var key, i;
+    for(i = 0; i < sourceKeys.length; i++){
+        key = sourceKeys[i];
+        if (excluded.indexOf(key) >= 0) continue;
+        target[key] = source[key];
+    }
+    return target;
+}
+
+
+// Pass-through components that users can swizzle and customize
+function CodeBlockLineToken(_param) {
+    var line = _param.line, token = _param.token, props = _object_without_properties(_param, [
+        "line",
+        "token"
+    ]);
+    return /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)("span", _object_spread({}, props));
+}
+
+
+},
+43622(__unused_rspack_module, __webpack_exports__, __webpack_require__) {
+"use strict";
+__webpack_require__.d(__webpack_exports__, {
+  A: () => (CodeBlockLine)
+});
+/* import */ var react_jsx_runtime__rspack_import_0 = __webpack_require__(74848);
+/* import */ var react__rspack_import_1 = __webpack_require__(96540);
+/* import */ var clsx__rspack_import_4 = __webpack_require__(18215);
+/* import */ var _theme_CodeBlock_Line_Token__rspack_import_2 = __webpack_require__(69516);
+/* import */ var _styles_module_css__rspack_import_3 = __webpack_require__(88400);
+/* import */ var _styles_module_css__rspack_import_3_default = /*#__PURE__*/__webpack_require__.n(_styles_module_css__rspack_import_3);
+/**
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */ function _define_property(obj, key, value) {
+    if (key in obj) {
+        Object.defineProperty(obj, key, {
+            value: value,
+            enumerable: true,
+            configurable: true,
+            writable: true
+        });
+    } else {
+        obj[key] = value;
+    }
+    return obj;
+}
+function _object_spread(target) {
+    for(var i = 1; i < arguments.length; i++){
+        var source = arguments[i] != null ? arguments[i] : {};
+        var ownKeys = Object.keys(source);
+        if (typeof Object.getOwnPropertySymbols === "function") {
+            ownKeys = ownKeys.concat(Object.getOwnPropertySymbols(source).filter(function(sym) {
+                return Object.getOwnPropertyDescriptor(source, sym).enumerable;
+            }));
+        }
+        ownKeys.forEach(function(key) {
+            _define_property(target, key, source[key]);
+        });
+    }
+    return target;
+}
+function ownKeys(object, enumerableOnly) {
+    var keys = Object.keys(object);
+    if (Object.getOwnPropertySymbols) {
+        var symbols = Object.getOwnPropertySymbols(object);
+        if (enumerableOnly) {
+            symbols = symbols.filter(function(sym) {
+                return Object.getOwnPropertyDescriptor(object, sym).enumerable;
+            });
+        }
+        keys.push.apply(keys, symbols);
+    }
+    return keys;
+}
+function _object_spread_props(target, source) {
+    source = source != null ? source : {};
+    if (Object.getOwnPropertyDescriptors) {
+        Object.defineProperties(target, Object.getOwnPropertyDescriptors(source));
+    } else {
+        ownKeys(Object(source)).forEach(function(key) {
+            Object.defineProperty(target, key, Object.getOwnPropertyDescriptor(source, key));
+        });
+    }
+    return target;
+}
+
+
+
+
+
+// Replaces '\n' by ''
+// Historical code, not sure why we even need this :/
+function fixLineBreak(line) {
+    var singleLineBreakToken = line.length === 1 && line[0].content === '\n' ? line[0] : undefined;
+    if (singleLineBreakToken) {
+        return [
+            _object_spread_props(_object_spread({}, singleLineBreakToken), {
+                content: ''
+            })
+        ];
+    }
+    return line;
+}
+function CodeBlockLine(param) {
+    var lineProp = param.line, classNames = param.classNames, showLineNumbers = param.showLineNumbers, getLineProps = param.getLineProps, getTokenProps = param.getTokenProps;
+    var line = fixLineBreak(lineProp);
+    var lineProps = getLineProps({
+        line: line,
+        className: (0,clsx__rspack_import_4/* ["default"] */.A)(classNames, showLineNumbers && (_styles_module_css__rspack_import_3_default().codeLine))
+    });
+    var lineTokens = line.map(function(token, key) {
+        var tokenProps = getTokenProps({
+            token: token
+        });
+        return /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)(_theme_CodeBlock_Line_Token__rspack_import_2/* ["default"] */.A, _object_spread_props(_object_spread({}, tokenProps), {
+            line: line,
+            token: token,
+            children: tokenProps.children
+        }), key);
+    });
+    return /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsxs)("span", _object_spread_props(_object_spread({}, lineProps), {
+        children: [
+            showLineNumbers ? /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsxs)(react_jsx_runtime__rspack_import_0.Fragment, {
+                children: [
+                    /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)("span", {
+                        className: (_styles_module_css__rspack_import_3_default().codeLineNumber)
+                    }),
+                    /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)("span", {
+                        className: (_styles_module_css__rspack_import_3_default().codeLineContent),
+                        children: lineTokens
+                    })
+                ]
+            }) : lineTokens,
+            /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)("br", {})
+        ]
+    }));
+}
+
+
+},
+8202(__unused_rspack_module, __webpack_exports__, __webpack_require__) {
+"use strict";
+__webpack_require__.d(__webpack_exports__, {
+  A: () => (CodeBlockTitle)
+});
+/**
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */ // Just a pass-through component that users can swizzle and customize
+function CodeBlockTitle(param) {
+    var children = param.children;
+    return children;
+}
+
+
+},
+70155(__unused_rspack_module, __webpack_exports__, __webpack_require__) {
+"use strict";
+__webpack_require__.d(__webpack_exports__, {
+  A: () => (CodeBlock)
+});
+/* import */ var react_jsx_runtime__rspack_import_0 = __webpack_require__(74848);
+/* import */ var react__rspack_import_1 = __webpack_require__(96540);
+/* import */ var _docusaurus_useIsBrowser__rspack_import_2 = __webpack_require__(88094);
+/* import */ var _theme_CodeBlock_Content_Element__rspack_import_3 = __webpack_require__(32913);
+/* import */ var _theme_CodeBlock_Content_String__rspack_import_4 = __webpack_require__(2116);
+/**
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */ function _define_property(obj, key, value) {
+    if (key in obj) {
+        Object.defineProperty(obj, key, {
+            value: value,
+            enumerable: true,
+            configurable: true,
+            writable: true
+        });
+    } else {
+        obj[key] = value;
+    }
+    return obj;
+}
+function _object_spread(target) {
+    for(var i = 1; i < arguments.length; i++){
+        var source = arguments[i] != null ? arguments[i] : {};
+        var ownKeys = Object.keys(source);
+        if (typeof Object.getOwnPropertySymbols === "function") {
+            ownKeys = ownKeys.concat(Object.getOwnPropertySymbols(source).filter(function(sym) {
+                return Object.getOwnPropertyDescriptor(source, sym).enumerable;
+            }));
+        }
+        ownKeys.forEach(function(key) {
+            _define_property(target, key, source[key]);
+        });
+    }
+    return target;
+}
+function ownKeys(object, enumerableOnly) {
+    var keys = Object.keys(object);
+    if (Object.getOwnPropertySymbols) {
+        var symbols = Object.getOwnPropertySymbols(object);
+        if (enumerableOnly) {
+            symbols = symbols.filter(function(sym) {
+                return Object.getOwnPropertyDescriptor(object, sym).enumerable;
+            });
+        }
+        keys.push.apply(keys, symbols);
+    }
+    return keys;
+}
+function _object_spread_props(target, source) {
+    source = source != null ? source : {};
+    if (Object.getOwnPropertyDescriptors) {
+        Object.defineProperties(target, Object.getOwnPropertyDescriptors(source));
+    } else {
+        ownKeys(Object(source)).forEach(function(key) {
+            Object.defineProperty(target, key, Object.getOwnPropertyDescriptor(source, key));
+        });
+    }
+    return target;
+}
+function _object_without_properties(source, excluded) {
+    if (source == null) return {};
+    var target = _object_without_properties_loose(source, excluded);
+    var key, i;
+    if (Object.getOwnPropertySymbols) {
+        var sourceSymbolKeys = Object.getOwnPropertySymbols(source);
+        for(i = 0; i < sourceSymbolKeys.length; i++){
+            key = sourceSymbolKeys[i];
+            if (excluded.indexOf(key) >= 0) continue;
+            if (!Object.prototype.propertyIsEnumerable.call(source, key)) continue;
+            target[key] = source[key];
+        }
+    }
+    return target;
+}
+function _object_without_properties_loose(source, excluded) {
+    if (source == null) return {};
+    var target = {};
+    var sourceKeys = Object.keys(source);
+    var key, i;
+    for(i = 0; i < sourceKeys.length; i++){
+        key = sourceKeys[i];
+        if (excluded.indexOf(key) >= 0) continue;
+        target[key] = source[key];
+    }
+    return target;
+}
+
+
+
+
+
+/**
+ * Best attempt to make the children a plain string so it is copyable. If there
+ * are react elements, we will not be able to copy the content, and it will
+ * return `children` as-is; otherwise, it concatenates the string children
+ * together.
+ */ function maybeStringifyChildren(children) {
+    if (react__rspack_import_1.Children.toArray(children).some(function(el) {
+        return /*#__PURE__*/ (0,react__rspack_import_1.isValidElement)(el);
+    })) {
+        return children;
+    }
+    // The children is now guaranteed to be one/more plain strings
+    return Array.isArray(children) ? children.join('') : children;
+}
+function CodeBlock(_param) {
+    var rawChildren = _param.children, props = _object_without_properties(_param, [
+        "children"
+    ]);
+    // The Prism theme on SSR is always the default theme but the site theme can
+    // be in a different mode. React hydration doesn't update DOM styles that come
+    // from SSR. Hence force a re-render after mounting to apply the current
+    // relevant styles.
+    var isBrowser = (0,_docusaurus_useIsBrowser__rspack_import_2/* ["default"] */.A)();
+    var children = maybeStringifyChildren(rawChildren);
+    var CodeBlockComp = typeof children === 'string' ? _theme_CodeBlock_Content_String__rspack_import_4/* ["default"] */.A : _theme_CodeBlock_Content_Element__rspack_import_3/* ["default"] */.A;
+    return /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)(CodeBlockComp, _object_spread_props(_object_spread({}, props), {
+        children: children
+    }), String(isBrowser));
+}
+
+
+},
+18075(__unused_rspack_module, __webpack_exports__, __webpack_require__) {
+"use strict";
+__webpack_require__.d(__webpack_exports__, {
+  A: () => (CodeInline)
+});
+/* import */ var react_jsx_runtime__rspack_import_0 = __webpack_require__(74848);
+/* import */ var react__rspack_import_1 = __webpack_require__(96540);
+/**
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */ function _define_property(obj, key, value) {
+    if (key in obj) {
+        Object.defineProperty(obj, key, {
+            value: value,
+            enumerable: true,
+            configurable: true,
+            writable: true
+        });
+    } else {
+        obj[key] = value;
+    }
+    return obj;
+}
+function _object_spread(target) {
+    for(var i = 1; i < arguments.length; i++){
+        var source = arguments[i] != null ? arguments[i] : {};
+        var ownKeys = Object.keys(source);
+        if (typeof Object.getOwnPropertySymbols === "function") {
+            ownKeys = ownKeys.concat(Object.getOwnPropertySymbols(source).filter(function(sym) {
+                return Object.getOwnPropertyDescriptor(source, sym).enumerable;
+            }));
+        }
+        ownKeys.forEach(function(key) {
+            _define_property(target, key, source[key]);
+        });
+    }
+    return target;
+}
+
+
+// Simple component used to render inline code blocks
+// its purpose is to be swizzled and customized
+// MDX 1 used to have a inlineCode comp, see https://mdxjs.com/migrating/v2/
+function CodeInline(props) {
+    return /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)("code", _object_spread({}, props));
+}
+
+
+},
+8004(__unused_rspack_module, __webpack_exports__, __webpack_require__) {
+"use strict";
+__webpack_require__.d(__webpack_exports__, {
+  A: () => (Draft)
+});
+/* import */ var react_jsx_runtime__rspack_import_0 = __webpack_require__(74848);
+/* import */ var react__rspack_import_1 = __webpack_require__(96540);
+/* import */ var clsx__rspack_import_4 = __webpack_require__(18215);
+/* import */ var _docusaurus_theme_common__rspack_import_3 = __webpack_require__(96675);
+/* import */ var _docusaurus_theme_common__rspack_import_5 = __webpack_require__(5678);
+/* import */ var _theme_Admonition__rspack_import_2 = __webpack_require__(12809);
+/**
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */ 
+
+
+
+
+function Draft(param) {
+    var className = param.className;
+    return /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)(_theme_Admonition__rspack_import_2/* ["default"] */.A, {
+        type: "caution",
+        title: /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)(_docusaurus_theme_common__rspack_import_3/* .DraftBannerTitle */.Yh, {}),
+        className: (0,clsx__rspack_import_4/* ["default"] */.A)(className, _docusaurus_theme_common__rspack_import_5/* .ThemeClassNames.common.draftBanner */.G.common.draftBanner),
+        children: /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)(_docusaurus_theme_common__rspack_import_3/* .DraftBannerMessage */.TT, {})
+    });
+}
+
+
+},
+23555(__unused_rspack_module, __webpack_exports__, __webpack_require__) {
+"use strict";
+__webpack_require__.d(__webpack_exports__, {
+  A: () => (Unlisted)
+});
+/* import */ var react_jsx_runtime__rspack_import_0 = __webpack_require__(74848);
+/* import */ var react__rspack_import_1 = __webpack_require__(96540);
+/* import */ var clsx__rspack_import_4 = __webpack_require__(18215);
+/* import */ var _docusaurus_theme_common__rspack_import_3 = __webpack_require__(96675);
+/* import */ var _docusaurus_theme_common__rspack_import_5 = __webpack_require__(5678);
+/* import */ var _theme_Admonition__rspack_import_2 = __webpack_require__(12809);
+/**
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */ function _define_property(obj, key, value) {
+    if (key in obj) {
+        Object.defineProperty(obj, key, {
+            value: value,
+            enumerable: true,
+            configurable: true,
+            writable: true
+        });
+    } else {
+        obj[key] = value;
+    }
+    return obj;
+}
+function _object_spread(target) {
+    for(var i = 1; i < arguments.length; i++){
+        var source = arguments[i] != null ? arguments[i] : {};
+        var ownKeys = Object.keys(source);
+        if (typeof Object.getOwnPropertySymbols === "function") {
+            ownKeys = ownKeys.concat(Object.getOwnPropertySymbols(source).filter(function(sym) {
+                return Object.getOwnPropertyDescriptor(source, sym).enumerable;
+            }));
+        }
+        ownKeys.forEach(function(key) {
+            _define_property(target, key, source[key]);
+        });
+    }
+    return target;
+}
+
+
+
+
+
+function UnlistedBanner(param) {
+    var className = param.className;
+    return /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)(_theme_Admonition__rspack_import_2/* ["default"] */.A, {
+        type: "caution",
+        title: /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)(_docusaurus_theme_common__rspack_import_3/* .UnlistedBannerTitle */.Rc, {}),
+        className: (0,clsx__rspack_import_4/* ["default"] */.A)(className, _docusaurus_theme_common__rspack_import_5/* .ThemeClassNames.common.unlistedBanner */.G.common.unlistedBanner),
+        children: /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)(_docusaurus_theme_common__rspack_import_3/* .UnlistedBannerMessage */.Uh, {})
+    });
+}
+function Unlisted(props) {
+    return /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsxs)(react_jsx_runtime__rspack_import_0.Fragment, {
+        children: [
+            /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)(_docusaurus_theme_common__rspack_import_3/* .UnlistedMetadata */.AE, {}),
+            /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)(UnlistedBanner, _object_spread({}, props))
+        ]
+    });
+}
+
+
+},
+75336(__unused_rspack_module, __webpack_exports__, __webpack_require__) {
+"use strict";
+__webpack_require__.d(__webpack_exports__, {
+  A: () => (ContentVisibility)
+});
+/* import */ var react_jsx_runtime__rspack_import_0 = __webpack_require__(74848);
+/* import */ var react__rspack_import_1 = __webpack_require__(96540);
+/* import */ var _theme_ContentVisibility_Draft__rspack_import_2 = __webpack_require__(8004);
+/* import */ var _theme_ContentVisibility_Unlisted__rspack_import_3 = __webpack_require__(23555);
+/**
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */ 
+
+
+
+function ContentVisibility(param) {
+    var metadata = param.metadata;
+    var unlisted = metadata.unlisted, frontMatter = metadata.frontMatter;
+    // Reading draft/unlisted status from frontMatter is useful to display
+    // the banners in dev mode (in dev, metadata.unlisted is always false)
+    // See https://github.com/facebook/docusaurus/issues/8285
+    return /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsxs)(react_jsx_runtime__rspack_import_0.Fragment, {
+        children: [
+            (unlisted || frontMatter.unlisted) && /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)(_theme_ContentVisibility_Unlisted__rspack_import_3/* ["default"] */.A, {}),
+            frontMatter.draft && /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)(_theme_ContentVisibility_Draft__rspack_import_2/* ["default"] */.A, {})
+        ]
+    });
+}
+
+
+},
+39647(__unused_rspack_module, __webpack_exports__, __webpack_require__) {
+"use strict";
+__webpack_require__.d(__webpack_exports__, {
+  A: () => (Details)
+});
+/* import */ var react_jsx_runtime__rspack_import_0 = __webpack_require__(74848);
+/* import */ var react__rspack_import_1 = __webpack_require__(96540);
+/* import */ var clsx__rspack_import_4 = __webpack_require__(18215);
+/* import */ var _docusaurus_theme_common_Details__rspack_import_2 = __webpack_require__(43647);
+/* import */ var _styles_module_css__rspack_import_3 = __webpack_require__(40007);
+/* import */ var _styles_module_css__rspack_import_3_default = /*#__PURE__*/__webpack_require__.n(_styles_module_css__rspack_import_3);
+/**
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */ function _define_property(obj, key, value) {
+    if (key in obj) {
+        Object.defineProperty(obj, key, {
+            value: value,
+            enumerable: true,
+            configurable: true,
+            writable: true
+        });
+    } else {
+        obj[key] = value;
+    }
+    return obj;
+}
+function _extends() {
+    _extends = Object.assign || function(target) {
+        for(var i = 1; i < arguments.length; i++){
+            var source = arguments[i];
+            for(var key in source){
+                if (Object.prototype.hasOwnProperty.call(source, key)) {
+                    target[key] = source[key];
+                }
+            }
+        }
+        return target;
+    };
+    return _extends.apply(this, arguments);
+}
+function _object_destructuring_empty(o) {
+    if (o === null || o === void 0) throw new TypeError("Cannot destructure " + o);
+    return o;
+}
+function _object_spread(target) {
+    for(var i = 1; i < arguments.length; i++){
+        var source = arguments[i] != null ? arguments[i] : {};
+        var ownKeys = Object.keys(source);
+        if (typeof Object.getOwnPropertySymbols === "function") {
+            ownKeys = ownKeys.concat(Object.getOwnPropertySymbols(source).filter(function(sym) {
+                return Object.getOwnPropertyDescriptor(source, sym).enumerable;
+            }));
+        }
+        ownKeys.forEach(function(key) {
+            _define_property(target, key, source[key]);
+        });
+    }
+    return target;
+}
+function ownKeys(object, enumerableOnly) {
+    var keys = Object.keys(object);
+    if (Object.getOwnPropertySymbols) {
+        var symbols = Object.getOwnPropertySymbols(object);
+        if (enumerableOnly) {
+            symbols = symbols.filter(function(sym) {
+                return Object.getOwnPropertyDescriptor(object, sym).enumerable;
+            });
+        }
+        keys.push.apply(keys, symbols);
+    }
+    return keys;
+}
+function _object_spread_props(target, source) {
+    source = source != null ? source : {};
+    if (Object.getOwnPropertyDescriptors) {
+        Object.defineProperties(target, Object.getOwnPropertyDescriptors(source));
+    } else {
+        ownKeys(Object(source)).forEach(function(key) {
+            Object.defineProperty(target, key, Object.getOwnPropertyDescriptor(source, key));
+        });
+    }
+    return target;
+}
+
+
+
+
+
+// Should we have a custom details/summary comp in Infima instead of reusing
+// alert classes?
+var InfimaClasses = 'alert alert--info';
+function Details(_param) {
+    var props = _extends({}, _object_destructuring_empty(_param));
+    return /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)(_docusaurus_theme_common_Details__rspack_import_2/* .Details */.B, _object_spread_props(_object_spread({}, props), {
+        className: (0,clsx__rspack_import_4/* ["default"] */.A)(InfimaClasses, (_styles_module_css__rspack_import_3_default().details), props.className)
+    }));
+}
+
+
+},
+88666(__unused_rspack_module, __webpack_exports__, __webpack_require__) {
+"use strict";
+__webpack_require__.d(__webpack_exports__, {
+  A: () => (HomeBreadcrumbItem)
+});
+/* import */ var react_jsx_runtime__rspack_import_0 = __webpack_require__(74848);
+/* import */ var react__rspack_import_1 = __webpack_require__(96540);
+/* import */ var _docusaurus_Link__rspack_import_2 = __webpack_require__(25863);
+/* import */ var _docusaurus_useBaseUrl__rspack_import_3 = __webpack_require__(14748);
+/* import */ var _docusaurus_Translate__rspack_import_4 = __webpack_require__(91785);
+/* import */ var _theme_Icon_Home__rspack_import_5 = __webpack_require__(80828);
+/* import */ var _styles_module_css__rspack_import_6 = __webpack_require__(53428);
+/* import */ var _styles_module_css__rspack_import_6_default = /*#__PURE__*/__webpack_require__.n(_styles_module_css__rspack_import_6);
+/**
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */ 
+
+
+
+
+
+
+function HomeBreadcrumbItem() {
+    var homeHref = (0,_docusaurus_useBaseUrl__rspack_import_3/* ["default"] */.Ay)('/');
+    return /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)("li", {
+        className: "breadcrumbs__item",
+        children: /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)(_docusaurus_Link__rspack_import_2/* ["default"] */.A, {
+            "aria-label": (0,_docusaurus_Translate__rspack_import_4/* .translate */.T)({
+                id: 'theme.docs.breadcrumbs.home',
+                message: 'Home page',
+                description: 'The ARIA label for the home page in the breadcrumbs'
+            }),
+            className: "breadcrumbs__link",
+            href: homeHref,
+            children: /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)(_theme_Icon_Home__rspack_import_5/* ["default"] */.A, {
+                className: (_styles_module_css__rspack_import_6_default().breadcrumbHomeIcon)
+            })
+        })
+    });
+}
+
+
+},
+47299(__unused_rspack_module, __webpack_exports__, __webpack_require__) {
+"use strict";
+__webpack_require__.d(__webpack_exports__, {
+  A: () => (DocBreadcrumbsStructuredData)
+});
+/* import */ var react_jsx_runtime__rspack_import_0 = __webpack_require__(74848);
+/* import */ var react__rspack_import_1 = __webpack_require__(96540);
+/* import */ var _docusaurus_Head__rspack_import_2 = __webpack_require__(83405);
+/* import */ var _docusaurus_plugin_content_docs_client__rspack_import_3 = __webpack_require__(4917);
+/**
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */ 
+
+
+
+function DocBreadcrumbsStructuredData(props) {
+    var structuredData = (0,_docusaurus_plugin_content_docs_client__rspack_import_3/* .useBreadcrumbsStructuredData */.D)({
+        breadcrumbs: props.breadcrumbs
+    });
+    return /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)(_docusaurus_Head__rspack_import_2/* ["default"] */.A, {
+        children: /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)("script", {
+            type: "application/ld+json",
+            children: JSON.stringify(structuredData)
+        })
+    });
+}
+
+
+},
+543(__unused_rspack_module, __webpack_exports__, __webpack_require__) {
+"use strict";
+__webpack_require__.d(__webpack_exports__, {
+  A: () => (DocBreadcrumbs)
+});
+/* import */ var react_jsx_runtime__rspack_import_0 = __webpack_require__(74848);
+/* import */ var react__rspack_import_1 = __webpack_require__(96540);
+/* import */ var clsx__rspack_import_7 = __webpack_require__(18215);
+/* import */ var _docusaurus_theme_common__rspack_import_10 = __webpack_require__(5678);
+/* import */ var _docusaurus_plugin_content_docs_client__rspack_import_8 = __webpack_require__(59829);
+/* import */ var _docusaurus_theme_common_internal__rspack_import_9 = __webpack_require__(96588);
+/* import */ var _docusaurus_Link__rspack_import_2 = __webpack_require__(25863);
+/* import */ var _docusaurus_Translate__rspack_import_3 = __webpack_require__(91785);
+/* import */ var _theme_DocBreadcrumbs_Items_Home__rspack_import_4 = __webpack_require__(88666);
+/* import */ var _theme_DocBreadcrumbs_StructuredData__rspack_import_5 = __webpack_require__(47299);
+/* import */ var _styles_module_css__rspack_import_6 = __webpack_require__(11735);
+/* import */ var _styles_module_css__rspack_import_6_default = /*#__PURE__*/__webpack_require__.n(_styles_module_css__rspack_import_6);
+/**
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */ 
+
+
+
+
+
+
+
+
+
+
+// TODO move to design system folder
+function BreadcrumbsItemLink(param) {
+    var children = param.children, href = param.href, isLast = param.isLast;
+    var className = 'breadcrumbs__link';
+    if (isLast) {
+        return /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)("span", {
+            className: className,
+            children: children
+        });
+    }
+    return href ? /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)(_docusaurus_Link__rspack_import_2/* ["default"] */.A, {
+        className: className,
+        href: href,
+        children: /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)("span", {
+            children: children
+        })
+    }) : /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)("span", {
+        className: className,
+        children: children
+    });
+}
+// TODO move to design system folder
+function BreadcrumbsItem(param) {
+    var children = param.children, active = param.active;
+    return /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)("li", {
+        className: (0,clsx__rspack_import_7/* ["default"] */.A)('breadcrumbs__item', {
+            'breadcrumbs__item--active': active
+        }),
+        children: children
+    });
+}
+function DocBreadcrumbs() {
+    var breadcrumbs = (0,_docusaurus_plugin_content_docs_client__rspack_import_8/* .useSidebarBreadcrumbs */.OF)();
+    var homePageRoute = (0,_docusaurus_theme_common_internal__rspack_import_9/* .useHomePageRoute */.Dt)();
+    if (!breadcrumbs) {
+        return null;
+    }
+    return /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsxs)(react_jsx_runtime__rspack_import_0.Fragment, {
+        children: [
+            /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)(_theme_DocBreadcrumbs_StructuredData__rspack_import_5/* ["default"] */.A, {
+                breadcrumbs: breadcrumbs
+            }),
+            /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)("nav", {
+                className: (0,clsx__rspack_import_7/* ["default"] */.A)(_docusaurus_theme_common__rspack_import_10/* .ThemeClassNames.docs.docBreadcrumbs */.G.docs.docBreadcrumbs, (_styles_module_css__rspack_import_6_default().breadcrumbsContainer)),
+                "aria-label": (0,_docusaurus_Translate__rspack_import_3/* .translate */.T)({
+                    id: 'theme.docs.breadcrumbs.navAriaLabel',
+                    message: 'Breadcrumbs',
+                    description: 'The ARIA label for the breadcrumbs'
+                }),
+                children: /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsxs)("ul", {
+                    className: "breadcrumbs",
+                    children: [
+                        homePageRoute && /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)(_theme_DocBreadcrumbs_Items_Home__rspack_import_4/* ["default"] */.A, {}),
+                        breadcrumbs.map(function(item, idx) {
+                            var isLast = idx === breadcrumbs.length - 1;
+                            var href = item.type === 'category' && item.linkUnlisted ? undefined : item.href;
+                            return /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)(BreadcrumbsItem, {
+                                active: isLast,
+                                children: /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)(BreadcrumbsItemLink, {
+                                    href: href,
+                                    isLast: isLast,
+                                    children: item.label
+                                })
+                            }, idx);
+                        })
+                    ]
+                })
+            })
+        ]
+    });
+}
+
+
+},
+94646(__unused_rspack_module, __webpack_exports__, __webpack_require__) {
+"use strict";
+__webpack_require__.d(__webpack_exports__, {
+  A: () => (DocItemContent)
+});
+/* import */ var react_jsx_runtime__rspack_import_0 = __webpack_require__(74848);
+/* import */ var react__rspack_import_1 = __webpack_require__(96540);
+/* import */ var clsx__rspack_import_5 = __webpack_require__(18215);
+/* import */ var _docusaurus_theme_common__rspack_import_6 = __webpack_require__(5678);
+/* import */ var _docusaurus_plugin_content_docs_client__rspack_import_4 = __webpack_require__(36631);
+/* import */ var _theme_Heading__rspack_import_2 = __webpack_require__(92107);
+/* import */ var _theme_MDXContent__rspack_import_3 = __webpack_require__(57105);
+/**
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */ 
+
+
+
+
+
+
+/**
+ Title can be declared inside md content or declared through
+ front matter and added manually. To make both cases consistent,
+ the added title is added under the same div.markdown block
+ See https://github.com/facebook/docusaurus/pull/4882#issuecomment-853021120
+
+ We render a "synthetic title" if:
+ - user doesn't ask to hide it with front matter
+ - the markdown content does not already contain a top-level h1 heading
+*/ function useSyntheticTitle() {
+    var _useDoc = (0,_docusaurus_plugin_content_docs_client__rspack_import_4/* .useDoc */.u)(), metadata = _useDoc.metadata, frontMatter = _useDoc.frontMatter, contentTitle = _useDoc.contentTitle;
+    var shouldRender = !frontMatter.hide_title && typeof contentTitle === 'undefined';
+    if (!shouldRender) {
+        return null;
+    }
+    return metadata.title;
+}
+function DocItemContent(param) {
+    var children = param.children;
+    var syntheticTitle = useSyntheticTitle();
+    return /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsxs)("div", {
+        className: (0,clsx__rspack_import_5/* ["default"] */.A)(_docusaurus_theme_common__rspack_import_6/* .ThemeClassNames.docs.docMarkdown */.G.docs.docMarkdown, 'markdown'),
+        children: [
+            syntheticTitle && /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)("header", {
+                children: /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)(_theme_Heading__rspack_import_2/* ["default"] */.A, {
+                    as: "h1",
+                    children: syntheticTitle
+                })
+            }),
+            /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)(_theme_MDXContent__rspack_import_3/* ["default"] */.A, {
+                children: children
+            })
+        ]
+    });
+}
+
+
+},
+96214(__unused_rspack_module, __webpack_exports__, __webpack_require__) {
+"use strict";
+__webpack_require__.d(__webpack_exports__, {
+  A: () => (DocItemFooter)
+});
+/* import */ var react_jsx_runtime__rspack_import_0 = __webpack_require__(74848);
+/* import */ var react__rspack_import_1 = __webpack_require__(96540);
+/* import */ var clsx__rspack_import_5 = __webpack_require__(18215);
+/* import */ var _docusaurus_theme_common__rspack_import_6 = __webpack_require__(5678);
+/* import */ var _docusaurus_plugin_content_docs_client__rspack_import_4 = __webpack_require__(36631);
+/* import */ var _theme_TagsListInline__rspack_import_2 = __webpack_require__(61067);
+/* import */ var _theme_EditMetaRow__rspack_import_3 = __webpack_require__(85634);
+/**
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */ 
+
+
+
+
+
+
+function DocItemFooter() {
+    var metadata = (0,_docusaurus_plugin_content_docs_client__rspack_import_4/* .useDoc */.u)().metadata;
+    var editUrl = metadata.editUrl, lastUpdatedAt = metadata.lastUpdatedAt, lastUpdatedBy = metadata.lastUpdatedBy, tags = metadata.tags;
+    var canDisplayTagsRow = tags.length > 0;
+    var canDisplayEditMetaRow = !!(editUrl || lastUpdatedAt || lastUpdatedBy);
+    var canDisplayFooter = canDisplayTagsRow || canDisplayEditMetaRow;
+    if (!canDisplayFooter) {
+        return null;
+    }
+    return /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsxs)("footer", {
+        className: (0,clsx__rspack_import_5/* ["default"] */.A)(_docusaurus_theme_common__rspack_import_6/* .ThemeClassNames.docs.docFooter */.G.docs.docFooter, 'docusaurus-mt-lg'),
+        children: [
+            canDisplayTagsRow && /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)("div", {
+                className: (0,clsx__rspack_import_5/* ["default"] */.A)('row margin-top--sm', _docusaurus_theme_common__rspack_import_6/* .ThemeClassNames.docs.docFooterTagsRow */.G.docs.docFooterTagsRow),
+                children: /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)("div", {
+                    className: "col",
+                    children: /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)(_theme_TagsListInline__rspack_import_2/* ["default"] */.A, {
+                        tags: tags
+                    })
+                })
+            }),
+            canDisplayEditMetaRow && /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)(_theme_EditMetaRow__rspack_import_3/* ["default"] */.A, {
+                className: (0,clsx__rspack_import_5/* ["default"] */.A)('margin-top--sm', _docusaurus_theme_common__rspack_import_6/* .ThemeClassNames.docs.docFooterEditMetaRow */.G.docs.docFooterEditMetaRow),
+                editUrl: editUrl,
+                lastUpdatedAt: lastUpdatedAt,
+                lastUpdatedBy: lastUpdatedBy
+            })
+        ]
+    });
+}
+
+
+},
+7395(__unused_rspack_module, __webpack_exports__, __webpack_require__) {
+"use strict";
+__webpack_require__.d(__webpack_exports__, {
+  A: () => (DocItemLayout)
+});
+/* import */ var react_jsx_runtime__rspack_import_0 = __webpack_require__(74848);
+/* import */ var react__rspack_import_1 = __webpack_require__(96540);
+/* import */ var clsx__rspack_import_14 = __webpack_require__(18215);
+/* import */ var _docusaurus_theme_common__rspack_import_13 = __webpack_require__(23536);
+/* import */ var _docusaurus_plugin_content_docs_client__rspack_import_12 = __webpack_require__(36631);
+/* import */ var _theme_DocItem_Paginator__rspack_import_2 = __webpack_require__(67424);
+/* import */ var _theme_DocVersionBanner__rspack_import_3 = __webpack_require__(91463);
+/* import */ var _theme_DocVersionBadge__rspack_import_4 = __webpack_require__(57092);
+/* import */ var _theme_DocItem_Footer__rspack_import_5 = __webpack_require__(96214);
+/* import */ var _theme_DocItem_TOC_Mobile__rspack_import_6 = __webpack_require__(13776);
+/* import */ var _theme_DocItem_TOC_Desktop__rspack_import_7 = __webpack_require__(48874);
+/* import */ var _theme_DocItem_Content__rspack_import_8 = __webpack_require__(94646);
+/* import */ var _theme_DocBreadcrumbs__rspack_import_9 = __webpack_require__(543);
+/* import */ var _theme_ContentVisibility__rspack_import_10 = __webpack_require__(75336);
+/* import */ var _styles_module_css__rspack_import_11 = __webpack_require__(20443);
+/* import */ var _styles_module_css__rspack_import_11_default = /*#__PURE__*/__webpack_require__.n(_styles_module_css__rspack_import_11);
+/**
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/**
+ * Decide if the toc should be rendered, on mobile or desktop viewports
+ */ function useDocTOC() {
+    var _useDoc = (0,_docusaurus_plugin_content_docs_client__rspack_import_12/* .useDoc */.u)(), frontMatter = _useDoc.frontMatter, toc = _useDoc.toc;
+    var windowSize = (0,_docusaurus_theme_common__rspack_import_13/* .useWindowSize */.l)();
+    var hidden = frontMatter.hide_table_of_contents;
+    var canRender = !hidden && toc.length > 0;
+    var mobile = canRender ? /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)(_theme_DocItem_TOC_Mobile__rspack_import_6/* ["default"] */.A, {}) : undefined;
+    var desktop = canRender && (windowSize === 'desktop' || windowSize === 'ssr') ? /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)(_theme_DocItem_TOC_Desktop__rspack_import_7/* ["default"] */.A, {}) : undefined;
+    return {
+        hidden: hidden,
+        mobile: mobile,
+        desktop: desktop
+    };
+}
+function DocItemLayout(param) {
+    var children = param.children;
+    var docTOC = useDocTOC();
+    var metadata = (0,_docusaurus_plugin_content_docs_client__rspack_import_12/* .useDoc */.u)().metadata;
+    return /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsxs)("div", {
+        className: "row",
+        children: [
+            /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsxs)("div", {
+                className: (0,clsx__rspack_import_14/* ["default"] */.A)('col', !docTOC.hidden && (_styles_module_css__rspack_import_11_default().docItemCol)),
+                children: [
+                    /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)(_theme_ContentVisibility__rspack_import_10/* ["default"] */.A, {
+                        metadata: metadata
+                    }),
+                    /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)(_theme_DocVersionBanner__rspack_import_3/* ["default"] */.A, {}),
+                    /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsxs)("div", {
+                        className: (_styles_module_css__rspack_import_11_default().docItemContainer),
+                        children: [
+                            /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsxs)("article", {
+                                children: [
+                                    /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)(_theme_DocBreadcrumbs__rspack_import_9/* ["default"] */.A, {}),
+                                    /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)(_theme_DocVersionBadge__rspack_import_4/* ["default"] */.A, {}),
+                                    docTOC.mobile,
+                                    /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)(_theme_DocItem_Content__rspack_import_8/* ["default"] */.A, {
+                                        children: children
+                                    }),
+                                    /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)(_theme_DocItem_Footer__rspack_import_5/* ["default"] */.A, {})
+                                ]
+                            }),
+                            /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)(_theme_DocItem_Paginator__rspack_import_2/* ["default"] */.A, {})
+                        ]
+                    })
+                ]
+            }),
+            docTOC.desktop && /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)("div", {
+                className: "col col--3",
+                children: docTOC.desktop
+            })
+        ]
+    });
+}
+
+
+},
+71056(__unused_rspack_module, __webpack_exports__, __webpack_require__) {
+"use strict";
+__webpack_require__.d(__webpack_exports__, {
+  A: () => (DocItemMetadata)
+});
+/* import */ var react_jsx_runtime__rspack_import_0 = __webpack_require__(74848);
+/* import */ var react__rspack_import_1 = __webpack_require__(96540);
+/* import */ var _docusaurus_theme_common__rspack_import_3 = __webpack_require__(64329);
+/* import */ var _docusaurus_plugin_content_docs_client__rspack_import_2 = __webpack_require__(36631);
+/**
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */ 
+
+
+
+function DocItemMetadata() {
+    var _useDoc = (0,_docusaurus_plugin_content_docs_client__rspack_import_2/* .useDoc */.u)(), metadata = _useDoc.metadata, frontMatter = _useDoc.frontMatter, assets = _useDoc.assets;
+    var _assets_image;
+    return /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)(_docusaurus_theme_common__rspack_import_3/* .PageMetadata */.be, {
+        title: metadata.title,
+        description: metadata.description,
+        keywords: frontMatter.keywords,
+        image: (_assets_image = assets.image) !== null && _assets_image !== void 0 ? _assets_image : frontMatter.image
+    });
+}
+
+
+},
+67424(__unused_rspack_module, __webpack_exports__, __webpack_require__) {
+"use strict";
+__webpack_require__.d(__webpack_exports__, {
+  A: () => (DocItemPaginator)
+});
+/* import */ var react_jsx_runtime__rspack_import_0 = __webpack_require__(74848);
+/* import */ var react__rspack_import_1 = __webpack_require__(96540);
+/* import */ var _docusaurus_plugin_content_docs_client__rspack_import_3 = __webpack_require__(36631);
+/* import */ var _theme_DocPaginator__rspack_import_2 = __webpack_require__(72938);
+/**
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */ 
+
+
+
+/**
+ * This extra component is needed, because <DocPaginator> should remain generic.
+ * DocPaginator is used in non-docs contexts too: generated-index pages...
+ */ function DocItemPaginator() {
+    var metadata = (0,_docusaurus_plugin_content_docs_client__rspack_import_3/* .useDoc */.u)().metadata;
+    return /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)(_theme_DocPaginator__rspack_import_2/* ["default"] */.A, {
+        className: "docusaurus-mt-lg",
+        previous: metadata.previous,
+        next: metadata.next
+    });
+}
+
+
+},
+48874(__unused_rspack_module, __webpack_exports__, __webpack_require__) {
+"use strict";
+__webpack_require__.d(__webpack_exports__, {
+  A: () => (DocItemTOCDesktop)
+});
+/* import */ var react_jsx_runtime__rspack_import_0 = __webpack_require__(74848);
+/* import */ var react__rspack_import_1 = __webpack_require__(96540);
+/* import */ var _docusaurus_theme_common__rspack_import_4 = __webpack_require__(5678);
+/* import */ var _docusaurus_plugin_content_docs_client__rspack_import_3 = __webpack_require__(36631);
+/* import */ var _theme_TOC__rspack_import_2 = __webpack_require__(3659);
+/**
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */ 
+
+
+
+
+function DocItemTOCDesktop() {
+    var _useDoc = (0,_docusaurus_plugin_content_docs_client__rspack_import_3/* .useDoc */.u)(), toc = _useDoc.toc, frontMatter = _useDoc.frontMatter;
+    return /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)(_theme_TOC__rspack_import_2/* ["default"] */.A, {
+        toc: toc,
+        minHeadingLevel: frontMatter.toc_min_heading_level,
+        maxHeadingLevel: frontMatter.toc_max_heading_level,
+        className: _docusaurus_theme_common__rspack_import_4/* .ThemeClassNames.docs.docTocDesktop */.G.docs.docTocDesktop
+    });
+}
+
+
+},
+13776(__unused_rspack_module, __webpack_exports__, __webpack_require__) {
+"use strict";
+__webpack_require__.d(__webpack_exports__, {
+  A: () => (DocItemTOCMobile)
+});
+/* import */ var react_jsx_runtime__rspack_import_0 = __webpack_require__(74848);
+/* import */ var react__rspack_import_1 = __webpack_require__(96540);
+/* import */ var clsx__rspack_import_5 = __webpack_require__(18215);
+/* import */ var _docusaurus_theme_common__rspack_import_6 = __webpack_require__(5678);
+/* import */ var _docusaurus_plugin_content_docs_client__rspack_import_4 = __webpack_require__(36631);
+/* import */ var _theme_TOCCollapsible__rspack_import_2 = __webpack_require__(10897);
+/* import */ var _styles_module_css__rspack_import_3 = __webpack_require__(50870);
+/* import */ var _styles_module_css__rspack_import_3_default = /*#__PURE__*/__webpack_require__.n(_styles_module_css__rspack_import_3);
+/**
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */ 
+
+
+
+
+
+
+function DocItemTOCMobile() {
+    var _useDoc = (0,_docusaurus_plugin_content_docs_client__rspack_import_4/* .useDoc */.u)(), toc = _useDoc.toc, frontMatter = _useDoc.frontMatter;
+    return /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)(_theme_TOCCollapsible__rspack_import_2/* ["default"] */.A, {
+        toc: toc,
+        minHeadingLevel: frontMatter.toc_min_heading_level,
+        maxHeadingLevel: frontMatter.toc_max_heading_level,
+        className: (0,clsx__rspack_import_5/* ["default"] */.A)(_docusaurus_theme_common__rspack_import_6/* .ThemeClassNames.docs.docTocMobile */.G.docs.docTocMobile, (_styles_module_css__rspack_import_3_default().tocMobile))
+    });
+}
+
+
+},
+27632(__unused_rspack_module, __webpack_exports__, __webpack_require__) {
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+__webpack_require__.d(__webpack_exports__, {
+  "default": () => (DocItem)
+});
+/* import */ var react_jsx_runtime__rspack_import_0 = __webpack_require__(74848);
+/* import */ var react__rspack_import_1 = __webpack_require__(96540);
+/* import */ var _docusaurus_theme_common__rspack_import_5 = __webpack_require__(64329);
+/* import */ var _docusaurus_plugin_content_docs_client__rspack_import_4 = __webpack_require__(36631);
+/* import */ var _theme_DocItem_Metadata__rspack_import_2 = __webpack_require__(71056);
+/* import */ var _theme_DocItem_Layout__rspack_import_3 = __webpack_require__(7395);
+/**
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */ 
+
+
+
+
+
+function DocItem(props) {
+    var docHtmlClassName = "docs-doc-id-".concat(props.content.metadata.id);
+    var MDXComponent = props.content;
+    return /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)(_docusaurus_plugin_content_docs_client__rspack_import_4/* .DocProvider */._, {
+        content: props.content,
+        children: /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsxs)(_docusaurus_theme_common__rspack_import_5/* .HtmlClassNameProvider */.e3, {
+            className: docHtmlClassName,
+            children: [
+                /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)(_theme_DocItem_Metadata__rspack_import_2/* ["default"] */.A, {}),
+                /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)(_theme_DocItem_Layout__rspack_import_3/* ["default"] */.A, {
+                    children: /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)(MDXComponent, {})
+                })
+            ]
+        })
+    });
+}
+
+
+},
+72938(__unused_rspack_module, __webpack_exports__, __webpack_require__) {
+"use strict";
+__webpack_require__.d(__webpack_exports__, {
+  A: () => (DocPaginator)
+});
+/* import */ var react_jsx_runtime__rspack_import_0 = __webpack_require__(74848);
+/* import */ var react__rspack_import_1 = __webpack_require__(96540);
+/* import */ var clsx__rspack_import_4 = __webpack_require__(18215);
+/* import */ var _docusaurus_Translate__rspack_import_2 = __webpack_require__(91785);
+/* import */ var _theme_PaginatorNavLink__rspack_import_3 = __webpack_require__(47291);
+/**
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */ function _define_property(obj, key, value) {
+    if (key in obj) {
+        Object.defineProperty(obj, key, {
+            value: value,
+            enumerable: true,
+            configurable: true,
+            writable: true
+        });
+    } else {
+        obj[key] = value;
+    }
+    return obj;
+}
+function _object_spread(target) {
+    for(var i = 1; i < arguments.length; i++){
+        var source = arguments[i] != null ? arguments[i] : {};
+        var ownKeys = Object.keys(source);
+        if (typeof Object.getOwnPropertySymbols === "function") {
+            ownKeys = ownKeys.concat(Object.getOwnPropertySymbols(source).filter(function(sym) {
+                return Object.getOwnPropertyDescriptor(source, sym).enumerable;
+            }));
+        }
+        ownKeys.forEach(function(key) {
+            _define_property(target, key, source[key]);
+        });
+    }
+    return target;
+}
+function ownKeys(object, enumerableOnly) {
+    var keys = Object.keys(object);
+    if (Object.getOwnPropertySymbols) {
+        var symbols = Object.getOwnPropertySymbols(object);
+        if (enumerableOnly) {
+            symbols = symbols.filter(function(sym) {
+                return Object.getOwnPropertyDescriptor(object, sym).enumerable;
+            });
+        }
+        keys.push.apply(keys, symbols);
+    }
+    return keys;
+}
+function _object_spread_props(target, source) {
+    source = source != null ? source : {};
+    if (Object.getOwnPropertyDescriptors) {
+        Object.defineProperties(target, Object.getOwnPropertyDescriptors(source));
+    } else {
+        ownKeys(Object(source)).forEach(function(key) {
+            Object.defineProperty(target, key, Object.getOwnPropertyDescriptor(source, key));
+        });
+    }
+    return target;
+}
+
+
+
+
+
+function DocPaginator(props) {
+    var className = props.className, previous = props.previous, next = props.next;
+    return /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsxs)("nav", {
+        className: (0,clsx__rspack_import_4/* ["default"] */.A)(className, 'pagination-nav'),
+        "aria-label": (0,_docusaurus_Translate__rspack_import_2/* .translate */.T)({
+            id: 'theme.docs.paginator.navAriaLabel',
+            message: 'Docs pages',
+            description: 'The ARIA label for the docs pagination'
+        }),
+        children: [
+            previous && /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)(_theme_PaginatorNavLink__rspack_import_3/* ["default"] */.A, _object_spread_props(_object_spread({}, previous), {
+                subLabel: /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)(_docusaurus_Translate__rspack_import_2/* ["default"] */.A, {
+                    id: "theme.docs.paginator.previous",
+                    description: "The label used to navigate to the previous doc",
+                    children: "Previous"
+                })
+            })),
+            next && /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)(_theme_PaginatorNavLink__rspack_import_3/* ["default"] */.A, _object_spread_props(_object_spread({}, next), {
+                subLabel: /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)(_docusaurus_Translate__rspack_import_2/* ["default"] */.A, {
+                    id: "theme.docs.paginator.next",
+                    description: "The label used to navigate to the next doc",
+                    children: "Next"
+                }),
+                isNext: true
+            }))
+        ]
+    });
+}
+
+
+},
+57092(__unused_rspack_module, __webpack_exports__, __webpack_require__) {
+"use strict";
+__webpack_require__.d(__webpack_exports__, {
+  A: () => (DocVersionBadge)
+});
+/* import */ var react_jsx_runtime__rspack_import_0 = __webpack_require__(74848);
+/* import */ var react__rspack_import_1 = __webpack_require__(96540);
+/* import */ var clsx__rspack_import_4 = __webpack_require__(18215);
+/* import */ var _docusaurus_Translate__rspack_import_2 = __webpack_require__(91785);
+/* import */ var _docusaurus_theme_common__rspack_import_5 = __webpack_require__(5678);
+/* import */ var _docusaurus_plugin_content_docs_client__rspack_import_3 = __webpack_require__(50608);
+/**
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */ 
+
+
+
+
+
+function DocVersionBadge(param) {
+    var className = param.className;
+    var versionMetadata = (0,_docusaurus_plugin_content_docs_client__rspack_import_3/* .useDocsVersion */.r)();
+    if (versionMetadata.badge) {
+        return /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)("span", {
+            className: (0,clsx__rspack_import_4/* ["default"] */.A)(className, _docusaurus_theme_common__rspack_import_5/* .ThemeClassNames.docs.docVersionBadge */.G.docs.docVersionBadge, 'badge badge--secondary'),
+            children: /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)(_docusaurus_Translate__rspack_import_2/* ["default"] */.A, {
+                id: "theme.docs.versionBadge.label",
+                values: {
+                    versionLabel: versionMetadata.label
+                },
+                children: 'Version: {versionLabel}'
+            })
+        });
+    }
+    return null;
+}
+
+
+},
+91463(__unused_rspack_module, __webpack_exports__, __webpack_require__) {
+"use strict";
+__webpack_require__.d(__webpack_exports__, {
+  A: () => (DocVersionBanner)
+});
+/* import */ var react_jsx_runtime__rspack_import_0 = __webpack_require__(74848);
+/* import */ var react__rspack_import_1 = __webpack_require__(96540);
+/* import */ var clsx__rspack_import_7 = __webpack_require__(18215);
+/* import */ var _docusaurus_useDocusaurusContext__rspack_import_2 = __webpack_require__(19087);
+/* import */ var _docusaurus_Link__rspack_import_3 = __webpack_require__(25863);
+/* import */ var _docusaurus_Translate__rspack_import_4 = __webpack_require__(91785);
+/* import */ var _docusaurus_plugin_content_docs_client__rspack_import_5 = __webpack_require__(4421);
+/* import */ var _docusaurus_theme_common__rspack_import_8 = __webpack_require__(5678);
+/* import */ var _docusaurus_plugin_content_docs_client__rspack_import_6 = __webpack_require__(53761);
+/* import */ var _docusaurus_plugin_content_docs_client__rspack_import_9 = __webpack_require__(50608);
+/**
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */ function _define_property(obj, key, value) {
+    if (key in obj) {
+        Object.defineProperty(obj, key, {
+            value: value,
+            enumerable: true,
+            configurable: true,
+            writable: true
+        });
+    } else {
+        obj[key] = value;
+    }
+    return obj;
+}
+function _object_spread(target) {
+    for(var i = 1; i < arguments.length; i++){
+        var source = arguments[i] != null ? arguments[i] : {};
+        var ownKeys = Object.keys(source);
+        if (typeof Object.getOwnPropertySymbols === "function") {
+            ownKeys = ownKeys.concat(Object.getOwnPropertySymbols(source).filter(function(sym) {
+                return Object.getOwnPropertyDescriptor(source, sym).enumerable;
+            }));
+        }
+        ownKeys.forEach(function(key) {
+            _define_property(target, key, source[key]);
+        });
+    }
+    return target;
+}
+
+
+
+
+
+
+
+
+
+function UnreleasedVersionLabel(param) {
+    var siteTitle = param.siteTitle, versionMetadata = param.versionMetadata;
+    return /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)(_docusaurus_Translate__rspack_import_4/* ["default"] */.A, {
+        id: "theme.docs.versions.unreleasedVersionLabel",
+        description: "The label used to tell the user that he's browsing an unreleased doc version",
+        values: {
+            siteTitle: siteTitle,
+            versionLabel: /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)("b", {
+                children: versionMetadata.label
+            })
+        },
+        children: 'This is unreleased documentation for {siteTitle} {versionLabel} version.'
+    });
+}
+function UnmaintainedVersionLabel(param) {
+    var siteTitle = param.siteTitle, versionMetadata = param.versionMetadata;
+    return /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)(_docusaurus_Translate__rspack_import_4/* ["default"] */.A, {
+        id: "theme.docs.versions.unmaintainedVersionLabel",
+        description: "The label used to tell the user that he's browsing an unmaintained doc version",
+        values: {
+            siteTitle: siteTitle,
+            versionLabel: /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)("b", {
+                children: versionMetadata.label
+            })
+        },
+        children: 'This is documentation for {siteTitle} {versionLabel}, which is no longer actively maintained.'
+    });
+}
+var BannerLabelComponents = {
+    unreleased: UnreleasedVersionLabel,
+    unmaintained: UnmaintainedVersionLabel
+};
+function BannerLabel(props) {
+    var BannerLabelComponent = BannerLabelComponents[props.versionMetadata.banner];
+    return /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)(BannerLabelComponent, _object_spread({}, props));
+}
+function LatestVersionSuggestionLabel(param) {
+    var versionLabel = param.versionLabel, to = param.to, onClick = param.onClick;
+    return /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)(_docusaurus_Translate__rspack_import_4/* ["default"] */.A, {
+        id: "theme.docs.versions.latestVersionSuggestionLabel",
+        description: "The label used to tell the user to check the latest version",
+        values: {
+            versionLabel: versionLabel,
+            latestVersionLink: /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)("b", {
+                children: /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)(_docusaurus_Link__rspack_import_3/* ["default"] */.A, {
+                    to: to,
+                    onClick: onClick,
+                    children: /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)(_docusaurus_Translate__rspack_import_4/* ["default"] */.A, {
+                        id: "theme.docs.versions.latestVersionLinkLabel",
+                        description: "The label used for the latest version suggestion link label",
+                        children: "latest version"
+                    })
+                })
+            })
+        },
+        children: 'For up-to-date documentation, see the {latestVersionLink} ({versionLabel}).'
+    });
+}
+function DocVersionBannerEnabled(param) {
+    var className = param.className, versionMetadata = param.versionMetadata;
+    var _useDocusaurusContext = (0,_docusaurus_useDocusaurusContext__rspack_import_2/* ["default"] */.A)(), _useDocusaurusContext_siteConfig = _useDocusaurusContext.siteConfig, siteTitle = _useDocusaurusContext_siteConfig.title;
+    var pluginId = (0,_docusaurus_plugin_content_docs_client__rspack_import_5/* .useActivePlugin */.vT)({
+        failfast: true
+    }).pluginId;
+    var getVersionMainDoc = function(version) {
+        return version.docs.find(function(doc) {
+            return doc.id === version.mainDocId;
+        });
+    };
+    var savePreferredVersionName = (0,_docusaurus_plugin_content_docs_client__rspack_import_6/* .useDocsPreferredVersion */.g1)(pluginId).savePreferredVersionName;
+    var _useDocVersionSuggestions = (0,_docusaurus_plugin_content_docs_client__rspack_import_5/* .useDocVersionSuggestions */.HW)(pluginId), latestDocSuggestion = _useDocVersionSuggestions.latestDocSuggestion, latestVersionSuggestion = _useDocVersionSuggestions.latestVersionSuggestion;
+    // Try to link to same doc in latest version (not always possible), falling
+    // back to main doc of latest version
+    var latestVersionSuggestedDoc = latestDocSuggestion !== null && latestDocSuggestion !== void 0 ? latestDocSuggestion : getVersionMainDoc(latestVersionSuggestion);
+    return /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsxs)("div", {
+        className: (0,clsx__rspack_import_7/* ["default"] */.A)(className, _docusaurus_theme_common__rspack_import_8/* .ThemeClassNames.docs.docVersionBanner */.G.docs.docVersionBanner, 'alert alert--warning margin-bottom--md'),
+        role: "alert",
+        children: [
+            /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)("div", {
+                children: /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)(BannerLabel, {
+                    siteTitle: siteTitle,
+                    versionMetadata: versionMetadata
+                })
+            }),
+            /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)("div", {
+                className: "margin-top--md",
+                children: /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)(LatestVersionSuggestionLabel, {
+                    versionLabel: latestVersionSuggestion.label,
+                    to: latestVersionSuggestedDoc.path,
+                    onClick: function() {
+                        return savePreferredVersionName(latestVersionSuggestion.name);
+                    }
+                })
+            })
+        ]
+    });
+}
+function DocVersionBanner(param) {
+    var className = param.className;
+    var versionMetadata = (0,_docusaurus_plugin_content_docs_client__rspack_import_9/* .useDocsVersion */.r)();
+    if (versionMetadata.banner) {
+        return /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)(DocVersionBannerEnabled, {
+            className: className,
+            versionMetadata: versionMetadata
+        });
+    }
+    return null;
+}
+
+
+},
+85634(__unused_rspack_module, __webpack_exports__, __webpack_require__) {
+"use strict";
+__webpack_require__.d(__webpack_exports__, {
+  A: () => (EditMetaRow)
+});
+/* import */ var react_jsx_runtime__rspack_import_0 = __webpack_require__(74848);
+/* import */ var react__rspack_import_1 = __webpack_require__(96540);
+/* import */ var clsx__rspack_import_5 = __webpack_require__(18215);
+/* import */ var _theme_EditThisPage__rspack_import_2 = __webpack_require__(99372);
+/* import */ var _theme_LastUpdated__rspack_import_3 = __webpack_require__(97974);
+/* import */ var _styles_module_css__rspack_import_4 = __webpack_require__(52172);
+/* import */ var _styles_module_css__rspack_import_4_default = /*#__PURE__*/__webpack_require__.n(_styles_module_css__rspack_import_4);
+/**
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */ 
+
+
+
+
+
+function EditMetaRow(param) {
+    var className = param.className, editUrl = param.editUrl, lastUpdatedAt = param.lastUpdatedAt, lastUpdatedBy = param.lastUpdatedBy;
+    return /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsxs)("div", {
+        className: (0,clsx__rspack_import_5/* ["default"] */.A)('row', className),
+        children: [
+            /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)("div", {
+                className: (0,clsx__rspack_import_5/* ["default"] */.A)('col', (_styles_module_css__rspack_import_4_default().noPrint)),
+                children: editUrl && /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)(_theme_EditThisPage__rspack_import_2/* ["default"] */.A, {
+                    editUrl: editUrl
+                })
+            }),
+            /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)("div", {
+                className: (0,clsx__rspack_import_5/* ["default"] */.A)('col', (_styles_module_css__rspack_import_4_default().lastUpdated)),
+                children: (lastUpdatedAt || lastUpdatedBy) && /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)(_theme_LastUpdated__rspack_import_3/* ["default"] */.A, {
+                    lastUpdatedAt: lastUpdatedAt,
+                    lastUpdatedBy: lastUpdatedBy
+                })
+            })
+        ]
+    });
+}
+
+
+},
+99372(__unused_rspack_module, __webpack_exports__, __webpack_require__) {
+"use strict";
+__webpack_require__.d(__webpack_exports__, {
+  A: () => (EditThisPage)
+});
+/* import */ var react_jsx_runtime__rspack_import_0 = __webpack_require__(74848);
+/* import */ var react__rspack_import_1 = __webpack_require__(96540);
+/* import */ var _docusaurus_Translate__rspack_import_2 = __webpack_require__(91785);
+/* import */ var _docusaurus_theme_common__rspack_import_5 = __webpack_require__(5678);
+/* import */ var _docusaurus_Link__rspack_import_3 = __webpack_require__(25863);
+/* import */ var _theme_Icon_Edit__rspack_import_4 = __webpack_require__(30727);
+/**
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */ 
+
+
+
+
+
+function EditThisPage(param) {
+    var editUrl = param.editUrl;
+    return /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsxs)(_docusaurus_Link__rspack_import_3/* ["default"] */.A, {
+        to: editUrl,
+        className: _docusaurus_theme_common__rspack_import_5/* .ThemeClassNames.common.editThisPage */.G.common.editThisPage,
+        children: [
+            /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)(_theme_Icon_Edit__rspack_import_4/* ["default"] */.A, {}),
+            /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)(_docusaurus_Translate__rspack_import_2/* ["default"] */.A, {
+                id: "theme.common.editThisPage",
+                description: "The link label to edit the current page",
+                children: "Edit this page"
+            })
+        ]
+    });
+}
+
+
+},
+87882(__unused_rspack_module, __webpack_exports__, __webpack_require__) {
+"use strict";
+__webpack_require__.d(__webpack_exports__, {
+  A: () => (IconCopy)
+});
+/* import */ var react_jsx_runtime__rspack_import_0 = __webpack_require__(74848);
+/* import */ var react__rspack_import_1 = __webpack_require__(96540);
+/**
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */ function _define_property(obj, key, value) {
+    if (key in obj) {
+        Object.defineProperty(obj, key, {
+            value: value,
+            enumerable: true,
+            configurable: true,
+            writable: true
+        });
+    } else {
+        obj[key] = value;
+    }
+    return obj;
+}
+function _object_spread(target) {
+    for(var i = 1; i < arguments.length; i++){
+        var source = arguments[i] != null ? arguments[i] : {};
+        var ownKeys = Object.keys(source);
+        if (typeof Object.getOwnPropertySymbols === "function") {
+            ownKeys = ownKeys.concat(Object.getOwnPropertySymbols(source).filter(function(sym) {
+                return Object.getOwnPropertyDescriptor(source, sym).enumerable;
+            }));
+        }
+        ownKeys.forEach(function(key) {
+            _define_property(target, key, source[key]);
+        });
+    }
+    return target;
+}
+function ownKeys(object, enumerableOnly) {
+    var keys = Object.keys(object);
+    if (Object.getOwnPropertySymbols) {
+        var symbols = Object.getOwnPropertySymbols(object);
+        if (enumerableOnly) {
+            symbols = symbols.filter(function(sym) {
+                return Object.getOwnPropertyDescriptor(object, sym).enumerable;
+            });
+        }
+        keys.push.apply(keys, symbols);
+    }
+    return keys;
+}
+function _object_spread_props(target, source) {
+    source = source != null ? source : {};
+    if (Object.getOwnPropertyDescriptors) {
+        Object.defineProperties(target, Object.getOwnPropertyDescriptors(source));
+    } else {
+        ownKeys(Object(source)).forEach(function(key) {
+            Object.defineProperty(target, key, Object.getOwnPropertyDescriptor(source, key));
+        });
+    }
+    return target;
+}
+
+
+function IconCopy(props) {
+    return /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)("svg", _object_spread_props(_object_spread({
+        viewBox: "0 0 24 24"
+    }, props), {
+        children: /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)("path", {
+            fill: "currentColor",
+            d: "M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"
+        })
+    }));
+}
+
+
+},
+30727(__unused_rspack_module, __webpack_exports__, __webpack_require__) {
+"use strict";
+__webpack_require__.d(__webpack_exports__, {
+  A: () => (IconEdit)
+});
+/* import */ var react_jsx_runtime__rspack_import_0 = __webpack_require__(74848);
+/* import */ var react__rspack_import_1 = __webpack_require__(96540);
+/* import */ var clsx__rspack_import_3 = __webpack_require__(18215);
+/* import */ var _styles_module_css__rspack_import_2 = __webpack_require__(76079);
+/* import */ var _styles_module_css__rspack_import_2_default = /*#__PURE__*/__webpack_require__.n(_styles_module_css__rspack_import_2);
+/**
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */ function _define_property(obj, key, value) {
+    if (key in obj) {
+        Object.defineProperty(obj, key, {
+            value: value,
+            enumerable: true,
+            configurable: true,
+            writable: true
+        });
+    } else {
+        obj[key] = value;
+    }
+    return obj;
+}
+function _object_spread(target) {
+    for(var i = 1; i < arguments.length; i++){
+        var source = arguments[i] != null ? arguments[i] : {};
+        var ownKeys = Object.keys(source);
+        if (typeof Object.getOwnPropertySymbols === "function") {
+            ownKeys = ownKeys.concat(Object.getOwnPropertySymbols(source).filter(function(sym) {
+                return Object.getOwnPropertyDescriptor(source, sym).enumerable;
+            }));
+        }
+        ownKeys.forEach(function(key) {
+            _define_property(target, key, source[key]);
+        });
+    }
+    return target;
+}
+function ownKeys(object, enumerableOnly) {
+    var keys = Object.keys(object);
+    if (Object.getOwnPropertySymbols) {
+        var symbols = Object.getOwnPropertySymbols(object);
+        if (enumerableOnly) {
+            symbols = symbols.filter(function(sym) {
+                return Object.getOwnPropertyDescriptor(object, sym).enumerable;
+            });
+        }
+        keys.push.apply(keys, symbols);
+    }
+    return keys;
+}
+function _object_spread_props(target, source) {
+    source = source != null ? source : {};
+    if (Object.getOwnPropertyDescriptors) {
+        Object.defineProperties(target, Object.getOwnPropertyDescriptors(source));
+    } else {
+        ownKeys(Object(source)).forEach(function(key) {
+            Object.defineProperty(target, key, Object.getOwnPropertyDescriptor(source, key));
+        });
+    }
+    return target;
+}
+function _object_without_properties(source, excluded) {
+    if (source == null) return {};
+    var target = _object_without_properties_loose(source, excluded);
+    var key, i;
+    if (Object.getOwnPropertySymbols) {
+        var sourceSymbolKeys = Object.getOwnPropertySymbols(source);
+        for(i = 0; i < sourceSymbolKeys.length; i++){
+            key = sourceSymbolKeys[i];
+            if (excluded.indexOf(key) >= 0) continue;
+            if (!Object.prototype.propertyIsEnumerable.call(source, key)) continue;
+            target[key] = source[key];
+        }
+    }
+    return target;
+}
+function _object_without_properties_loose(source, excluded) {
+    if (source == null) return {};
+    var target = {};
+    var sourceKeys = Object.keys(source);
+    var key, i;
+    for(i = 0; i < sourceKeys.length; i++){
+        key = sourceKeys[i];
+        if (excluded.indexOf(key) >= 0) continue;
+        target[key] = source[key];
+    }
+    return target;
+}
+
+
+
+
+function IconEdit(_param) {
+    var className = _param.className, restProps = _object_without_properties(_param, [
+        "className"
+    ]);
+    return /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)("svg", _object_spread_props(_object_spread({
+        fill: "currentColor",
+        height: "20",
+        width: "20",
+        viewBox: "0 0 40 40",
+        className: (0,clsx__rspack_import_3/* ["default"] */.A)((_styles_module_css__rspack_import_2_default().iconEdit), className),
+        "aria-hidden": "true"
+    }, restProps), {
+        children: /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)("g", {
+            children: /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)("path", {
+                d: "m34.5 11.7l-3 3.1-6.3-6.3 3.1-3q0.5-0.5 1.2-0.5t1.1 0.5l3.9 3.9q0.5 0.4 0.5 1.1t-0.5 1.2z m-29.5 17.1l18.4-18.5 6.3 6.3-18.4 18.4h-6.3v-6.2z"
+            })
+        })
+    }));
+}
+
+
+},
+80828(__unused_rspack_module, __webpack_exports__, __webpack_require__) {
+"use strict";
+__webpack_require__.d(__webpack_exports__, {
+  A: () => (IconHome)
+});
+/* import */ var react_jsx_runtime__rspack_import_0 = __webpack_require__(74848);
+/* import */ var react__rspack_import_1 = __webpack_require__(96540);
+/**
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */ function _define_property(obj, key, value) {
+    if (key in obj) {
+        Object.defineProperty(obj, key, {
+            value: value,
+            enumerable: true,
+            configurable: true,
+            writable: true
+        });
+    } else {
+        obj[key] = value;
+    }
+    return obj;
+}
+function _object_spread(target) {
+    for(var i = 1; i < arguments.length; i++){
+        var source = arguments[i] != null ? arguments[i] : {};
+        var ownKeys = Object.keys(source);
+        if (typeof Object.getOwnPropertySymbols === "function") {
+            ownKeys = ownKeys.concat(Object.getOwnPropertySymbols(source).filter(function(sym) {
+                return Object.getOwnPropertyDescriptor(source, sym).enumerable;
+            }));
+        }
+        ownKeys.forEach(function(key) {
+            _define_property(target, key, source[key]);
+        });
+    }
+    return target;
+}
+function ownKeys(object, enumerableOnly) {
+    var keys = Object.keys(object);
+    if (Object.getOwnPropertySymbols) {
+        var symbols = Object.getOwnPropertySymbols(object);
+        if (enumerableOnly) {
+            symbols = symbols.filter(function(sym) {
+                return Object.getOwnPropertyDescriptor(object, sym).enumerable;
+            });
+        }
+        keys.push.apply(keys, symbols);
+    }
+    return keys;
+}
+function _object_spread_props(target, source) {
+    source = source != null ? source : {};
+    if (Object.getOwnPropertyDescriptors) {
+        Object.defineProperties(target, Object.getOwnPropertyDescriptors(source));
+    } else {
+        ownKeys(Object(source)).forEach(function(key) {
+            Object.defineProperty(target, key, Object.getOwnPropertyDescriptor(source, key));
+        });
+    }
+    return target;
+}
+
+
+function IconHome(props) {
+    return /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)("svg", _object_spread_props(_object_spread({
+        viewBox: "0 0 24 24"
+    }, props), {
+        children: /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)("path", {
+            d: "M10 19v-5h4v5c0 .55.45 1 1 1h3c.55 0 1-.45 1-1v-7h1.7c.46 0 .68-.57.33-.87L12.67 3.6c-.38-.34-.96-.34-1.34 0l-8.36 7.53c-.34.3-.13.87.33.87H5v7c0 .55.45 1 1 1h3c.55 0 1-.45 1-1z",
+            fill: "currentColor"
+        })
+    }));
+}
+
+
+},
+67494(__unused_rspack_module, __webpack_exports__, __webpack_require__) {
+"use strict";
+__webpack_require__.d(__webpack_exports__, {
+  A: () => (IconSuccess)
+});
+/* import */ var react_jsx_runtime__rspack_import_0 = __webpack_require__(74848);
+/* import */ var react__rspack_import_1 = __webpack_require__(96540);
+/**
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */ function _define_property(obj, key, value) {
+    if (key in obj) {
+        Object.defineProperty(obj, key, {
+            value: value,
+            enumerable: true,
+            configurable: true,
+            writable: true
+        });
+    } else {
+        obj[key] = value;
+    }
+    return obj;
+}
+function _object_spread(target) {
+    for(var i = 1; i < arguments.length; i++){
+        var source = arguments[i] != null ? arguments[i] : {};
+        var ownKeys = Object.keys(source);
+        if (typeof Object.getOwnPropertySymbols === "function") {
+            ownKeys = ownKeys.concat(Object.getOwnPropertySymbols(source).filter(function(sym) {
+                return Object.getOwnPropertyDescriptor(source, sym).enumerable;
+            }));
+        }
+        ownKeys.forEach(function(key) {
+            _define_property(target, key, source[key]);
+        });
+    }
+    return target;
+}
+function ownKeys(object, enumerableOnly) {
+    var keys = Object.keys(object);
+    if (Object.getOwnPropertySymbols) {
+        var symbols = Object.getOwnPropertySymbols(object);
+        if (enumerableOnly) {
+            symbols = symbols.filter(function(sym) {
+                return Object.getOwnPropertyDescriptor(object, sym).enumerable;
+            });
+        }
+        keys.push.apply(keys, symbols);
+    }
+    return keys;
+}
+function _object_spread_props(target, source) {
+    source = source != null ? source : {};
+    if (Object.getOwnPropertyDescriptors) {
+        Object.defineProperties(target, Object.getOwnPropertyDescriptors(source));
+    } else {
+        ownKeys(Object(source)).forEach(function(key) {
+            Object.defineProperty(target, key, Object.getOwnPropertyDescriptor(source, key));
+        });
+    }
+    return target;
+}
+
+
+function IconSuccess(props) {
+    return /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)("svg", _object_spread_props(_object_spread({
+        viewBox: "0 0 24 24"
+    }, props), {
+        children: /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)("path", {
+            fill: "currentColor",
+            d: "M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"
+        })
+    }));
+}
+
+
+},
+63567(__unused_rspack_module, __webpack_exports__, __webpack_require__) {
+"use strict";
+__webpack_require__.d(__webpack_exports__, {
+  A: () => (IconWordWrap)
+});
+/* import */ var react_jsx_runtime__rspack_import_0 = __webpack_require__(74848);
+/* import */ var react__rspack_import_1 = __webpack_require__(96540);
+/**
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */ function _define_property(obj, key, value) {
+    if (key in obj) {
+        Object.defineProperty(obj, key, {
+            value: value,
+            enumerable: true,
+            configurable: true,
+            writable: true
+        });
+    } else {
+        obj[key] = value;
+    }
+    return obj;
+}
+function _object_spread(target) {
+    for(var i = 1; i < arguments.length; i++){
+        var source = arguments[i] != null ? arguments[i] : {};
+        var ownKeys = Object.keys(source);
+        if (typeof Object.getOwnPropertySymbols === "function") {
+            ownKeys = ownKeys.concat(Object.getOwnPropertySymbols(source).filter(function(sym) {
+                return Object.getOwnPropertyDescriptor(source, sym).enumerable;
+            }));
+        }
+        ownKeys.forEach(function(key) {
+            _define_property(target, key, source[key]);
+        });
+    }
+    return target;
+}
+function ownKeys(object, enumerableOnly) {
+    var keys = Object.keys(object);
+    if (Object.getOwnPropertySymbols) {
+        var symbols = Object.getOwnPropertySymbols(object);
+        if (enumerableOnly) {
+            symbols = symbols.filter(function(sym) {
+                return Object.getOwnPropertyDescriptor(object, sym).enumerable;
+            });
+        }
+        keys.push.apply(keys, symbols);
+    }
+    return keys;
+}
+function _object_spread_props(target, source) {
+    source = source != null ? source : {};
+    if (Object.getOwnPropertyDescriptors) {
+        Object.defineProperties(target, Object.getOwnPropertyDescriptors(source));
+    } else {
+        ownKeys(Object(source)).forEach(function(key) {
+            Object.defineProperty(target, key, Object.getOwnPropertyDescriptor(source, key));
+        });
+    }
+    return target;
+}
+
+
+function IconWordWrap(props) {
+    return /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)("svg", _object_spread_props(_object_spread({
+        viewBox: "0 0 24 24"
+    }, props), {
+        children: /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)("path", {
+            fill: "currentColor",
+            d: "M4 19h6v-2H4v2zM20 5H4v2h16V5zm-3 6H4v2h13.25c1.1 0 2 .9 2 2s-.9 2-2 2H15v-2l-3 3l3 3v-2h2c2.21 0 4-1.79 4-4s-1.79-4-4-4z"
+        })
+    }));
+}
+
+
+},
+97974(__unused_rspack_module, __webpack_exports__, __webpack_require__) {
+"use strict";
+__webpack_require__.d(__webpack_exports__, {
+  A: () => (LastUpdated)
+});
+/* import */ var react_jsx_runtime__rspack_import_0 = __webpack_require__(74848);
+/* import */ var react__rspack_import_1 = __webpack_require__(96540);
+/* import */ var _docusaurus_Translate__rspack_import_2 = __webpack_require__(91785);
+/* import */ var _docusaurus_theme_common__rspack_import_4 = __webpack_require__(5678);
+/* import */ var _docusaurus_theme_common_internal__rspack_import_3 = __webpack_require__(39407);
+/**
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */ 
+
+
+
+
+function LastUpdatedAtDate(param) {
+    var lastUpdatedAt = param.lastUpdatedAt;
+    var atDate = new Date(lastUpdatedAt);
+    var dateTimeFormat = (0,_docusaurus_theme_common_internal__rspack_import_3/* .useDateTimeFormat */.i)({
+        day: 'numeric',
+        month: 'short',
+        year: 'numeric',
+        timeZone: 'UTC'
+    });
+    var formattedLastUpdatedAt = dateTimeFormat.format(atDate);
+    return /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)(_docusaurus_Translate__rspack_import_2/* ["default"] */.A, {
+        id: "theme.lastUpdated.atDate",
+        description: "The words used to describe on which date a page has been last updated",
+        values: {
+            date: /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)("b", {
+                children: /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)("time", {
+                    dateTime: atDate.toISOString(),
+                    itemProp: "dateModified",
+                    children: formattedLastUpdatedAt
+                })
+            })
+        },
+        children: ' on {date}'
+    });
+}
+function LastUpdatedByUser(param) {
+    var lastUpdatedBy = param.lastUpdatedBy;
+    return /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)(_docusaurus_Translate__rspack_import_2/* ["default"] */.A, {
+        id: "theme.lastUpdated.byUser",
+        description: "The words used to describe by who the page has been last updated",
+        values: {
+            user: /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)("b", {
+                children: lastUpdatedBy
+            })
+        },
+        children: ' by {user}'
+    });
+}
+function LastUpdated(param) {
+    var lastUpdatedAt = param.lastUpdatedAt, lastUpdatedBy = param.lastUpdatedBy;
+    return /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsxs)("span", {
+        className: _docusaurus_theme_common__rspack_import_4/* .ThemeClassNames.common.lastUpdated */.G.common.lastUpdated,
+        children: [
+            /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)(_docusaurus_Translate__rspack_import_2/* ["default"] */.A, {
+                id: "theme.lastUpdated.lastUpdatedAtBy",
+                description: "The sentence used to display when a page has been last updated, and by who",
+                values: {
+                    atDate: lastUpdatedAt ? /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)(LastUpdatedAtDate, {
+                        lastUpdatedAt: lastUpdatedAt
+                    }) : '',
+                    byUser: lastUpdatedBy ? /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)(LastUpdatedByUser, {
+                        lastUpdatedBy: lastUpdatedBy
+                    }) : ''
+                },
+                children: 'Last updated{atDate}{byUser}'
+            }),
+             false && /*#__PURE__*/ 0
+        ]
+    });
+}
+
+
+},
+39870(__unused_rspack_module, __webpack_exports__, __webpack_require__) {
+"use strict";
+__webpack_require__.d(__webpack_exports__, {
+  A: () => (MDXA)
+});
+/* import */ var react_jsx_runtime__rspack_import_0 = __webpack_require__(74848);
+/* import */ var react__rspack_import_1 = __webpack_require__(96540);
+/* import */ var clsx__rspack_import_4 = __webpack_require__(18215);
+/* import */ var _docusaurus_Link__rspack_import_2 = __webpack_require__(25863);
+/* import */ var _docusaurus_theme_common__rspack_import_3 = __webpack_require__(69829);
+/**
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */ function _define_property(obj, key, value) {
+    if (key in obj) {
+        Object.defineProperty(obj, key, {
+            value: value,
+            enumerable: true,
+            configurable: true,
+            writable: true
+        });
+    } else {
+        obj[key] = value;
+    }
+    return obj;
+}
+function _object_spread(target) {
+    for(var i = 1; i < arguments.length; i++){
+        var source = arguments[i] != null ? arguments[i] : {};
+        var ownKeys = Object.keys(source);
+        if (typeof Object.getOwnPropertySymbols === "function") {
+            ownKeys = ownKeys.concat(Object.getOwnPropertySymbols(source).filter(function(sym) {
+                return Object.getOwnPropertyDescriptor(source, sym).enumerable;
+            }));
+        }
+        ownKeys.forEach(function(key) {
+            _define_property(target, key, source[key]);
+        });
+    }
+    return target;
+}
+function ownKeys(object, enumerableOnly) {
+    var keys = Object.keys(object);
+    if (Object.getOwnPropertySymbols) {
+        var symbols = Object.getOwnPropertySymbols(object);
+        if (enumerableOnly) {
+            symbols = symbols.filter(function(sym) {
+                return Object.getOwnPropertyDescriptor(object, sym).enumerable;
+            });
+        }
+        keys.push.apply(keys, symbols);
+    }
+    return keys;
+}
+function _object_spread_props(target, source) {
+    source = source != null ? source : {};
+    if (Object.getOwnPropertyDescriptors) {
+        Object.defineProperties(target, Object.getOwnPropertyDescriptors(source));
+    } else {
+        ownKeys(Object(source)).forEach(function(key) {
+            Object.defineProperty(target, key, Object.getOwnPropertyDescriptor(source, key));
+        });
+    }
+    return target;
+}
+
+
+
+
+
+function MDXA(props) {
+    // MDX Footnotes have ids such as <a id="user-content-fn-1-953011" ...>
+    var anchorTargetClassName = (0,_docusaurus_theme_common__rspack_import_3/* .useAnchorTargetClassName */.v)(props.id);
+    return /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)(_docusaurus_Link__rspack_import_2/* ["default"] */.A, _object_spread_props(_object_spread({}, props), {
+        className: (0,clsx__rspack_import_4/* ["default"] */.A)(anchorTargetClassName, props.className)
+    }));
+}
+
+
+},
+63745(__unused_rspack_module, __webpack_exports__, __webpack_require__) {
+"use strict";
+__webpack_require__.d(__webpack_exports__, {
+  A: () => (MDXCode)
+});
+/* import */ var react_jsx_runtime__rspack_import_0 = __webpack_require__(74848);
+/* import */ var react__rspack_import_1 = __webpack_require__(96540);
+/* import */ var _theme_CodeBlock__rspack_import_2 = __webpack_require__(70155);
+/* import */ var _theme_CodeInline__rspack_import_3 = __webpack_require__(18075);
+/**
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */ function _define_property(obj, key, value) {
+    if (key in obj) {
+        Object.defineProperty(obj, key, {
+            value: value,
+            enumerable: true,
+            configurable: true,
+            writable: true
+        });
+    } else {
+        obj[key] = value;
+    }
+    return obj;
+}
+function _object_spread(target) {
+    for(var i = 1; i < arguments.length; i++){
+        var source = arguments[i] != null ? arguments[i] : {};
+        var ownKeys = Object.keys(source);
+        if (typeof Object.getOwnPropertySymbols === "function") {
+            ownKeys = ownKeys.concat(Object.getOwnPropertySymbols(source).filter(function(sym) {
+                return Object.getOwnPropertyDescriptor(source, sym).enumerable;
+            }));
+        }
+        ownKeys.forEach(function(key) {
+            _define_property(target, key, source[key]);
+        });
+    }
+    return target;
+}
+
+
+
+
+function shouldBeInline(props) {
+    return(// empty code blocks have no props.children,
+    // see https://github.com/facebook/docusaurus/pull/9704
+    typeof props.children !== 'undefined' && react__rspack_import_1.Children.toArray(props.children).every(function(el) {
+        return typeof el === 'string' && !el.includes('\n');
+    }));
+}
+function MDXCode(props) {
+    return shouldBeInline(props) ? /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)(_theme_CodeInline__rspack_import_3/* ["default"] */.A, _object_spread({}, props)) : /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)(_theme_CodeBlock__rspack_import_2/* ["default"] */.A, _object_spread({}, props));
+}
+
+
+},
+45772(__unused_rspack_module, __webpack_exports__, __webpack_require__) {
+"use strict";
+__webpack_require__.d(__webpack_exports__, {
+  A: () => (MDXDetails)
+});
+/* import */ var react_jsx_runtime__rspack_import_0 = __webpack_require__(74848);
+/* import */ var react__rspack_import_1 = __webpack_require__(96540);
+/* import */ var _theme_Details__rspack_import_2 = __webpack_require__(39647);
+/**
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */ function _define_property(obj, key, value) {
+    if (key in obj) {
+        Object.defineProperty(obj, key, {
+            value: value,
+            enumerable: true,
+            configurable: true,
+            writable: true
+        });
+    } else {
+        obj[key] = value;
+    }
+    return obj;
+}
+function _object_spread(target) {
+    for(var i = 1; i < arguments.length; i++){
+        var source = arguments[i] != null ? arguments[i] : {};
+        var ownKeys = Object.keys(source);
+        if (typeof Object.getOwnPropertySymbols === "function") {
+            ownKeys = ownKeys.concat(Object.getOwnPropertySymbols(source).filter(function(sym) {
+                return Object.getOwnPropertyDescriptor(source, sym).enumerable;
+            }));
+        }
+        ownKeys.forEach(function(key) {
+            _define_property(target, key, source[key]);
+        });
+    }
+    return target;
+}
+function ownKeys(object, enumerableOnly) {
+    var keys = Object.keys(object);
+    if (Object.getOwnPropertySymbols) {
+        var symbols = Object.getOwnPropertySymbols(object);
+        if (enumerableOnly) {
+            symbols = symbols.filter(function(sym) {
+                return Object.getOwnPropertyDescriptor(object, sym).enumerable;
+            });
+        }
+        keys.push.apply(keys, symbols);
+    }
+    return keys;
+}
+function _object_spread_props(target, source) {
+    source = source != null ? source : {};
+    if (Object.getOwnPropertyDescriptors) {
+        Object.defineProperties(target, Object.getOwnPropertyDescriptors(source));
+    } else {
+        ownKeys(Object(source)).forEach(function(key) {
+            Object.defineProperty(target, key, Object.getOwnPropertyDescriptor(source, key));
+        });
+    }
+    return target;
+}
+
+
+
+function MDXDetails(props) {
+    var items = react__rspack_import_1.Children.toArray(props.children);
+    // Split summary item from the rest to pass it as a separate prop to the
+    // Details theme component
+    var summary = items.find(function(item) {
+        return /*#__PURE__*/ react__rspack_import_1.isValidElement(item) && item.type === 'summary';
+    });
+    var children = /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)(react_jsx_runtime__rspack_import_0.Fragment, {
+        children: items.filter(function(item) {
+            return item !== summary;
+        })
+    });
+    return /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)(_theme_Details__rspack_import_2/* ["default"] */.A, _object_spread_props(_object_spread({}, props), {
+        summary: summary,
+        children: children
+    }));
+}
+
+
+},
+10776(__unused_rspack_module, __webpack_exports__, __webpack_require__) {
+"use strict";
+__webpack_require__.d(__webpack_exports__, {
+  A: () => (MDXHeading)
+});
+/* import */ var react_jsx_runtime__rspack_import_0 = __webpack_require__(74848);
+/* import */ var react__rspack_import_1 = __webpack_require__(96540);
+/* import */ var _theme_Heading__rspack_import_2 = __webpack_require__(92107);
+/**
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */ function _define_property(obj, key, value) {
+    if (key in obj) {
+        Object.defineProperty(obj, key, {
+            value: value,
+            enumerable: true,
+            configurable: true,
+            writable: true
+        });
+    } else {
+        obj[key] = value;
+    }
+    return obj;
+}
+function _object_spread(target) {
+    for(var i = 1; i < arguments.length; i++){
+        var source = arguments[i] != null ? arguments[i] : {};
+        var ownKeys = Object.keys(source);
+        if (typeof Object.getOwnPropertySymbols === "function") {
+            ownKeys = ownKeys.concat(Object.getOwnPropertySymbols(source).filter(function(sym) {
+                return Object.getOwnPropertyDescriptor(source, sym).enumerable;
+            }));
+        }
+        ownKeys.forEach(function(key) {
+            _define_property(target, key, source[key]);
+        });
+    }
+    return target;
+}
+
+
+
+function MDXHeading(props) {
+    return /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)(_theme_Heading__rspack_import_2/* ["default"] */.A, _object_spread({}, props));
+}
+
+
+},
+6442(__unused_rspack_module, __webpack_exports__, __webpack_require__) {
+"use strict";
+__webpack_require__.d(__webpack_exports__, {
+  A: () => (MDXImg)
+});
+/* import */ var react_jsx_runtime__rspack_import_0 = __webpack_require__(74848);
+/* import */ var react__rspack_import_1 = __webpack_require__(96540);
+/* import */ var clsx__rspack_import_3 = __webpack_require__(18215);
+/* import */ var _styles_module_css__rspack_import_2 = __webpack_require__(12052);
+/* import */ var _styles_module_css__rspack_import_2_default = /*#__PURE__*/__webpack_require__.n(_styles_module_css__rspack_import_2);
+/**
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */ function _define_property(obj, key, value) {
+    if (key in obj) {
+        Object.defineProperty(obj, key, {
+            value: value,
+            enumerable: true,
+            configurable: true,
+            writable: true
+        });
+    } else {
+        obj[key] = value;
+    }
+    return obj;
+}
+function _object_spread(target) {
+    for(var i = 1; i < arguments.length; i++){
+        var source = arguments[i] != null ? arguments[i] : {};
+        var ownKeys = Object.keys(source);
+        if (typeof Object.getOwnPropertySymbols === "function") {
+            ownKeys = ownKeys.concat(Object.getOwnPropertySymbols(source).filter(function(sym) {
+                return Object.getOwnPropertyDescriptor(source, sym).enumerable;
+            }));
+        }
+        ownKeys.forEach(function(key) {
+            _define_property(target, key, source[key]);
+        });
+    }
+    return target;
+}
+function ownKeys(object, enumerableOnly) {
+    var keys = Object.keys(object);
+    if (Object.getOwnPropertySymbols) {
+        var symbols = Object.getOwnPropertySymbols(object);
+        if (enumerableOnly) {
+            symbols = symbols.filter(function(sym) {
+                return Object.getOwnPropertyDescriptor(object, sym).enumerable;
+            });
+        }
+        keys.push.apply(keys, symbols);
+    }
+    return keys;
+}
+function _object_spread_props(target, source) {
+    source = source != null ? source : {};
+    if (Object.getOwnPropertyDescriptors) {
+        Object.defineProperties(target, Object.getOwnPropertyDescriptors(source));
+    } else {
+        ownKeys(Object(source)).forEach(function(key) {
+            Object.defineProperty(target, key, Object.getOwnPropertyDescriptor(source, key));
+        });
+    }
+    return target;
+}
+
+
+
+
+function transformImgClassName(className) {
+    return (0,clsx__rspack_import_3/* ["default"] */.A)(className, (_styles_module_css__rspack_import_2_default().img));
+}
+function MDXImg(props) {
+    return(// eslint-disable-next-line jsx-a11y/alt-text
+    /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)("img", _object_spread_props(_object_spread({
+        decoding: "async",
+        loading: "lazy"
+    }, props), {
+        className: transformImgClassName(props.className)
+    })));
+}
+
+
+},
+90391(__unused_rspack_module, __webpack_exports__, __webpack_require__) {
+"use strict";
+__webpack_require__.d(__webpack_exports__, {
+  A: () => (MDXLi)
+});
+/* import */ var react_jsx_runtime__rspack_import_0 = __webpack_require__(74848);
+/* import */ var react__rspack_import_1 = __webpack_require__(96540);
+/* import */ var clsx__rspack_import_4 = __webpack_require__(18215);
+/* import */ var _docusaurus_useBrokenLinks__rspack_import_2 = __webpack_require__(73600);
+/* import */ var _docusaurus_theme_common__rspack_import_3 = __webpack_require__(69829);
+/**
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */ function _define_property(obj, key, value) {
+    if (key in obj) {
+        Object.defineProperty(obj, key, {
+            value: value,
+            enumerable: true,
+            configurable: true,
+            writable: true
+        });
+    } else {
+        obj[key] = value;
+    }
+    return obj;
+}
+function _object_spread(target) {
+    for(var i = 1; i < arguments.length; i++){
+        var source = arguments[i] != null ? arguments[i] : {};
+        var ownKeys = Object.keys(source);
+        if (typeof Object.getOwnPropertySymbols === "function") {
+            ownKeys = ownKeys.concat(Object.getOwnPropertySymbols(source).filter(function(sym) {
+                return Object.getOwnPropertyDescriptor(source, sym).enumerable;
+            }));
+        }
+        ownKeys.forEach(function(key) {
+            _define_property(target, key, source[key]);
+        });
+    }
+    return target;
+}
+
+
+
+
+
+function MDXLi(props) {
+    // MDX Footnotes have ids such as <li id="user-content-fn-1-953011">
+    (0,_docusaurus_useBrokenLinks__rspack_import_2/* ["default"] */.A)().collectAnchor(props.id);
+    var anchorTargetClassName = (0,_docusaurus_theme_common__rspack_import_3/* .useAnchorTargetClassName */.v)(props.id);
+    return /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)("li", _object_spread({
+        className: (0,clsx__rspack_import_4/* ["default"] */.A)(anchorTargetClassName, props.className)
+    }, props));
+}
+
+
+},
+63095(__unused_rspack_module, __webpack_exports__, __webpack_require__) {
+"use strict";
+__webpack_require__.d(__webpack_exports__, {
+  A: () => (MDXPre)
+});
+/* import */ var react_jsx_runtime__rspack_import_0 = __webpack_require__(74848);
+/* import */ var react__rspack_import_1 = __webpack_require__(96540);
+/**
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */ 
+
+function MDXPre(props) {
+    // With MDX 2, this element is only used for fenced code blocks
+    // It always receives a MDXComponents/Code as children
+    return /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)(react_jsx_runtime__rspack_import_0.Fragment, {
+        children: props.children
+    });
+}
+
+
+},
+38730(__unused_rspack_module, __webpack_exports__, __webpack_require__) {
+"use strict";
+__webpack_require__.d(__webpack_exports__, {
+  A: () => (MDXUl)
+});
+/* import */ var react_jsx_runtime__rspack_import_0 = __webpack_require__(74848);
+/* import */ var react__rspack_import_1 = __webpack_require__(96540);
+/* import */ var clsx__rspack_import_3 = __webpack_require__(18215);
+/* import */ var _styles_module_css__rspack_import_2 = __webpack_require__(53812);
+/* import */ var _styles_module_css__rspack_import_2_default = /*#__PURE__*/__webpack_require__.n(_styles_module_css__rspack_import_2);
+/**
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */ function _define_property(obj, key, value) {
+    if (key in obj) {
+        Object.defineProperty(obj, key, {
+            value: value,
+            enumerable: true,
+            configurable: true,
+            writable: true
+        });
+    } else {
+        obj[key] = value;
+    }
+    return obj;
+}
+function _object_spread(target) {
+    for(var i = 1; i < arguments.length; i++){
+        var source = arguments[i] != null ? arguments[i] : {};
+        var ownKeys = Object.keys(source);
+        if (typeof Object.getOwnPropertySymbols === "function") {
+            ownKeys = ownKeys.concat(Object.getOwnPropertySymbols(source).filter(function(sym) {
+                return Object.getOwnPropertyDescriptor(source, sym).enumerable;
+            }));
+        }
+        ownKeys.forEach(function(key) {
+            _define_property(target, key, source[key]);
+        });
+    }
+    return target;
+}
+function ownKeys(object, enumerableOnly) {
+    var keys = Object.keys(object);
+    if (Object.getOwnPropertySymbols) {
+        var symbols = Object.getOwnPropertySymbols(object);
+        if (enumerableOnly) {
+            symbols = symbols.filter(function(sym) {
+                return Object.getOwnPropertyDescriptor(object, sym).enumerable;
+            });
+        }
+        keys.push.apply(keys, symbols);
+    }
+    return keys;
+}
+function _object_spread_props(target, source) {
+    source = source != null ? source : {};
+    if (Object.getOwnPropertyDescriptors) {
+        Object.defineProperties(target, Object.getOwnPropertyDescriptors(source));
+    } else {
+        ownKeys(Object(source)).forEach(function(key) {
+            Object.defineProperty(target, key, Object.getOwnPropertyDescriptor(source, key));
+        });
+    }
+    return target;
+}
+
+
+
+
+function transformUlClassName(className) {
+    // Fix https://github.com/facebook/docusaurus/issues/9098
+    if (typeof className === 'undefined') {
+        return undefined;
+    }
+    return (0,clsx__rspack_import_3/* ["default"] */.A)(className, // This class is set globally by GitHub/MDX. We keep the global class, and
+    // add another class to get a task list without the default ul styling
+    // See https://github.com/syntax-tree/mdast-util-to-hast/issues/28
+    (className === null || className === void 0 ? void 0 : className.includes('contains-task-list')) && (_styles_module_css__rspack_import_2_default().containsTaskList));
+}
+function MDXUl(props) {
+    return /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)("ul", _object_spread_props(_object_spread({}, props), {
+        className: transformUlClassName(props.className)
+    }));
+}
+
+
+},
+79142(__unused_rspack_module, __webpack_exports__, __webpack_require__) {
+"use strict";
+__webpack_require__.d(__webpack_exports__, {
+  A: () => (__rspack_default_export)
+});
+/* import */ var react_jsx_runtime__rspack_import_0 = __webpack_require__(74848);
+/* import */ var react__rspack_import_1 = __webpack_require__(96540);
+/* import */ var _docusaurus_Head__rspack_import_2 = __webpack_require__(83405);
+/* import */ var _theme_MDXComponents_Code__rspack_import_3 = __webpack_require__(63745);
+/* import */ var _theme_MDXComponents_A__rspack_import_4 = __webpack_require__(39870);
+/* import */ var _theme_MDXComponents_Pre__rspack_import_5 = __webpack_require__(63095);
+/* import */ var _theme_MDXComponents_Details__rspack_import_6 = __webpack_require__(45772);
+/* import */ var _theme_MDXComponents_Heading__rspack_import_7 = __webpack_require__(10776);
+/* import */ var _theme_MDXComponents_Ul__rspack_import_8 = __webpack_require__(38730);
+/* import */ var _theme_MDXComponents_Li__rspack_import_9 = __webpack_require__(90391);
+/* import */ var _theme_MDXComponents_Img__rspack_import_10 = __webpack_require__(6442);
+/* import */ var _theme_Admonition__rspack_import_11 = __webpack_require__(12809);
+/* import */ var _theme_Mermaid__rspack_import_12 = __webpack_require__(41327);
+/**
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */ function _define_property(obj, key, value) {
+    if (key in obj) {
+        Object.defineProperty(obj, key, {
+            value: value,
+            enumerable: true,
+            configurable: true,
+            writable: true
+        });
+    } else {
+        obj[key] = value;
+    }
+    return obj;
+}
+function _object_spread(target) {
+    for(var i = 1; i < arguments.length; i++){
+        var source = arguments[i] != null ? arguments[i] : {};
+        var ownKeys = Object.keys(source);
+        if (typeof Object.getOwnPropertySymbols === "function") {
+            ownKeys = ownKeys.concat(Object.getOwnPropertySymbols(source).filter(function(sym) {
+                return Object.getOwnPropertyDescriptor(source, sym).enumerable;
+            }));
+        }
+        ownKeys.forEach(function(key) {
+            _define_property(target, key, source[key]);
+        });
+    }
+    return target;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+var MDXComponents = {
+    Head: _docusaurus_Head__rspack_import_2/* ["default"] */.A,
+    details: _theme_MDXComponents_Details__rspack_import_6/* ["default"] */.A,
+    Details: _theme_MDXComponents_Details__rspack_import_6/* ["default"] */.A,
+    code: _theme_MDXComponents_Code__rspack_import_3/* ["default"] */.A,
+    a: _theme_MDXComponents_A__rspack_import_4/* ["default"] */.A,
+    pre: _theme_MDXComponents_Pre__rspack_import_5/* ["default"] */.A,
+    ul: _theme_MDXComponents_Ul__rspack_import_8/* ["default"] */.A,
+    li: _theme_MDXComponents_Li__rspack_import_9/* ["default"] */.A,
+    img: _theme_MDXComponents_Img__rspack_import_10/* ["default"] */.A,
+    h1: function(props) {
+        return /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)(_theme_MDXComponents_Heading__rspack_import_7/* ["default"] */.A, _object_spread({
+            as: "h1"
+        }, props));
+    },
+    h2: function(props) {
+        return /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)(_theme_MDXComponents_Heading__rspack_import_7/* ["default"] */.A, _object_spread({
+            as: "h2"
+        }, props));
+    },
+    h3: function(props) {
+        return /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)(_theme_MDXComponents_Heading__rspack_import_7/* ["default"] */.A, _object_spread({
+            as: "h3"
+        }, props));
+    },
+    h4: function(props) {
+        return /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)(_theme_MDXComponents_Heading__rspack_import_7/* ["default"] */.A, _object_spread({
+            as: "h4"
+        }, props));
+    },
+    h5: function(props) {
+        return /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)(_theme_MDXComponents_Heading__rspack_import_7/* ["default"] */.A, _object_spread({
+            as: "h5"
+        }, props));
+    },
+    h6: function(props) {
+        return /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)(_theme_MDXComponents_Heading__rspack_import_7/* ["default"] */.A, _object_spread({
+            as: "h6"
+        }, props));
+    },
+    admonition: _theme_Admonition__rspack_import_11/* ["default"] */.A,
+    mermaid: _theme_Mermaid__rspack_import_12/* ["default"] */.A
+};
+/* export default */ const __rspack_default_export = (MDXComponents);
+
+
+},
+43555(__unused_rspack_module, __webpack_exports__, __webpack_require__) {
+"use strict";
+__webpack_require__.d(__webpack_exports__, {
+  A: () => (MDXContent)
+});
+/* import */ var react_jsx_runtime__rspack_import_0 = __webpack_require__(74848);
+/* import */ var react__rspack_import_1 = __webpack_require__(96540);
+/* import */ var _mdx_js_react__rspack_import_3 = __webpack_require__(28453);
+/* import */ var _theme_MDXComponents__rspack_import_2 = __webpack_require__(79142);
+/**
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */ 
+
+
+
+function MDXContent(param) {
+    var children = param.children;
+    return /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)(_mdx_js_react__rspack_import_3/* .MDXProvider */.x, {
+        components: _theme_MDXComponents__rspack_import_2/* ["default"] */.A,
+        children: children
+    });
+}
+
+
+},
+47291(__unused_rspack_module, __webpack_exports__, __webpack_require__) {
+"use strict";
+__webpack_require__.d(__webpack_exports__, {
+  A: () => (PaginatorNavLink)
+});
+/* import */ var react_jsx_runtime__rspack_import_0 = __webpack_require__(74848);
+/* import */ var react__rspack_import_1 = __webpack_require__(96540);
+/* import */ var clsx__rspack_import_3 = __webpack_require__(18215);
+/* import */ var _docusaurus_Link__rspack_import_2 = __webpack_require__(25863);
+/**
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */ 
+
+
+
+function PaginatorNavLink(props) {
+    var permalink = props.permalink, title = props.title, subLabel = props.subLabel, isNext = props.isNext;
+    return /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsxs)(_docusaurus_Link__rspack_import_2/* ["default"] */.A, {
+        className: (0,clsx__rspack_import_3/* ["default"] */.A)('pagination-nav__link', isNext ? 'pagination-nav__link--next' : 'pagination-nav__link--prev'),
+        to: permalink,
+        children: [
+            subLabel && /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)("div", {
+                className: "pagination-nav__sublabel",
+                children: subLabel
+            }),
+            /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)("div", {
+                className: "pagination-nav__label",
+                children: title
+            })
+        ]
+    });
+}
+
+
+},
+3659(__unused_rspack_module, __webpack_exports__, __webpack_require__) {
+"use strict";
+__webpack_require__.d(__webpack_exports__, {
+  A: () => (TOC)
+});
+/* import */ var react_jsx_runtime__rspack_import_0 = __webpack_require__(74848);
+/* import */ var react__rspack_import_1 = __webpack_require__(96540);
+/* import */ var clsx__rspack_import_4 = __webpack_require__(18215);
+/* import */ var _theme_TOCItems__rspack_import_2 = __webpack_require__(84977);
+/* import */ var _styles_module_css__rspack_import_3 = __webpack_require__(60643);
+/* import */ var _styles_module_css__rspack_import_3_default = /*#__PURE__*/__webpack_require__.n(_styles_module_css__rspack_import_3);
+/**
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */ function _define_property(obj, key, value) {
+    if (key in obj) {
+        Object.defineProperty(obj, key, {
+            value: value,
+            enumerable: true,
+            configurable: true,
+            writable: true
+        });
+    } else {
+        obj[key] = value;
+    }
+    return obj;
+}
+function _object_spread(target) {
+    for(var i = 1; i < arguments.length; i++){
+        var source = arguments[i] != null ? arguments[i] : {};
+        var ownKeys = Object.keys(source);
+        if (typeof Object.getOwnPropertySymbols === "function") {
+            ownKeys = ownKeys.concat(Object.getOwnPropertySymbols(source).filter(function(sym) {
+                return Object.getOwnPropertyDescriptor(source, sym).enumerable;
+            }));
+        }
+        ownKeys.forEach(function(key) {
+            _define_property(target, key, source[key]);
+        });
+    }
+    return target;
+}
+function ownKeys(object, enumerableOnly) {
+    var keys = Object.keys(object);
+    if (Object.getOwnPropertySymbols) {
+        var symbols = Object.getOwnPropertySymbols(object);
+        if (enumerableOnly) {
+            symbols = symbols.filter(function(sym) {
+                return Object.getOwnPropertyDescriptor(object, sym).enumerable;
+            });
+        }
+        keys.push.apply(keys, symbols);
+    }
+    return keys;
+}
+function _object_spread_props(target, source) {
+    source = source != null ? source : {};
+    if (Object.getOwnPropertyDescriptors) {
+        Object.defineProperties(target, Object.getOwnPropertyDescriptors(source));
+    } else {
+        ownKeys(Object(source)).forEach(function(key) {
+            Object.defineProperty(target, key, Object.getOwnPropertyDescriptor(source, key));
+        });
+    }
+    return target;
+}
+function _object_without_properties(source, excluded) {
+    if (source == null) return {};
+    var target = _object_without_properties_loose(source, excluded);
+    var key, i;
+    if (Object.getOwnPropertySymbols) {
+        var sourceSymbolKeys = Object.getOwnPropertySymbols(source);
+        for(i = 0; i < sourceSymbolKeys.length; i++){
+            key = sourceSymbolKeys[i];
+            if (excluded.indexOf(key) >= 0) continue;
+            if (!Object.prototype.propertyIsEnumerable.call(source, key)) continue;
+            target[key] = source[key];
+        }
+    }
+    return target;
+}
+function _object_without_properties_loose(source, excluded) {
+    if (source == null) return {};
+    var target = {};
+    var sourceKeys = Object.keys(source);
+    var key, i;
+    for(i = 0; i < sourceKeys.length; i++){
+        key = sourceKeys[i];
+        if (excluded.indexOf(key) >= 0) continue;
+        target[key] = source[key];
+    }
+    return target;
+}
+
+
+
+
+
+// Using a custom className
+// This prevents TOCInline/TOCCollapsible getting highlighted by mistake
+var LINK_CLASS_NAME = 'table-of-contents__link toc-highlight';
+var LINK_ACTIVE_CLASS_NAME = 'table-of-contents__link--active';
+function TOC(_param) {
+    var className = _param.className, props = _object_without_properties(_param, [
+        "className"
+    ]);
+    return /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)("div", {
+        className: (0,clsx__rspack_import_4/* ["default"] */.A)((_styles_module_css__rspack_import_3_default().tableOfContents), 'thin-scrollbar', className),
+        children: /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)(_theme_TOCItems__rspack_import_2/* ["default"] */.A, _object_spread_props(_object_spread({}, props), {
+            linkClassName: LINK_CLASS_NAME,
+            linkActiveClassName: LINK_ACTIVE_CLASS_NAME
+        }))
+    });
+}
+
+
+},
+17265(__unused_rspack_module, __webpack_exports__, __webpack_require__) {
+"use strict";
+__webpack_require__.d(__webpack_exports__, {
+  A: () => (TOCCollapsibleCollapseButton)
+});
+/* import */ var react_jsx_runtime__rspack_import_0 = __webpack_require__(74848);
+/* import */ var react__rspack_import_1 = __webpack_require__(96540);
+/* import */ var clsx__rspack_import_4 = __webpack_require__(18215);
+/* import */ var _docusaurus_Translate__rspack_import_2 = __webpack_require__(91785);
+/* import */ var _styles_module_css__rspack_import_3 = __webpack_require__(49957);
+/* import */ var _styles_module_css__rspack_import_3_default = /*#__PURE__*/__webpack_require__.n(_styles_module_css__rspack_import_3);
+/**
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */ function _define_property(obj, key, value) {
+    if (key in obj) {
+        Object.defineProperty(obj, key, {
+            value: value,
+            enumerable: true,
+            configurable: true,
+            writable: true
+        });
+    } else {
+        obj[key] = value;
+    }
+    return obj;
+}
+function _object_spread(target) {
+    for(var i = 1; i < arguments.length; i++){
+        var source = arguments[i] != null ? arguments[i] : {};
+        var ownKeys = Object.keys(source);
+        if (typeof Object.getOwnPropertySymbols === "function") {
+            ownKeys = ownKeys.concat(Object.getOwnPropertySymbols(source).filter(function(sym) {
+                return Object.getOwnPropertyDescriptor(source, sym).enumerable;
+            }));
+        }
+        ownKeys.forEach(function(key) {
+            _define_property(target, key, source[key]);
+        });
+    }
+    return target;
+}
+function ownKeys(object, enumerableOnly) {
+    var keys = Object.keys(object);
+    if (Object.getOwnPropertySymbols) {
+        var symbols = Object.getOwnPropertySymbols(object);
+        if (enumerableOnly) {
+            symbols = symbols.filter(function(sym) {
+                return Object.getOwnPropertyDescriptor(object, sym).enumerable;
+            });
+        }
+        keys.push.apply(keys, symbols);
+    }
+    return keys;
+}
+function _object_spread_props(target, source) {
+    source = source != null ? source : {};
+    if (Object.getOwnPropertyDescriptors) {
+        Object.defineProperties(target, Object.getOwnPropertyDescriptors(source));
+    } else {
+        ownKeys(Object(source)).forEach(function(key) {
+            Object.defineProperty(target, key, Object.getOwnPropertyDescriptor(source, key));
+        });
+    }
+    return target;
+}
+function _object_without_properties(source, excluded) {
+    if (source == null) return {};
+    var target = _object_without_properties_loose(source, excluded);
+    var key, i;
+    if (Object.getOwnPropertySymbols) {
+        var sourceSymbolKeys = Object.getOwnPropertySymbols(source);
+        for(i = 0; i < sourceSymbolKeys.length; i++){
+            key = sourceSymbolKeys[i];
+            if (excluded.indexOf(key) >= 0) continue;
+            if (!Object.prototype.propertyIsEnumerable.call(source, key)) continue;
+            target[key] = source[key];
+        }
+    }
+    return target;
+}
+function _object_without_properties_loose(source, excluded) {
+    if (source == null) return {};
+    var target = {};
+    var sourceKeys = Object.keys(source);
+    var key, i;
+    for(i = 0; i < sourceKeys.length; i++){
+        key = sourceKeys[i];
+        if (excluded.indexOf(key) >= 0) continue;
+        target[key] = source[key];
+    }
+    return target;
+}
+
+
+
+
+
+function TOCCollapsibleCollapseButton(_param) {
+    var collapsed = _param.collapsed, props = _object_without_properties(_param, [
+        "collapsed"
+    ]);
+    return /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)("button", _object_spread_props(_object_spread({
+        type: "button"
+    }, props), {
+        className: (0,clsx__rspack_import_4/* ["default"] */.A)('clean-btn', (_styles_module_css__rspack_import_3_default().tocCollapsibleButton), !collapsed && (_styles_module_css__rspack_import_3_default().tocCollapsibleButtonExpanded), props.className),
+        children: /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)(_docusaurus_Translate__rspack_import_2/* ["default"] */.A, {
+            id: "theme.TOCCollapsible.toggleButtonLabel",
+            description: "The label used by the button on the collapsible TOC component",
+            children: "On this page"
+        })
+    }));
+}
+
+
+},
+10897(__unused_rspack_module, __webpack_exports__, __webpack_require__) {
+"use strict";
+__webpack_require__.d(__webpack_exports__, {
+  A: () => (TOCCollapsible)
+});
+/* import */ var react_jsx_runtime__rspack_import_0 = __webpack_require__(74848);
+/* import */ var react__rspack_import_1 = __webpack_require__(96540);
+/* import */ var clsx__rspack_import_6 = __webpack_require__(18215);
+/* import */ var _docusaurus_theme_common__rspack_import_5 = __webpack_require__(32285);
+/* import */ var _theme_TOCItems__rspack_import_2 = __webpack_require__(84977);
+/* import */ var _theme_TOCCollapsible_CollapseButton__rspack_import_3 = __webpack_require__(17265);
+/* import */ var _styles_module_css__rspack_import_4 = __webpack_require__(90133);
+/* import */ var _styles_module_css__rspack_import_4_default = /*#__PURE__*/__webpack_require__.n(_styles_module_css__rspack_import_4);
+/**
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */ 
+
+
+
+
+
+
+function TOCCollapsible(param) {
+    var toc = param.toc, className = param.className, minHeadingLevel = param.minHeadingLevel, maxHeadingLevel = param.maxHeadingLevel;
+    var _useCollapsible = (0,_docusaurus_theme_common__rspack_import_5/* .useCollapsible */.u)({
+        initialState: true
+    }), collapsed = _useCollapsible.collapsed, toggleCollapsed = _useCollapsible.toggleCollapsed;
+    return /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsxs)("div", {
+        className: (0,clsx__rspack_import_6/* ["default"] */.A)((_styles_module_css__rspack_import_4_default().tocCollapsible), !collapsed && (_styles_module_css__rspack_import_4_default().tocCollapsibleExpanded), className),
+        children: [
+            /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)(_theme_TOCCollapsible_CollapseButton__rspack_import_3/* ["default"] */.A, {
+                collapsed: collapsed,
+                onClick: toggleCollapsed
+            }),
+            /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)(_docusaurus_theme_common__rspack_import_5/* .Collapsible */.N, {
+                lazy: true,
+                className: (_styles_module_css__rspack_import_4_default().tocCollapsibleContent),
+                collapsed: collapsed,
+                children: /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)(_theme_TOCItems__rspack_import_2/* ["default"] */.A, {
+                    toc: toc,
+                    minHeadingLevel: minHeadingLevel,
+                    maxHeadingLevel: maxHeadingLevel
+                })
+            })
+        ]
+    });
+}
+
+
+},
+17073(__unused_rspack_module, __webpack_exports__, __webpack_require__) {
+"use strict";
+__webpack_require__.d(__webpack_exports__, {
+  A: () => (__rspack_default_export)
+});
+/* import */ var react_jsx_runtime__rspack_import_0 = __webpack_require__(74848);
+/* import */ var react__rspack_import_1 = __webpack_require__(96540);
+/* import */ var _docusaurus_Link__rspack_import_2 = __webpack_require__(25863);
+/**
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */ 
+
+
+// Recursive component rendering the toc tree
+function TOCItemTree(param) {
+    var toc = param.toc, className = param.className, linkClassName = param.linkClassName, isChild = param.isChild;
+    if (!toc.length) {
+        return null;
+    }
+    return /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)("ul", {
+        className: isChild ? undefined : className,
+        children: toc.map(function(heading) {
+            return /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsxs)("li", {
+                children: [
+                    /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)(_docusaurus_Link__rspack_import_2/* ["default"] */.A, {
+                        to: "#".concat(heading.id),
+                        className: linkClassName !== null && linkClassName !== void 0 ? linkClassName : undefined,
+                        // Developer provided the HTML, so assume it's safe.
+                        dangerouslySetInnerHTML: {
+                            __html: heading.value
+                        }
+                    }),
+                    /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)(TOCItemTree, {
+                        isChild: true,
+                        toc: heading.children,
+                        className: className,
+                        linkClassName: linkClassName
+                    })
+                ]
+            }, heading.id);
+        })
+    });
+}
+// Memo only the tree root is enough
+/* export default */ const __rspack_default_export = (/*#__PURE__*/react__rspack_import_1.memo(TOCItemTree));
+
+
+},
+84977(__unused_rspack_module, __webpack_exports__, __webpack_require__) {
+"use strict";
+__webpack_require__.d(__webpack_exports__, {
+  A: () => (TOCItems)
+});
+/* import */ var react_jsx_runtime__rspack_import_0 = __webpack_require__(74848);
+/* import */ var react__rspack_import_1 = __webpack_require__(96540);
+/* import */ var _docusaurus_theme_common__rspack_import_3 = __webpack_require__(6405);
+/* import */ var _docusaurus_theme_common_internal__rspack_import_4 = __webpack_require__(2128);
+/* import */ var _docusaurus_theme_common_internal__rspack_import_5 = __webpack_require__(19663);
+/* import */ var _theme_TOCItems_Tree__rspack_import_2 = __webpack_require__(17073);
+/**
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */ function _define_property(obj, key, value) {
+    if (key in obj) {
+        Object.defineProperty(obj, key, {
+            value: value,
+            enumerable: true,
+            configurable: true,
+            writable: true
+        });
+    } else {
+        obj[key] = value;
+    }
+    return obj;
+}
+function _object_spread(target) {
+    for(var i = 1; i < arguments.length; i++){
+        var source = arguments[i] != null ? arguments[i] : {};
+        var ownKeys = Object.keys(source);
+        if (typeof Object.getOwnPropertySymbols === "function") {
+            ownKeys = ownKeys.concat(Object.getOwnPropertySymbols(source).filter(function(sym) {
+                return Object.getOwnPropertyDescriptor(source, sym).enumerable;
+            }));
+        }
+        ownKeys.forEach(function(key) {
+            _define_property(target, key, source[key]);
+        });
+    }
+    return target;
+}
+function _object_without_properties(source, excluded) {
+    if (source == null) return {};
+    var target = _object_without_properties_loose(source, excluded);
+    var key, i;
+    if (Object.getOwnPropertySymbols) {
+        var sourceSymbolKeys = Object.getOwnPropertySymbols(source);
+        for(i = 0; i < sourceSymbolKeys.length; i++){
+            key = sourceSymbolKeys[i];
+            if (excluded.indexOf(key) >= 0) continue;
+            if (!Object.prototype.propertyIsEnumerable.call(source, key)) continue;
+            target[key] = source[key];
+        }
+    }
+    return target;
+}
+function _object_without_properties_loose(source, excluded) {
+    if (source == null) return {};
+    var target = {};
+    var sourceKeys = Object.keys(source);
+    var key, i;
+    for(i = 0; i < sourceKeys.length; i++){
+        key = sourceKeys[i];
+        if (excluded.indexOf(key) >= 0) continue;
+        target[key] = source[key];
+    }
+    return target;
+}
+
+
+
+
+
+function TOCItems(_param) {
+    var toc = _param.toc, _param_className = _param.className, className = _param_className === void 0 ? 'table-of-contents table-of-contents__left-border' : _param_className, _param_linkClassName = _param.linkClassName, linkClassName = _param_linkClassName === void 0 ? 'table-of-contents__link' : _param_linkClassName, _param_linkActiveClassName = _param.linkActiveClassName, linkActiveClassName = _param_linkActiveClassName === void 0 ? undefined : _param_linkActiveClassName, minHeadingLevelOption = _param.minHeadingLevel, maxHeadingLevelOption = _param.maxHeadingLevel, props = _object_without_properties(_param, [
+        "toc",
+        "className",
+        "linkClassName",
+        "linkActiveClassName",
+        "minHeadingLevel",
+        "maxHeadingLevel"
+    ]);
+    var themeConfig = (0,_docusaurus_theme_common__rspack_import_3/* .useThemeConfig */.p)();
+    var minHeadingLevel = minHeadingLevelOption !== null && minHeadingLevelOption !== void 0 ? minHeadingLevelOption : themeConfig.tableOfContents.minHeadingLevel;
+    var maxHeadingLevel = maxHeadingLevelOption !== null && maxHeadingLevelOption !== void 0 ? maxHeadingLevelOption : themeConfig.tableOfContents.maxHeadingLevel;
+    var tocTree = (0,_docusaurus_theme_common_internal__rspack_import_4/* .useFilteredAndTreeifiedTOC */.h)({
+        toc: toc,
+        minHeadingLevel: minHeadingLevel,
+        maxHeadingLevel: maxHeadingLevel
+    });
+    var tocHighlightConfig = (0,react__rspack_import_1.useMemo)(function() {
+        if (linkClassName && linkActiveClassName) {
+            return {
+                linkClassName: linkClassName,
+                linkActiveClassName: linkActiveClassName,
+                minHeadingLevel: minHeadingLevel,
+                maxHeadingLevel: maxHeadingLevel
+            };
+        }
+        return undefined;
+    }, [
+        linkClassName,
+        linkActiveClassName,
+        minHeadingLevel,
+        maxHeadingLevel
+    ]);
+    (0,_docusaurus_theme_common_internal__rspack_import_5/* .useTOCHighlight */.i)(tocHighlightConfig);
+    return /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)(_theme_TOCItems_Tree__rspack_import_2/* ["default"] */.A, _object_spread({
+        toc: tocTree,
+        className: className,
+        linkClassName: linkClassName
+    }, props));
+}
+
+
+},
+31113(__unused_rspack_module, __webpack_exports__, __webpack_require__) {
+"use strict";
+__webpack_require__.d(__webpack_exports__, {
+  A: () => (Tag)
+});
+/* import */ var react_jsx_runtime__rspack_import_0 = __webpack_require__(74848);
+/* import */ var react__rspack_import_1 = __webpack_require__(96540);
+/* import */ var clsx__rspack_import_4 = __webpack_require__(18215);
+/* import */ var _docusaurus_Link__rspack_import_2 = __webpack_require__(25863);
+/* import */ var _styles_module_css__rspack_import_3 = __webpack_require__(19405);
+/* import */ var _styles_module_css__rspack_import_3_default = /*#__PURE__*/__webpack_require__.n(_styles_module_css__rspack_import_3);
+/**
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */ 
+
+
+
+
+function Tag(param) {
+    var permalink = param.permalink, label = param.label, count = param.count, description = param.description;
+    return /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsxs)(_docusaurus_Link__rspack_import_2/* ["default"] */.A, {
+        rel: "tag",
+        href: permalink,
+        title: description,
+        className: (0,clsx__rspack_import_4/* ["default"] */.A)((_styles_module_css__rspack_import_3_default().tag), count ? (_styles_module_css__rspack_import_3_default().tagWithCount) : (_styles_module_css__rspack_import_3_default().tagRegular)),
+        children: [
+            label,
+            count && /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)("span", {
+                children: count
+            })
+        ]
+    });
+}
+
+
+},
+61067(__unused_rspack_module, __webpack_exports__, __webpack_require__) {
+"use strict";
+__webpack_require__.d(__webpack_exports__, {
+  A: () => (TagsListInline)
+});
+/* import */ var react_jsx_runtime__rspack_import_0 = __webpack_require__(74848);
+/* import */ var react__rspack_import_1 = __webpack_require__(96540);
+/* import */ var clsx__rspack_import_5 = __webpack_require__(18215);
+/* import */ var _docusaurus_Translate__rspack_import_2 = __webpack_require__(91785);
+/* import */ var _theme_Tag__rspack_import_3 = __webpack_require__(31113);
+/* import */ var _styles_module_css__rspack_import_4 = __webpack_require__(88435);
+/* import */ var _styles_module_css__rspack_import_4_default = /*#__PURE__*/__webpack_require__.n(_styles_module_css__rspack_import_4);
+/**
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */ function _define_property(obj, key, value) {
+    if (key in obj) {
+        Object.defineProperty(obj, key, {
+            value: value,
+            enumerable: true,
+            configurable: true,
+            writable: true
+        });
+    } else {
+        obj[key] = value;
+    }
+    return obj;
+}
+function _object_spread(target) {
+    for(var i = 1; i < arguments.length; i++){
+        var source = arguments[i] != null ? arguments[i] : {};
+        var ownKeys = Object.keys(source);
+        if (typeof Object.getOwnPropertySymbols === "function") {
+            ownKeys = ownKeys.concat(Object.getOwnPropertySymbols(source).filter(function(sym) {
+                return Object.getOwnPropertyDescriptor(source, sym).enumerable;
+            }));
+        }
+        ownKeys.forEach(function(key) {
+            _define_property(target, key, source[key]);
+        });
+    }
+    return target;
+}
+
+
+
+
+
+
+function TagsListInline(param) {
+    var tags = param.tags;
+    return /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsxs)(react_jsx_runtime__rspack_import_0.Fragment, {
+        children: [
+            /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)("b", {
+                children: /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)(_docusaurus_Translate__rspack_import_2/* ["default"] */.A, {
+                    id: "theme.tags.tagsListLabel",
+                    description: "The label alongside a tag list",
+                    children: "Tags:"
+                })
+            }),
+            /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)("ul", {
+                className: (0,clsx__rspack_import_5/* ["default"] */.A)((_styles_module_css__rspack_import_4_default().tags), 'padding--none', 'margin-left--sm'),
+                children: tags.map(function(tag) {
+                    return /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)("li", {
+                        className: (_styles_module_css__rspack_import_4_default().tag),
+                        children: /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)(_theme_Tag__rspack_import_3/* ["default"] */.A, _object_spread({}, tag))
+                    }, tag.permalink);
+                })
+            })
+        ]
+    });
+}
+
+
+},
+43647(__unused_rspack_module, __webpack_exports__, __webpack_require__) {
+"use strict";
+__webpack_require__.d(__webpack_exports__, {
+  B: () => (Details)
+});
+/* import */ var react_jsx_runtime__rspack_import_0 = __webpack_require__(74848);
+/* import */ var react__rspack_import_1 = __webpack_require__(96540);
+/* import */ var clsx__rspack_import_6 = __webpack_require__(15066);
+/* import */ var _docusaurus_useBrokenLinks__rspack_import_2 = __webpack_require__(73600);
+/* import */ var _docusaurus_useIsBrowser__rspack_import_3 = __webpack_require__(88094);
+/* import */ var _Collapsible__rspack_import_5 = __webpack_require__(32285);
+/* import */ var _styles_module_css__rspack_import_4 = __webpack_require__(3079);
+/* import */ var _styles_module_css__rspack_import_4_default = /*#__PURE__*/__webpack_require__.n(_styles_module_css__rspack_import_4);
+/**
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */ function _array_like_to_array(arr, len) {
+    if (len == null || len > arr.length) len = arr.length;
+    for(var i = 0, arr2 = new Array(len); i < len; i++)arr2[i] = arr[i];
+    return arr2;
+}
+function _array_with_holes(arr) {
+    if (Array.isArray(arr)) return arr;
+}
+function _define_property(obj, key, value) {
+    if (key in obj) {
+        Object.defineProperty(obj, key, {
+            value: value,
+            enumerable: true,
+            configurable: true,
+            writable: true
+        });
+    } else {
+        obj[key] = value;
+    }
+    return obj;
+}
+function _iterable_to_array_limit(arr, i) {
+    var _i = arr == null ? null : typeof Symbol !== "undefined" && arr[Symbol.iterator] || arr["@@iterator"];
+    if (_i == null) return;
+    var _arr = [];
+    var _n = true;
+    var _d = false;
+    var _s, _e;
+    try {
+        for(_i = _i.call(arr); !(_n = (_s = _i.next()).done); _n = true){
+            _arr.push(_s.value);
+            if (i && _arr.length === i) break;
+        }
+    } catch (err) {
+        _d = true;
+        _e = err;
+    } finally{
+        try {
+            if (!_n && _i["return"] != null) _i["return"]();
+        } finally{
+            if (_d) throw _e;
+        }
+    }
+    return _arr;
+}
+function _non_iterable_rest() {
+    throw new TypeError("Invalid attempt to destructure non-iterable instance.\\nIn order to be iterable, non-array objects must have a [Symbol.iterator]() method.");
+}
+function _object_spread(target) {
+    for(var i = 1; i < arguments.length; i++){
+        var source = arguments[i] != null ? arguments[i] : {};
+        var ownKeys = Object.keys(source);
+        if (typeof Object.getOwnPropertySymbols === "function") {
+            ownKeys = ownKeys.concat(Object.getOwnPropertySymbols(source).filter(function(sym) {
+                return Object.getOwnPropertyDescriptor(source, sym).enumerable;
+            }));
+        }
+        ownKeys.forEach(function(key) {
+            _define_property(target, key, source[key]);
+        });
+    }
+    return target;
+}
+function ownKeys(object, enumerableOnly) {
+    var keys = Object.keys(object);
+    if (Object.getOwnPropertySymbols) {
+        var symbols = Object.getOwnPropertySymbols(object);
+        if (enumerableOnly) {
+            symbols = symbols.filter(function(sym) {
+                return Object.getOwnPropertyDescriptor(object, sym).enumerable;
+            });
+        }
+        keys.push.apply(keys, symbols);
+    }
+    return keys;
+}
+function _object_spread_props(target, source) {
+    source = source != null ? source : {};
+    if (Object.getOwnPropertyDescriptors) {
+        Object.defineProperties(target, Object.getOwnPropertyDescriptors(source));
+    } else {
+        ownKeys(Object(source)).forEach(function(key) {
+            Object.defineProperty(target, key, Object.getOwnPropertyDescriptor(source, key));
+        });
+    }
+    return target;
+}
+function _object_without_properties(source, excluded) {
+    if (source == null) return {};
+    var target = _object_without_properties_loose(source, excluded);
+    var key, i;
+    if (Object.getOwnPropertySymbols) {
+        var sourceSymbolKeys = Object.getOwnPropertySymbols(source);
+        for(i = 0; i < sourceSymbolKeys.length; i++){
+            key = sourceSymbolKeys[i];
+            if (excluded.indexOf(key) >= 0) continue;
+            if (!Object.prototype.propertyIsEnumerable.call(source, key)) continue;
+            target[key] = source[key];
+        }
+    }
+    return target;
+}
+function _object_without_properties_loose(source, excluded) {
+    if (source == null) return {};
+    var target = {};
+    var sourceKeys = Object.keys(source);
+    var key, i;
+    for(i = 0; i < sourceKeys.length; i++){
+        key = sourceKeys[i];
+        if (excluded.indexOf(key) >= 0) continue;
+        target[key] = source[key];
+    }
+    return target;
+}
+function _sliced_to_array(arr, i) {
+    return _array_with_holes(arr) || _iterable_to_array_limit(arr, i) || _unsupported_iterable_to_array(arr, i) || _non_iterable_rest();
+}
+function _unsupported_iterable_to_array(o, minLen) {
+    if (!o) return;
+    if (typeof o === "string") return _array_like_to_array(o, minLen);
+    var n = Object.prototype.toString.call(o).slice(8, -1);
+    if (n === "Object" && o.constructor) n = o.constructor.name;
+    if (n === "Map" || n === "Set") return Array.from(n);
+    if (n === "Arguments" || /^(?:Ui|I)nt(?:8|16|32)(?:Clamped)?Array$/.test(n)) return _array_like_to_array(o, minLen);
+}
+
+
+
+
+
+
+
+function isInSummary(node) {
+    if (!node) {
+        return false;
+    }
+    return node.tagName === 'SUMMARY' || isInSummary(node.parentElement);
+}
+function hasParent(node, parent) {
+    if (!node) {
+        return false;
+    }
+    return node === parent || hasParent(node.parentElement, parent);
+}
+/**
+ * A mostly un-styled `<details>` element with smooth collapsing. Provides some
+ * very lightweight styles, but you should bring your UI.
+ */ function Details(_param) {
+    var summary = _param.summary, children = _param.children, props = _object_without_properties(_param, [
+        "summary",
+        "children"
+    ]);
+    (0,_docusaurus_useBrokenLinks__rspack_import_2/* ["default"] */.A)().collectAnchor(props.id);
+    var isBrowser = (0,_docusaurus_useIsBrowser__rspack_import_3/* ["default"] */.A)();
+    var detailsRef = (0,react__rspack_import_1.useRef)(null);
+    var _useCollapsible = (0,_Collapsible__rspack_import_5/* .useCollapsible */.u)({
+        initialState: !props.open
+    }), collapsed = _useCollapsible.collapsed, setCollapsed = _useCollapsible.setCollapsed;
+    // Use a separate state for the actual details prop, because it must be set
+    // only after animation completes, otherwise close animations won't work
+    var _useState = _sliced_to_array((0,react__rspack_import_1.useState)(props.open), 2), open = _useState[0], setOpen = _useState[1];
+    var summaryElement = /*#__PURE__*/ react__rspack_import_1.isValidElement(summary) ? summary : /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)("summary", {
+        children: summary !== null && summary !== void 0 ? summary : 'Details'
+    });
+    return(// eslint-disable-next-line jsx-a11y/click-events-have-key-events, jsx-a11y/no-noninteractive-element-interactions
+    /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsxs)("details", _object_spread_props(_object_spread({}, props), {
+        ref: detailsRef,
+        open: open,
+        "data-collapsed": collapsed,
+        className: (0,clsx__rspack_import_6/* ["default"] */.A)((_styles_module_css__rspack_import_4_default().details), isBrowser && (_styles_module_css__rspack_import_4_default().isBrowser), props.className),
+        onMouseDown: function(e) {
+            var target = e.target;
+            // Prevent a double-click to highlight summary text
+            if (isInSummary(target) && e.detail > 1) {
+                e.preventDefault();
+            }
+        },
+        onClick: function(e) {
+            e.stopPropagation(); // For isolation of multiple nested details/summary
+            var target = e.target;
+            var shouldToggle = isInSummary(target) && hasParent(target, detailsRef.current);
+            if (!shouldToggle) {
+                return;
+            }
+            e.preventDefault();
+            if (collapsed) {
+                setCollapsed(false);
+                setOpen(true);
+            } else {
+                setCollapsed(true);
+            // Don't do this, it breaks close animation!
+            // setOpen(false);
+            }
+        },
+        children: [
+            summaryElement,
+            /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)(_Collapsible__rspack_import_5/* .Collapsible */.N, {
+                lazy: false,
+                collapsed: collapsed,
+                onCollapseTransitionEnd: function(newCollapsed) {
+                    setCollapsed(newCollapsed);
+                    setOpen(!newCollapsed);
+                },
+                children: /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)("div", {
+                    className: (_styles_module_css__rspack_import_4_default().collapsibleContent),
+                    children: children
+                })
+            })
+        ]
+    })));
+} //# sourceMappingURL=index.js.map
+
+
+},
+38844(__unused_rspack_module, __webpack_exports__, __webpack_require__) {
+"use strict";
+__webpack_require__.d(__webpack_exports__, {
+  f: () => (useCodeWordWrap)
+});
+/* import */ var react__rspack_import_0 = __webpack_require__(96540);
+/* import */ var _useMutationObserver__rspack_import_1 = __webpack_require__(46380);
+function _array_like_to_array(arr, len) {
+    if (len == null || len > arr.length) len = arr.length;
+    for(var i = 0, arr2 = new Array(len); i < len; i++)arr2[i] = arr[i];
+    return arr2;
+}
+function _array_with_holes(arr) {
+    if (Array.isArray(arr)) return arr;
+}
+function _iterable_to_array_limit(arr, i) {
+    var _i = arr == null ? null : typeof Symbol !== "undefined" && arr[Symbol.iterator] || arr["@@iterator"];
+    if (_i == null) return;
+    var _arr = [];
+    var _n = true;
+    var _d = false;
+    var _s, _e;
+    try {
+        for(_i = _i.call(arr); !(_n = (_s = _i.next()).done); _n = true){
+            _arr.push(_s.value);
+            if (i && _arr.length === i) break;
+        }
+    } catch (err) {
+        _d = true;
+        _e = err;
+    } finally{
+        try {
+            if (!_n && _i["return"] != null) _i["return"]();
+        } finally{
+            if (_d) throw _e;
+        }
+    }
+    return _arr;
+}
+function _non_iterable_rest() {
+    throw new TypeError("Invalid attempt to destructure non-iterable instance.\\nIn order to be iterable, non-array objects must have a [Symbol.iterator]() method.");
+}
+function _sliced_to_array(arr, i) {
+    return _array_with_holes(arr) || _iterable_to_array_limit(arr, i) || _unsupported_iterable_to_array(arr, i) || _non_iterable_rest();
+}
+function _unsupported_iterable_to_array(o, minLen) {
+    if (!o) return;
+    if (typeof o === "string") return _array_like_to_array(o, minLen);
+    var n = Object.prototype.toString.call(o).slice(8, -1);
+    if (n === "Object" && o.constructor) n = o.constructor.name;
+    if (n === "Map" || n === "Set") return Array.from(n);
+    if (n === "Arguments" || /^(?:Ui|I)nt(?:8|16|32)(?:Clamped)?Array$/.test(n)) return _array_like_to_array(o, minLen);
+}
+
+
+// Callback fires when the "hidden" attribute of a tabpanel changes
+// See https://github.com/facebook/docusaurus/pull/7485
+function useTabBecameVisibleCallback(codeBlockRef, callback) {
+    var _useState = _sliced_to_array((0,react__rspack_import_0.useState)(), 2), hiddenTabElement = _useState[0], setHiddenTabElement = _useState[1];
+    var updateHiddenTabElement = (0,react__rspack_import_0.useCallback)(function() {
+        var _codeBlockRef_current;
+        // No need to observe non-hidden tabs
+        // + we want to force a re-render when a tab becomes visible
+        setHiddenTabElement((_codeBlockRef_current = codeBlockRef.current) === null || _codeBlockRef_current === void 0 ? void 0 : _codeBlockRef_current.closest('[role=tabpanel][hidden]'));
+    }, [
+        codeBlockRef,
+        setHiddenTabElement
+    ]);
+    (0,react__rspack_import_0.useEffect)(function() {
+        updateHiddenTabElement();
+    }, [
+        updateHiddenTabElement
+    ]);
+    (0,_useMutationObserver__rspack_import_1/* .useMutationObserver */.P)(hiddenTabElement, function(mutations) {
+        mutations.forEach(function(mutation) {
+            if (mutation.type === 'attributes' && mutation.attributeName === 'hidden') {
+                callback();
+                updateHiddenTabElement();
+            }
+        });
+    }, {
+        attributes: true,
+        characterData: false,
+        childList: false,
+        subtree: false
+    });
+}
+function useCodeWordWrap() {
+    var _useState = _sliced_to_array((0,react__rspack_import_0.useState)(false), 2), isEnabled = _useState[0], setIsEnabled = _useState[1];
+    var _useState1 = _sliced_to_array((0,react__rspack_import_0.useState)(false), 2), isCodeScrollable = _useState1[0], setIsCodeScrollable = _useState1[1];
+    var codeBlockRef = (0,react__rspack_import_0.useRef)(null);
+    var toggle = (0,react__rspack_import_0.useCallback)(function() {
+        var codeElement = codeBlockRef.current.querySelector('code');
+        if (isEnabled) {
+            codeElement.removeAttribute('style');
+        } else {
+            codeElement.style.whiteSpace = 'pre-wrap';
+            // When code wrap is enabled, we want to avoid a scrollbar in any case
+            // Ensure that very very long words/strings/tokens still wrap
+            codeElement.style.overflowWrap = 'anywhere';
+        }
+        setIsEnabled(function(value) {
+            return !value;
+        });
+    }, [
+        codeBlockRef,
+        isEnabled
+    ]);
+    var updateCodeIsScrollable = (0,react__rspack_import_0.useCallback)(function() {
+        var _codeBlockRef_current = codeBlockRef.current, scrollWidth = _codeBlockRef_current.scrollWidth, clientWidth = _codeBlockRef_current.clientWidth;
+        var isScrollable = scrollWidth > clientWidth || codeBlockRef.current.querySelector('code').hasAttribute('style');
+        setIsCodeScrollable(isScrollable);
+    }, [
+        codeBlockRef
+    ]);
+    useTabBecameVisibleCallback(codeBlockRef, updateCodeIsScrollable);
+    (0,react__rspack_import_0.useEffect)(function() {
+        updateCodeIsScrollable();
+    }, [
+        isEnabled,
+        updateCodeIsScrollable
+    ]);
+    (0,react__rspack_import_0.useEffect)(function() {
+        window.addEventListener('resize', updateCodeIsScrollable, {
+            passive: true
+        });
+        return function() {
+            window.removeEventListener('resize', updateCodeIsScrollable);
+        };
+    }, [
+        updateCodeIsScrollable
+    ]);
+    return {
+        codeBlockRef: codeBlockRef,
+        isEnabled: isEnabled,
+        isCodeScrollable: isCodeScrollable,
+        toggle: toggle
+    };
+} //# sourceMappingURL=useCodeWordWrap.js.map
+
+
+},
+46380(__unused_rspack_module, __webpack_exports__, __webpack_require__) {
+"use strict";
+__webpack_require__.d(__webpack_exports__, {
+  P: () => (useMutationObserver)
+});
+/* import */ var react__rspack_import_0 = __webpack_require__(96540);
+/* import */ var _utils_reactUtils__rspack_import_1 = __webpack_require__(25511);
+/**
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */ 
+
+var DefaultOptions = {
+    attributes: true,
+    characterData: true,
+    childList: true,
+    subtree: true
+};
+function useMutationObserver(target, callback) {
+    var options = arguments.length > 2 && arguments[2] !== void 0 ? arguments[2] : DefaultOptions;
+    var stableCallback = (0,_utils_reactUtils__rspack_import_1/* .useEvent */._q)(callback);
+    // MutationObserver options are not nested much
+    // so this should be to memo options in 99%
+    // TODO handle options.attributeFilter array
+    var stableOptions = (0,_utils_reactUtils__rspack_import_1/* .useShallowMemoObject */.Be)(options);
+    (0,react__rspack_import_0.useEffect)(function() {
+        var observer = new MutationObserver(stableCallback);
+        if (target) {
+            observer.observe(target, stableOptions);
+        }
+        return function() {
+            return observer.disconnect();
+        };
+    }, [
+        target,
+        stableCallback,
+        stableOptions
+    ]);
+} //# sourceMappingURL=useMutationObserver.js.map
+
+
+},
+74959(__unused_rspack_module, __webpack_exports__, __webpack_require__) {
+"use strict";
+__webpack_require__.d(__webpack_exports__, {
+  A: () => (usePrismTheme)
+});
+/* import */ var _contexts_colorMode__rspack_import_1 = __webpack_require__(5414);
+/* import */ var _utils_useThemeConfig__rspack_import_0 = __webpack_require__(6405);
+/**
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */ 
+
+/**
+ * Returns a color-mode-dependent Prism theme: whatever the user specified in
+ * the config. Falls back to `palenight`.
+ */ function usePrismTheme() {
+    var prism = (0,_utils_useThemeConfig__rspack_import_0/* .useThemeConfig */.p)().prism;
+    var colorMode = (0,_contexts_colorMode__rspack_import_1/* .useColorMode */.G)().colorMode;
+    var lightModeTheme = prism.theme;
+    var darkModeTheme = prism.darkTheme || lightModeTheme;
+    var prismTheme = colorMode === 'dark' ? darkModeTheme : lightModeTheme;
+    return prismTheme;
+} //# sourceMappingURL=usePrismTheme.js.map
+
+
+},
+19663(__unused_rspack_module, __webpack_exports__, __webpack_require__) {
+"use strict";
+__webpack_require__.d(__webpack_exports__, {
+  i: () => (useTOCHighlight)
+});
+/* import */ var react__rspack_import_0 = __webpack_require__(96540);
+/* import */ var _utils_useThemeConfig__rspack_import_1 = __webpack_require__(6405);
+/**
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */ 
+
+// TODO make the hardcoded theme-classic classnames configurable (or add them
+// to ThemeClassNames?)
+/**
+ * If the anchor has no height and is just a "marker" in the DOM; we'll use the
+ * parent (normally the link text) rect boundaries instead
+ */ function getVisibleBoundingClientRect(element) {
+    var rect = element.getBoundingClientRect();
+    var hasNoHeight = rect.top === rect.bottom;
+    if (hasNoHeight) {
+        return getVisibleBoundingClientRect(element.parentNode);
+    }
+    return rect;
+}
+/**
+ * Considering we divide viewport into 2 zones of each 50vh, this returns true
+ * if an element is in the first zone (i.e., appear in viewport, near the top)
+ */ function isInViewportTopHalf(boundingRect) {
+    return boundingRect.top > 0 && boundingRect.bottom < window.innerHeight / 2;
+}
+function getAnchors(param) {
+    var minHeadingLevel = param.minHeadingLevel, maxHeadingLevel = param.maxHeadingLevel;
+    var selectors = [];
+    for(var i = minHeadingLevel; i <= maxHeadingLevel; i += 1){
+        selectors.push("h".concat(i, ".anchor"));
+    }
+    return Array.from(document.querySelectorAll(selectors.join()));
+}
+function getActiveAnchor(anchors, param) {
+    var anchorTopOffset = param.anchorTopOffset;
+    // Naming is hard: The "nextVisibleAnchor" is the first anchor that appear
+    // under the viewport top boundary. It does not mean this anchor is visible
+    // yet, but if user continues scrolling down, it will be the first to become
+    // visible
+    var nextVisibleAnchor = anchors.find(function(anchor) {
+        var boundingRect = getVisibleBoundingClientRect(anchor);
+        return boundingRect.top >= anchorTopOffset;
+    });
+    if (nextVisibleAnchor) {
+        var boundingRect = getVisibleBoundingClientRect(nextVisibleAnchor);
+        // If anchor is in the top half of the viewport: it is the one we consider
+        // "active" (unless it's too close to the top and and soon to be scrolled
+        // outside viewport)
+        if (isInViewportTopHalf(boundingRect)) {
+            return nextVisibleAnchor;
+        }
+        var _anchors_;
+        // If anchor is in the bottom half of the viewport, or under the viewport,
+        // we consider the active anchor is the previous one. This is because the
+        // main text appearing in the user screen mostly belong to the previous
+        // anchor. Returns null for the first anchor, see
+        // https://github.com/facebook/docusaurus/issues/5318
+        return (_anchors_ = anchors[anchors.indexOf(nextVisibleAnchor) - 1]) !== null && _anchors_ !== void 0 ? _anchors_ : null;
+    }
+    var _anchors_1;
+    // No anchor under viewport top (i.e. we are at the bottom of the page),
+    // highlight the last anchor found
+    return (_anchors_1 = anchors[anchors.length - 1]) !== null && _anchors_1 !== void 0 ? _anchors_1 : null;
+}
+function getLinkAnchorValue(link) {
+    return decodeURIComponent(link.href.substring(link.href.indexOf('#') + 1));
+}
+function getLinks(linkClassName) {
+    return Array.from(document.getElementsByClassName(linkClassName));
+}
+function getNavbarHeight() {
+    // Not ideal to obtain actual height this way
+    // Using TS ! (not ?) because otherwise a bad selector would be un-noticed
+    return document.querySelector('.navbar').clientHeight;
+}
+function useAnchorTopOffsetRef() {
+    var anchorTopOffsetRef = (0,react__rspack_import_0.useRef)(0);
+    var _useThemeConfig = (0,_utils_useThemeConfig__rspack_import_1/* .useThemeConfig */.p)(), hideOnScroll = _useThemeConfig.navbar.hideOnScroll;
+    (0,react__rspack_import_0.useEffect)(function() {
+        anchorTopOffsetRef.current = hideOnScroll ? 0 : getNavbarHeight();
+    }, [
+        hideOnScroll
+    ]);
+    return anchorTopOffsetRef;
+}
+/**
+ * Side-effect that applies the active class name to the TOC heading that the
+ * user is currently viewing. Disabled when `config` is undefined.
+ */ function useTOCHighlight(config) {
+    var lastActiveLinkRef = (0,react__rspack_import_0.useRef)(undefined);
+    var anchorTopOffsetRef = useAnchorTopOffsetRef();
+    (0,react__rspack_import_0.useEffect)(function() {
+        var updateLinkActiveClass = function updateLinkActiveClass(link, active) {
+            if (active) {
+                if (lastActiveLinkRef.current && lastActiveLinkRef.current !== link) {
+                    lastActiveLinkRef.current.classList.remove(linkActiveClassName);
+                }
+                link.classList.add(linkActiveClassName);
+                lastActiveLinkRef.current = link;
+            // link.scrollIntoView({block: 'nearest'});
+            } else {
+                link.classList.remove(linkActiveClassName);
+            }
+        };
+        var updateActiveLink = function updateActiveLink() {
+            var links = getLinks(linkClassName);
+            var anchors = getAnchors({
+                minHeadingLevel: minHeadingLevel,
+                maxHeadingLevel: maxHeadingLevel
+            });
+            var activeAnchor = getActiveAnchor(anchors, {
+                anchorTopOffset: anchorTopOffsetRef.current
+            });
+            var activeLink = links.find(function(link) {
+                return activeAnchor && activeAnchor.id === getLinkAnchorValue(link);
+            });
+            links.forEach(function(link) {
+                updateLinkActiveClass(link, link === activeLink);
+            });
+        };
+        if (!config) {
+            // No-op, highlighting is disabled
+            return function() {};
+        }
+        var linkClassName = config.linkClassName, linkActiveClassName = config.linkActiveClassName, minHeadingLevel = config.minHeadingLevel, maxHeadingLevel = config.maxHeadingLevel;
+        document.addEventListener('scroll', updateActiveLink);
+        document.addEventListener('resize', updateActiveLink);
+        updateActiveLink();
+        return function() {
+            document.removeEventListener('scroll', updateActiveLink);
+            document.removeEventListener('resize', updateActiveLink);
+        };
+    }, [
+        config,
+        anchorTopOffsetRef
+    ]);
+} //# sourceMappingURL=useTOCHighlight.js.map
+
+
+},
+96675(__unused_rspack_module, __webpack_exports__, __webpack_require__) {
+"use strict";
+__webpack_require__.d(__webpack_exports__, {
+  AE: () => (UnlistedMetadata),
+  Rc: () => (UnlistedBannerTitle),
+  TT: () => (DraftBannerMessage),
+  Uh: () => (UnlistedBannerMessage),
+  Yh: () => (DraftBannerTitle)
+});
+/* import */ var react_jsx_runtime__rspack_import_0 = __webpack_require__(74848);
+/* import */ var react__rspack_import_1 = __webpack_require__(96540);
+/* import */ var _docusaurus_Translate__rspack_import_2 = __webpack_require__(91785);
+/* import */ var _docusaurus_Head__rspack_import_3 = __webpack_require__(83405);
+/**
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */ 
+
+
+
+function UnlistedBannerTitle() {
+    return /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)(_docusaurus_Translate__rspack_import_2/* ["default"] */.A, {
+        id: "theme.contentVisibility.unlistedBanner.title",
+        description: "The unlisted content banner title",
+        children: "Unlisted page"
+    });
+}
+function UnlistedBannerMessage() {
+    return /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)(_docusaurus_Translate__rspack_import_2/* ["default"] */.A, {
+        id: "theme.contentVisibility.unlistedBanner.message",
+        description: "The unlisted content banner message",
+        children: "This page is unlisted. Search engines will not index it, and only users having a direct link can access it."
+    });
+}
+// TODO Docusaurus v4 breaking change (since it's v3 public theme-common API :/)
+//  Move this to theme/ContentVisibility/Unlisted
+function UnlistedMetadata() {
+    return /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)(_docusaurus_Head__rspack_import_3/* ["default"] */.A, {
+        children: /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)("meta", {
+            name: "robots",
+            content: "noindex, nofollow"
+        })
+    });
+}
+function DraftBannerTitle() {
+    return /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)(_docusaurus_Translate__rspack_import_2/* ["default"] */.A, {
+        id: "theme.contentVisibility.draftBanner.title",
+        description: "The draft content banner title",
+        children: "Draft page"
+    });
+}
+function DraftBannerMessage() {
+    return /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)(_docusaurus_Translate__rspack_import_2/* ["default"] */.A, {
+        id: "theme.contentVisibility.draftBanner.message",
+        description: "The draft content banner message",
+        children: "This page is a draft. It will only be visible in dev and be excluded from the production build."
+    });
+} //# sourceMappingURL=contentVisibilityTranslations.js.map
+
+
+},
+39407(__unused_rspack_module, __webpack_exports__, __webpack_require__) {
+"use strict";
+__webpack_require__.d(__webpack_exports__, {
+  i: () => (useDateTimeFormat)
+});
+/* import */ var _docusaurus_useDocusaurusContext__rspack_import_0 = __webpack_require__(19087);
+/**
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */ function _define_property(obj, key, value) {
+    if (key in obj) {
+        Object.defineProperty(obj, key, {
+            value: value,
+            enumerable: true,
+            configurable: true,
+            writable: true
+        });
+    } else {
+        obj[key] = value;
+    }
+    return obj;
+}
+function _object_spread(target) {
+    for(var i = 1; i < arguments.length; i++){
+        var source = arguments[i] != null ? arguments[i] : {};
+        var ownKeys = Object.keys(source);
+        if (typeof Object.getOwnPropertySymbols === "function") {
+            ownKeys = ownKeys.concat(Object.getOwnPropertySymbols(source).filter(function(sym) {
+                return Object.getOwnPropertyDescriptor(source, sym).enumerable;
+            }));
+        }
+        ownKeys.forEach(function(key) {
+            _define_property(target, key, source[key]);
+        });
+    }
+    return target;
+}
+
+function useCalendar() {
+    var _useDocusaurusContext = (0,_docusaurus_useDocusaurusContext__rspack_import_0/* ["default"] */.A)(), _useDocusaurusContext_i18n = _useDocusaurusContext.i18n, currentLocale = _useDocusaurusContext_i18n.currentLocale, localeConfigs = _useDocusaurusContext_i18n.localeConfigs;
+    return localeConfigs[currentLocale].calendar;
+}
+function useDateTimeFormat() {
+    var options = arguments.length > 0 && arguments[0] !== void 0 ? arguments[0] : {};
+    var _useDocusaurusContext = (0,_docusaurus_useDocusaurusContext__rspack_import_0/* ["default"] */.A)(), currentLocale = _useDocusaurusContext.i18n.currentLocale;
+    var calendar = useCalendar();
+    return new Intl.DateTimeFormat(currentLocale, _object_spread({
+        calendar: calendar
+    }, options));
+} //# sourceMappingURL=IntlUtils.js.map
+
+
+},
+74380(__unused_rspack_module, __webpack_exports__, __webpack_require__) {
+"use strict";
+__webpack_require__.d(__webpack_exports__, {
+  c: () => (processAdmonitionProps)
+});
+/* import */ var react_jsx_runtime__rspack_import_0 = __webpack_require__(74848);
+/* import */ var react__rspack_import_1 = __webpack_require__(96540);
+/**
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */ function _define_property(obj, key, value) {
+    if (key in obj) {
+        Object.defineProperty(obj, key, {
+            value: value,
+            enumerable: true,
+            configurable: true,
+            writable: true
+        });
+    } else {
+        obj[key] = value;
+    }
+    return obj;
+}
+function _object_spread(target) {
+    for(var i = 1; i < arguments.length; i++){
+        var source = arguments[i] != null ? arguments[i] : {};
+        var ownKeys = Object.keys(source);
+        if (typeof Object.getOwnPropertySymbols === "function") {
+            ownKeys = ownKeys.concat(Object.getOwnPropertySymbols(source).filter(function(sym) {
+                return Object.getOwnPropertyDescriptor(source, sym).enumerable;
+            }));
+        }
+        ownKeys.forEach(function(key) {
+            _define_property(target, key, source[key]);
+        });
+    }
+    return target;
+}
+function ownKeys(object, enumerableOnly) {
+    var keys = Object.keys(object);
+    if (Object.getOwnPropertySymbols) {
+        var symbols = Object.getOwnPropertySymbols(object);
+        if (enumerableOnly) {
+            symbols = symbols.filter(function(sym) {
+                return Object.getOwnPropertyDescriptor(object, sym).enumerable;
+            });
+        }
+        keys.push.apply(keys, symbols);
+    }
+    return keys;
+}
+function _object_spread_props(target, source) {
+    source = source != null ? source : {};
+    if (Object.getOwnPropertyDescriptors) {
+        Object.defineProperties(target, Object.getOwnPropertyDescriptors(source));
+    } else {
+        ownKeys(Object(source)).forEach(function(key) {
+            Object.defineProperty(target, key, Object.getOwnPropertyDescriptor(source, key));
+        });
+    }
+    return target;
+}
+
+
+// Workaround because it's difficult in MDX v1 to provide a MDX title as props
+// See https://github.com/facebook/docusaurus/pull/7152#issuecomment-1145779682
+function extractMDXAdmonitionTitle(children) {
+    var items = react__rspack_import_1.Children.toArray(children);
+    var mdxAdmonitionTitleWrapper = items.find(function(item) {
+        return /*#__PURE__*/ react__rspack_import_1.isValidElement(item) && item.type === 'mdxAdmonitionTitle';
+    });
+    var rest = items.filter(function(item) {
+        return item !== mdxAdmonitionTitleWrapper;
+    });
+    var mdxAdmonitionTitle = mdxAdmonitionTitleWrapper === null || mdxAdmonitionTitleWrapper === void 0 ? void 0 : mdxAdmonitionTitleWrapper.props.children;
+    return {
+        mdxAdmonitionTitle: mdxAdmonitionTitle,
+        rest: rest.length > 0 ? /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)(react_jsx_runtime__rspack_import_0.Fragment, {
+            children: rest
+        }) : null
+    };
+}
+function processAdmonitionProps(props) {
+    var _extractMDXAdmonitionTitle = extractMDXAdmonitionTitle(props.children), mdxAdmonitionTitle = _extractMDXAdmonitionTitle.mdxAdmonitionTitle, rest = _extractMDXAdmonitionTitle.rest;
+    var _props_title;
+    var title = (_props_title = props.title) !== null && _props_title !== void 0 ? _props_title : mdxAdmonitionTitle;
+    return _object_spread_props(_object_spread({}, props, title && {
+        title: title
+    }), {
+        children: rest
+    });
+} //# sourceMappingURL=admonitionUtils.js.map
+
+
+},
+16244(__unused_rspack_module, __webpack_exports__, __webpack_require__) {
+"use strict";
+__webpack_require__.d(__webpack_exports__, {
+  M$: () => (getPrismCssVariables),
+  Ph: () => (useCodeBlockContext),
+  l8: () => (CodeBlockContextProvider),
+  mU: () => (createCodeBlockMetadata)
+});
+/* import */ var react_jsx_runtime__rspack_import_0 = __webpack_require__(74848);
+/* import */ var react__rspack_import_1 = __webpack_require__(96540);
+/* import */ var clsx__rspack_import_3 = __webpack_require__(15066);
+/* import */ var parse_numeric_range__rspack_import_2 = __webpack_require__(18426);
+/* import */ var parse_numeric_range__rspack_import_2_default = /*#__PURE__*/__webpack_require__.n(parse_numeric_range__rspack_import_2);
+/* import */ var _reactUtils__rspack_import_4 = __webpack_require__(25511);
+/**
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */ function _array_like_to_array(arr, len) {
+    if (len == null || len > arr.length) len = arr.length;
+    for(var i = 0, arr2 = new Array(len); i < len; i++)arr2[i] = arr[i];
+    return arr2;
+}
+function _array_with_holes(arr) {
+    if (Array.isArray(arr)) return arr;
+}
+function _define_property(obj, key, value) {
+    if (key in obj) {
+        Object.defineProperty(obj, key, {
+            value: value,
+            enumerable: true,
+            configurable: true,
+            writable: true
+        });
+    } else {
+        obj[key] = value;
+    }
+    return obj;
+}
+function _iterable_to_array_limit(arr, i) {
+    var _i = arr == null ? null : typeof Symbol !== "undefined" && arr[Symbol.iterator] || arr["@@iterator"];
+    if (_i == null) return;
+    var _arr = [];
+    var _n = true;
+    var _d = false;
+    var _s, _e;
+    try {
+        for(_i = _i.call(arr); !(_n = (_s = _i.next()).done); _n = true){
+            _arr.push(_s.value);
+            if (i && _arr.length === i) break;
+        }
+    } catch (err) {
+        _d = true;
+        _e = err;
+    } finally{
+        try {
+            if (!_n && _i["return"] != null) _i["return"]();
+        } finally{
+            if (_d) throw _e;
+        }
+    }
+    return _arr;
+}
+function _non_iterable_rest() {
+    throw new TypeError("Invalid attempt to destructure non-iterable instance.\\nIn order to be iterable, non-array objects must have a [Symbol.iterator]() method.");
+}
+function _object_spread(target) {
+    for(var i = 1; i < arguments.length; i++){
+        var source = arguments[i] != null ? arguments[i] : {};
+        var ownKeys = Object.keys(source);
+        if (typeof Object.getOwnPropertySymbols === "function") {
+            ownKeys = ownKeys.concat(Object.getOwnPropertySymbols(source).filter(function(sym) {
+                return Object.getOwnPropertyDescriptor(source, sym).enumerable;
+            }));
+        }
+        ownKeys.forEach(function(key) {
+            _define_property(target, key, source[key]);
+        });
+    }
+    return target;
+}
+function ownKeys(object, enumerableOnly) {
+    var keys = Object.keys(object);
+    if (Object.getOwnPropertySymbols) {
+        var symbols = Object.getOwnPropertySymbols(object);
+        if (enumerableOnly) {
+            symbols = symbols.filter(function(sym) {
+                return Object.getOwnPropertyDescriptor(object, sym).enumerable;
+            });
+        }
+        keys.push.apply(keys, symbols);
+    }
+    return keys;
+}
+function _object_spread_props(target, source) {
+    source = source != null ? source : {};
+    if (Object.getOwnPropertyDescriptors) {
+        Object.defineProperties(target, Object.getOwnPropertyDescriptors(source));
+    } else {
+        ownKeys(Object(source)).forEach(function(key) {
+            Object.defineProperty(target, key, Object.getOwnPropertyDescriptor(source, key));
+        });
+    }
+    return target;
+}
+function _sliced_to_array(arr, i) {
+    return _array_with_holes(arr) || _iterable_to_array_limit(arr, i) || _unsupported_iterable_to_array(arr, i) || _non_iterable_rest();
+}
+function _unsupported_iterable_to_array(o, minLen) {
+    if (!o) return;
+    if (typeof o === "string") return _array_like_to_array(o, minLen);
+    var n = Object.prototype.toString.call(o).slice(8, -1);
+    if (n === "Object" && o.constructor) n = o.constructor.name;
+    if (n === "Map" || n === "Set") return Array.from(n);
+    if (n === "Arguments" || /^(?:Ui|I)nt(?:8|16|32)(?:Clamped)?Array$/.test(n)) return _array_like_to_array(o, minLen);
+}
+
+
+
+
+
+var codeBlockTitleRegex = RegExp("title=(?<quote>[\"'])(?<title>.*?)\\1");
+var metastringLinesRangeRegex = RegExp("\\{(?<range>[\\d,-]+)\\}");
+// Supported types of highlight comments
+var popularCommentPatterns = {
+    js: {
+        start: '\\/\\/',
+        end: ''
+    },
+    jsBlock: {
+        start: '\\/\\*',
+        end: '\\*\\/'
+    },
+    jsx: {
+        start: '\\{\\s*\\/\\*',
+        end: '\\*\\/\\s*\\}'
+    },
+    bash: {
+        start: '#',
+        end: ''
+    },
+    html: {
+        start: '<!--',
+        end: '-->'
+    }
+};
+var commentPatterns = _object_spread_props(_object_spread({}, popularCommentPatterns), {
+    // minor comment styles
+    lua: {
+        start: '--',
+        end: ''
+    },
+    wasm: {
+        start: '\\;\\;',
+        end: ''
+    },
+    tex: {
+        start: '%',
+        end: ''
+    },
+    vb: {
+        start: "['‘’]",
+        end: ''
+    },
+    vbnet: {
+        start: "(?:_\\s*)?['‘’]",
+        end: ''
+    },
+    rem: {
+        start: '[Rr][Ee][Mm]\\b',
+        end: ''
+    },
+    f90: {
+        start: '!',
+        end: ''
+    },
+    ml: {
+        start: '\\(\\*',
+        end: '\\*\\)'
+    },
+    cobol: {
+        start: '\\*>',
+        end: ''
+    }
+});
+var popularCommentTypes = Object.keys(popularCommentPatterns);
+function getCommentPattern(languages, magicCommentDirectives) {
+    // To be more reliable, the opening and closing comment must match
+    var commentPattern = languages.map(function(lang) {
+        var _commentPatterns_lang = commentPatterns[lang], start = _commentPatterns_lang.start, end = _commentPatterns_lang.end;
+        return "(?:".concat(start, "\\s*(").concat(magicCommentDirectives.flatMap(function(d) {
+            var _d_block, _d_block1;
+            return [
+                d.line,
+                (_d_block = d.block) === null || _d_block === void 0 ? void 0 : _d_block.start,
+                (_d_block1 = d.block) === null || _d_block1 === void 0 ? void 0 : _d_block1.end
+            ].filter(Boolean);
+        }).join('|'), ")\\s*").concat(end, ")");
+    }).join('|');
+    // White space is allowed, but otherwise it should be on it's own line
+    return new RegExp("^\\s*(?:".concat(commentPattern, ")\\s*$"));
+}
+/**
+ * Select comment styles based on language
+ */ function getAllMagicCommentDirectiveStyles(lang, magicCommentDirectives) {
+    switch(lang){
+        case 'js':
+        case 'javascript':
+        case 'ts':
+        case 'typescript':
+            return getCommentPattern([
+                'js',
+                'jsBlock'
+            ], magicCommentDirectives);
+        case 'jsx':
+        case 'tsx':
+            return getCommentPattern([
+                'js',
+                'jsBlock',
+                'jsx'
+            ], magicCommentDirectives);
+        case 'html':
+            return getCommentPattern([
+                'js',
+                'jsBlock',
+                'html'
+            ], magicCommentDirectives);
+        case 'python':
+        case 'py':
+        case 'bash':
+            return getCommentPattern([
+                'bash'
+            ], magicCommentDirectives);
+        case 'markdown':
+        case 'md':
+            // Text uses HTML, front matter uses bash
+            return getCommentPattern([
+                'html',
+                'jsx',
+                'bash'
+            ], magicCommentDirectives);
+        case 'tex':
+        case 'latex':
+        case 'matlab':
+            return getCommentPattern([
+                'tex'
+            ], magicCommentDirectives);
+        case 'lua':
+        case 'haskell':
+            return getCommentPattern([
+                'lua'
+            ], magicCommentDirectives);
+        case 'sql':
+            return getCommentPattern([
+                'lua',
+                'jsBlock'
+            ], magicCommentDirectives);
+        case 'wasm':
+            return getCommentPattern([
+                'wasm'
+            ], magicCommentDirectives);
+        case 'vb':
+        case 'vba':
+        case 'visual-basic':
+            return getCommentPattern([
+                'vb',
+                'rem'
+            ], magicCommentDirectives);
+        case 'vbnet':
+            return getCommentPattern([
+                'vbnet',
+                'rem'
+            ], magicCommentDirectives);
+        case 'batch':
+            return getCommentPattern([
+                'rem'
+            ], magicCommentDirectives);
+        case 'basic':
+            return getCommentPattern([
+                'rem',
+                'f90'
+            ], magicCommentDirectives);
+        case 'fsharp':
+            return getCommentPattern([
+                'js',
+                'ml'
+            ], magicCommentDirectives);
+        case 'ocaml':
+        case 'sml':
+            return getCommentPattern([
+                'ml'
+            ], magicCommentDirectives);
+        case 'fortran':
+            return getCommentPattern([
+                'f90'
+            ], magicCommentDirectives);
+        case 'cobol':
+            return getCommentPattern([
+                'cobol'
+            ], magicCommentDirectives);
+        default:
+            // All popular comment types
+            return getCommentPattern(popularCommentTypes, magicCommentDirectives);
+    }
+}
+function parseCodeBlockTitle(metastring) {
+    var _metastring_match;
+    var _metastring_match_groups_title;
+    return (_metastring_match_groups_title = metastring === null || metastring === void 0 ? void 0 : (_metastring_match = metastring.match(codeBlockTitleRegex)) === null || _metastring_match === void 0 ? void 0 : _metastring_match.groups.title) !== null && _metastring_match_groups_title !== void 0 ? _metastring_match_groups_title : '';
+}
+function getMetaLineNumbersStart(metastring) {
+    var showLineNumbersMeta = metastring === null || metastring === void 0 ? void 0 : metastring.split(' ').find(function(str) {
+        return str.startsWith('showLineNumbers');
+    });
+    if (showLineNumbersMeta) {
+        if (showLineNumbersMeta.startsWith('showLineNumbers=')) {
+            var value = showLineNumbersMeta.replace('showLineNumbers=', '');
+            return parseInt(value, 10);
+        }
+        return 1;
+    }
+    return undefined;
+}
+function getLineNumbersStart(param) {
+    var showLineNumbers = param.showLineNumbers, metastring = param.metastring;
+    var defaultStart = 1;
+    if (typeof showLineNumbers === 'boolean') {
+        return showLineNumbers ? defaultStart : undefined;
+    }
+    if (typeof showLineNumbers === 'number') {
+        return showLineNumbers;
+    }
+    return getMetaLineNumbersStart(metastring);
+}
+// TODO Docusaurus v4: remove, only kept for internal retro-compatibility
+//  See https://github.com/facebook/docusaurus/pull/11153
+function containsLineNumbers(metastring) {
+    return Boolean(metastring === null || metastring === void 0 ? void 0 : metastring.includes('showLineNumbers'));
+}
+function parseCodeLinesFromMetastring(code, param) {
+    var metastring = param.metastring, magicComments = param.magicComments;
+    // Highlighted lines specified in props: don't parse the content
+    if (metastring && metastringLinesRangeRegex.test(metastring)) {
+        var linesRange = metastring.match(metastringLinesRangeRegex).groups.range;
+        if (magicComments.length === 0) {
+            throw new Error("A highlight range has been given in code block's metastring (``` ".concat(metastring, "), but no magic comment config is available. Docusaurus applies the first magic comment entry's className for metastring ranges."));
+        }
+        var metastringRangeClassName = magicComments[0].className;
+        var lines = parse_numeric_range__rspack_import_2_default()(linesRange).filter(function(n) {
+            return n > 0;
+        }).map(function(n) {
+            return [
+                n - 1,
+                [
+                    metastringRangeClassName
+                ]
+            ];
+        });
+        return {
+            lineClassNames: Object.fromEntries(lines),
+            code: code
+        };
+    }
+    return null;
+}
+function parseCodeLinesFromContent(code, params) {
+    var language = params.language, magicComments = params.magicComments;
+    if (language === undefined) {
+        return {
+            lineClassNames: {},
+            code: code
+        };
+    }
+    var directiveRegex = getAllMagicCommentDirectiveStyles(language, magicComments);
+    // Go through line by line
+    var lines = code.split(/\r?\n/);
+    var blocks = Object.fromEntries(magicComments.map(function(d) {
+        return [
+            d.className,
+            {
+                start: 0,
+                range: ''
+            }
+        ];
+    }));
+    var lineToClassName = Object.fromEntries(magicComments.filter(function(d) {
+        return d.line;
+    }).map(function(param) {
+        var className = param.className, line = param.line;
+        return [
+            line,
+            className
+        ];
+    }));
+    var blockStartToClassName = Object.fromEntries(magicComments.filter(function(d) {
+        return d.block;
+    }).map(function(param) {
+        var className = param.className, block = param.block;
+        return [
+            block.start,
+            className
+        ];
+    }));
+    var blockEndToClassName = Object.fromEntries(magicComments.filter(function(d) {
+        return d.block;
+    }).map(function(param) {
+        var className = param.className, block = param.block;
+        return [
+            block.end,
+            className
+        ];
+    }));
+    for(var lineNumber = 0; lineNumber < lines.length;){
+        var line = lines[lineNumber];
+        var match = line.match(directiveRegex);
+        if (!match) {
+            // Lines without directives are unchanged
+            lineNumber += 1;
+            continue;
+        }
+        var directive = match.slice(1).find(function(item) {
+            return item !== undefined;
+        });
+        if (lineToClassName[directive]) {
+            blocks[lineToClassName[directive]].range += "".concat(lineNumber, ",");
+        } else if (blockStartToClassName[directive]) {
+            blocks[blockStartToClassName[directive]].start = lineNumber;
+        } else if (blockEndToClassName[directive]) {
+            blocks[blockEndToClassName[directive]].range += "".concat(blocks[blockEndToClassName[directive]].start, "-").concat(lineNumber - 1, ",");
+        }
+        lines.splice(lineNumber, 1);
+    }
+    var lineClassNames = {};
+    Object.entries(blocks).forEach(function(param) {
+        var _param = _sliced_to_array(param, 2), className = _param[0], range = _param[1].range;
+        parse_numeric_range__rspack_import_2_default()(range).forEach(function(l) {
+            var _lineClassNames, _l;
+            var _;
+            (_ = (_lineClassNames = lineClassNames)[_l = l]) !== null && _ !== void 0 ? _ : _lineClassNames[_l] = [];
+            lineClassNames[l].push(className);
+        });
+    });
+    return {
+        code: lines.join('\n'),
+        lineClassNames: lineClassNames
+    };
+}
+/**
+ * Parses the code content, strips away any magic comments, and returns the
+ * clean content and the highlighted lines marked by the comments or metastring.
+ *
+ * If the metastring contains a range, the `content` will be returned as-is
+ * without any parsing. The returned `lineClassNames` will be a map from that
+ * number range to the first magic comment config entry (which _should_ be for
+ * line highlight directives.)
+ */ function parseLines(code, params) {
+    // Historical behavior: we remove last line break
+    var newCode = code.replace(/\r?\n$/, '');
+    var _parseCodeLinesFromMetastring;
+    // Historical behavior: we try one strategy after the other
+    // we don't support mixing metastring ranges + magic comments
+    return (_parseCodeLinesFromMetastring = parseCodeLinesFromMetastring(newCode, _object_spread({}, params))) !== null && _parseCodeLinesFromMetastring !== void 0 ? _parseCodeLinesFromMetastring : parseCodeLinesFromContent(newCode, _object_spread({}, params));
+}
+/**
+ * Gets the language name from the class name (set by MDX).
+ * e.g. `"language-javascript"` => `"javascript"`.
+ * Returns undefined if there is no language class name.
+ */ function parseClassNameLanguage(className) {
+    if (!className) {
+        return undefined;
+    }
+    var languageClassName = className.split(' ').find(function(str) {
+        return str.startsWith('language-');
+    });
+    return languageClassName === null || languageClassName === void 0 ? void 0 : languageClassName.replace(/language-/, '');
+}
+// Prism languages are always lowercase
+// We want to fail-safe and allow both "php" and "PHP"
+// See https://github.com/facebook/docusaurus/issues/9012
+function normalizeLanguage(language) {
+    return language === null || language === void 0 ? void 0 : language.toLowerCase();
+}
+function getLanguage(params) {
+    var _params_language, _ref, _normalizeLanguage;
+    return (_normalizeLanguage = normalizeLanguage((_ref = (_params_language = params.language) !== null && _params_language !== void 0 ? _params_language : parseClassNameLanguage(params.className)) !== null && _ref !== void 0 ? _ref : params.defaultLanguage)) !== null && _normalizeLanguage !== void 0 ? _normalizeLanguage : 'text'; // There's always a language, required by Prism;
+}
+/**
+ * This ensures that we always have the code block language as className
+ * For MDX code blocks this is provided automatically by MDX
+ * For JSX code blocks, the language gets added by this function
+ * This ensures both cases lead to a consistent HTML output
+ */ function ensureLanguageClassName(param) {
+    var className = param.className, language = param.language;
+    return (0,clsx__rspack_import_3/* ["default"] */.A)(className, language && !(className === null || className === void 0 ? void 0 : className.includes("language-".concat(language))) && "language-".concat(language));
+}
+function createCodeBlockMetadata(params) {
+    var language = getLanguage({
+        language: params.language,
+        defaultLanguage: params.defaultLanguage,
+        className: params.className
+    });
+    var _parseLines = parseLines(params.code, {
+        metastring: params.metastring,
+        magicComments: params.magicComments,
+        language: language
+    }), lineClassNames = _parseLines.lineClassNames, code = _parseLines.code;
+    var className = ensureLanguageClassName({
+        className: params.className,
+        language: language
+    });
+    var title = parseCodeBlockTitle(params.metastring) || params.title;
+    var lineNumbersStart = getLineNumbersStart({
+        showLineNumbers: params.showLineNumbers,
+        metastring: params.metastring
+    });
+    return {
+        codeInput: params.code,
+        code: code,
+        className: className,
+        language: language,
+        title: title,
+        lineNumbersStart: lineNumbersStart,
+        lineClassNames: lineClassNames
+    };
+}
+function getPrismCssVariables(prismTheme) {
+    var mapping = {
+        color: '--prism-color',
+        backgroundColor: '--prism-background-color'
+    };
+    var properties = {};
+    Object.entries(prismTheme.plain).forEach(function(param) {
+        var _param = _sliced_to_array(param, 2), key = _param[0], value = _param[1];
+        var varName = mapping[key];
+        if (varName && typeof value === 'string') {
+            properties[varName] = value;
+        }
+    });
+    return properties;
+}
+var CodeBlockContext = /*#__PURE__*/ (0,react__rspack_import_1.createContext)(null);
+function CodeBlockContextProvider(param) {
+    var metadata = param.metadata, wordWrap = param.wordWrap, children = param.children;
+    // Should we optimize this in 2 contexts?
+    // Unlike metadata, wordWrap is stateful and likely to trigger re-renders
+    var value = (0,react__rspack_import_1.useMemo)(function() {
+        return {
+            metadata: metadata,
+            wordWrap: wordWrap
+        };
+    }, [
+        metadata,
+        wordWrap
+    ]);
+    return /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)(CodeBlockContext.Provider, {
+        value: value,
+        children: children
+    });
+}
+function useCodeBlockContext() {
+    var value = (0,react__rspack_import_1.useContext)(CodeBlockContext);
+    if (value === null) {
+        throw new _reactUtils__rspack_import_4/* .ReactContextError */.dV('CodeBlockContextProvider');
+    }
+    return value;
+} //# sourceMappingURL=codeBlockUtils.js.map
+
+
+},
+2128(__unused_rspack_module, __webpack_exports__, __webpack_require__) {
+"use strict";
+__webpack_require__.d(__webpack_exports__, {
+  h: () => (useFilteredAndTreeifiedTOC)
+});
+/* import */ var react__rspack_import_0 = __webpack_require__(96540);
+/**
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */ function _array_like_to_array(arr, len) {
+    if (len == null || len > arr.length) len = arr.length;
+    for(var i = 0, arr2 = new Array(len); i < len; i++)arr2[i] = arr[i];
+    return arr2;
+}
+function _array_without_holes(arr) {
+    if (Array.isArray(arr)) return _array_like_to_array(arr);
+}
+function _define_property(obj, key, value) {
+    if (key in obj) {
+        Object.defineProperty(obj, key, {
+            value: value,
+            enumerable: true,
+            configurable: true,
+            writable: true
+        });
+    } else {
+        obj[key] = value;
+    }
+    return obj;
+}
+function _iterable_to_array(iter) {
+    if (typeof Symbol !== "undefined" && iter[Symbol.iterator] != null || iter["@@iterator"] != null) return Array.from(iter);
+}
+function _non_iterable_spread() {
+    throw new TypeError("Invalid attempt to spread non-iterable instance.\\nIn order to be iterable, non-array objects must have a [Symbol.iterator]() method.");
+}
+function _object_spread(target) {
+    for(var i = 1; i < arguments.length; i++){
+        var source = arguments[i] != null ? arguments[i] : {};
+        var ownKeys = Object.keys(source);
+        if (typeof Object.getOwnPropertySymbols === "function") {
+            ownKeys = ownKeys.concat(Object.getOwnPropertySymbols(source).filter(function(sym) {
+                return Object.getOwnPropertyDescriptor(source, sym).enumerable;
+            }));
+        }
+        ownKeys.forEach(function(key) {
+            _define_property(target, key, source[key]);
+        });
+    }
+    return target;
+}
+function ownKeys(object, enumerableOnly) {
+    var keys = Object.keys(object);
+    if (Object.getOwnPropertySymbols) {
+        var symbols = Object.getOwnPropertySymbols(object);
+        if (enumerableOnly) {
+            symbols = symbols.filter(function(sym) {
+                return Object.getOwnPropertyDescriptor(object, sym).enumerable;
+            });
+        }
+        keys.push.apply(keys, symbols);
+    }
+    return keys;
+}
+function _object_spread_props(target, source) {
+    source = source != null ? source : {};
+    if (Object.getOwnPropertyDescriptors) {
+        Object.defineProperties(target, Object.getOwnPropertyDescriptors(source));
+    } else {
+        ownKeys(Object(source)).forEach(function(key) {
+            Object.defineProperty(target, key, Object.getOwnPropertyDescriptor(source, key));
+        });
+    }
+    return target;
+}
+function _object_without_properties(source, excluded) {
+    if (source == null) return {};
+    var target = _object_without_properties_loose(source, excluded);
+    var key, i;
+    if (Object.getOwnPropertySymbols) {
+        var sourceSymbolKeys = Object.getOwnPropertySymbols(source);
+        for(i = 0; i < sourceSymbolKeys.length; i++){
+            key = sourceSymbolKeys[i];
+            if (excluded.indexOf(key) >= 0) continue;
+            if (!Object.prototype.propertyIsEnumerable.call(source, key)) continue;
+            target[key] = source[key];
+        }
+    }
+    return target;
+}
+function _object_without_properties_loose(source, excluded) {
+    if (source == null) return {};
+    var target = {};
+    var sourceKeys = Object.keys(source);
+    var key, i;
+    for(i = 0; i < sourceKeys.length; i++){
+        key = sourceKeys[i];
+        if (excluded.indexOf(key) >= 0) continue;
+        target[key] = source[key];
+    }
+    return target;
+}
+function _to_consumable_array(arr) {
+    return _array_without_holes(arr) || _iterable_to_array(arr) || _unsupported_iterable_to_array(arr) || _non_iterable_spread();
+}
+function _unsupported_iterable_to_array(o, minLen) {
+    if (!o) return;
+    if (typeof o === "string") return _array_like_to_array(o, minLen);
+    var n = Object.prototype.toString.call(o).slice(8, -1);
+    if (n === "Object" && o.constructor) n = o.constructor.name;
+    if (n === "Map" || n === "Set") return Array.from(n);
+    if (n === "Arguments" || /^(?:Ui|I)nt(?:8|16|32)(?:Clamped)?Array$/.test(n)) return _array_like_to_array(o, minLen);
+}
+
+function treeifyTOC(flatTOC) {
+    var headings = flatTOC.map(function(heading) {
+        return _object_spread_props(_object_spread({}, heading), {
+            parentIndex: -1,
+            children: []
+        });
+    });
+    // Keep track of which previous index would be the current heading's direct
+    // parent. Each entry <i> is the last index of the `headings` array at heading
+    // level <i>. We will modify these indices as we iterate through all headings.
+    // e.g. if an ### H3 was last seen at index 2, then prevIndexForLevel[3] === 2
+    // indices 0 and 1 will remain unused.
+    var prevIndexForLevel = Array(7).fill(-1);
+    headings.forEach(function(curr, currIndex) {
+        var _Math;
+        // Take the last seen index for each ancestor level. the highest index will
+        // be the direct ancestor of the current heading.
+        var ancestorLevelIndexes = prevIndexForLevel.slice(2, curr.level);
+        curr.parentIndex = (_Math = Math).max.apply(_Math, _to_consumable_array(ancestorLevelIndexes));
+        // Mark that curr.level was last seen at the current index.
+        prevIndexForLevel[curr.level] = currIndex;
+    });
+    var rootNodes = [];
+    // For a given parentIndex, add each Node into that parent's `children` array
+    headings.forEach(function(heading) {
+        var parentIndex = heading.parentIndex, rest = _object_without_properties(heading, [
+            "parentIndex"
+        ]);
+        if (parentIndex >= 0) {
+            headings[parentIndex].children.push(rest);
+        } else {
+            rootNodes.push(rest);
+        }
+    });
+    return rootNodes;
+}
+/**
+ * Takes a flat TOC list (from the MDX loader) and treeifies it into what the
+ * TOC components expect. Memoized for performance.
+ */ function useTreeifiedTOC(toc) {
+    return useMemo(function() {
+        return treeifyTOC(toc);
+    }, [
+        toc
+    ]);
+}
+function filterTOC(param) {
+    var toc = param.toc, minHeadingLevel = param.minHeadingLevel, maxHeadingLevel = param.maxHeadingLevel;
+    function isValid(item) {
+        return item.level >= minHeadingLevel && item.level <= maxHeadingLevel;
+    }
+    return toc.flatMap(function(item) {
+        var filteredChildren = filterTOC({
+            toc: item.children,
+            minHeadingLevel: minHeadingLevel,
+            maxHeadingLevel: maxHeadingLevel
+        });
+        if (isValid(item)) {
+            return [
+                _object_spread_props(_object_spread({}, item), {
+                    children: filteredChildren
+                })
+            ];
+        }
+        return filteredChildren;
+    });
+}
+/**
+ * Takes a flat TOC list (from the MDX loader) and treeifies it into what the
+ * TOC components expect, applying the `minHeadingLevel` and `maxHeadingLevel`.
+ * Memoized for performance.
+ *
+ * **Important**: this is not the same as `useTreeifiedTOC(toc.filter(...))`,
+ * because we have to filter the TOC after it has been treeified. This is mostly
+ * to ensure that weird TOC structures preserve their semantics. For example, an
+ * h3-h2-h4 sequence should not be treeified as an "h3 > h4" hierarchy with
+ * min=3, max=4, but should rather be "[h3, h4]" (since the h2 heading has split
+ * the two headings and they are not parent-children)
+ */ function useFilteredAndTreeifiedTOC(param) {
+    var toc = param.toc, minHeadingLevel = param.minHeadingLevel, maxHeadingLevel = param.maxHeadingLevel;
+    return (0,react__rspack_import_0.useMemo)(function() {
+        return filterTOC({
+            toc: treeifyTOC(toc),
+            minHeadingLevel: minHeadingLevel,
+            maxHeadingLevel: maxHeadingLevel
+        });
+    }, [
+        toc,
+        minHeadingLevel,
+        maxHeadingLevel
+    ]);
+} //# sourceMappingURL=tocUtils.js.map
+
+
+},
+93931(__unused_rspack_module, __webpack_exports__, __webpack_require__) {
+"use strict";
+__webpack_require__.d(__webpack_exports__, {
+  A: () => (__rspack_default_export)
+});
+/* import */ var react_jsx_runtime__rspack_import_0 = __webpack_require__(74848);
+/* import */ var react__rspack_import_1 = __webpack_require__(96540);
+/* import */ var _docusaurus_Translate__rspack_import_2 = __webpack_require__(91785);
+/* import */ var classnames__rspack_import_3 = __webpack_require__(46942);
+/* import */ var classnames__rspack_import_3_default = /*#__PURE__*/__webpack_require__.n(classnames__rspack_import_3);
+/* import */ var _homeStyles_module_css__rspack_import_4 = __webpack_require__(25340);
+/* import */ var _homeStyles_module_css__rspack_import_4_default = /*#__PURE__*/__webpack_require__.n(_homeStyles_module_css__rspack_import_4);
+function _array_like_to_array(arr, len) {
+    if (len == null || len > arr.length) len = arr.length;
+    for(var i = 0, arr2 = new Array(len); i < len; i++)arr2[i] = arr[i];
+    return arr2;
+}
+function _array_with_holes(arr) {
+    if (Array.isArray(arr)) return arr;
+}
+function asyncGeneratorStep(gen, resolve, reject, _next, _throw, key, arg) {
+    try {
+        var info = gen[key](arg);
+        var value = info.value;
+    } catch (error) {
+        reject(error);
+        return;
+    }
+    if (info.done) {
+        resolve(value);
+    } else {
+        Promise.resolve(value).then(_next, _throw);
+    }
+}
+function _async_to_generator(fn) {
+    return function() {
+        var self = this, args = arguments;
+        return new Promise(function(resolve, reject) {
+            var gen = fn.apply(self, args);
+            function _next(value) {
+                asyncGeneratorStep(gen, resolve, reject, _next, _throw, "next", value);
+            }
+            function _throw(err) {
+                asyncGeneratorStep(gen, resolve, reject, _next, _throw, "throw", err);
+            }
+            _next(undefined);
+        });
+    };
+}
+function _iterable_to_array_limit(arr, i) {
+    var _i = arr == null ? null : typeof Symbol !== "undefined" && arr[Symbol.iterator] || arr["@@iterator"];
+    if (_i == null) return;
+    var _arr = [];
+    var _n = true;
+    var _d = false;
+    var _s, _e;
+    try {
+        for(_i = _i.call(arr); !(_n = (_s = _i.next()).done); _n = true){
+            _arr.push(_s.value);
+            if (i && _arr.length === i) break;
+        }
+    } catch (err) {
+        _d = true;
+        _e = err;
+    } finally{
+        try {
+            if (!_n && _i["return"] != null) _i["return"]();
+        } finally{
+            if (_d) throw _e;
+        }
+    }
+    return _arr;
+}
+function _non_iterable_rest() {
+    throw new TypeError("Invalid attempt to destructure non-iterable instance.\\nIn order to be iterable, non-array objects must have a [Symbol.iterator]() method.");
+}
+function _sliced_to_array(arr, i) {
+    return _array_with_holes(arr) || _iterable_to_array_limit(arr, i) || _unsupported_iterable_to_array(arr, i) || _non_iterable_rest();
+}
+function _unsupported_iterable_to_array(o, minLen) {
+    if (!o) return;
+    if (typeof o === "string") return _array_like_to_array(o, minLen);
+    var n = Object.prototype.toString.call(o).slice(8, -1);
+    if (n === "Object" && o.constructor) n = o.constructor.name;
+    if (n === "Map" || n === "Set") return Array.from(n);
+    if (n === "Arguments" || /^(?:Ui|I)nt(?:8|16|32)(?:Clamped)?Array$/.test(n)) return _array_like_to_array(o, minLen);
+}
+function _ts_generator(thisArg, body) {
+    var f, y, t, _ = {
+        label: 0,
+        sent: function() {
+            if (t[0] & 1) throw t[1];
+            return t[1];
+        },
+        trys: [],
+        ops: []
+    }, g = Object.create((typeof Iterator === "function" ? Iterator : Object).prototype);
+    return g.next = verb(0), g["throw"] = verb(1), g["return"] = verb(2), typeof Symbol === "function" && (g[Symbol.iterator] = function() {
+        return this;
+    }), g;
+    function verb(n) {
+        return function(v) {
+            return step([
+                n,
+                v
+            ]);
+        };
+    }
+    function step(op) {
+        if (f) throw new TypeError("Generator is already executing.");
+        while(g && (g = 0, op[0] && (_ = 0)), _)try {
+            if (f = 1, y && (t = op[0] & 2 ? y["return"] : op[0] ? y["throw"] || ((t = y["return"]) && t.call(y), 0) : y.next) && !(t = t.call(y, op[1])).done) return t;
+            if (y = 0, t) op = [
+                op[0] & 2,
+                t.value
+            ];
+            switch(op[0]){
+                case 0:
+                case 1:
+                    t = op;
+                    break;
+                case 4:
+                    _.label++;
+                    return {
+                        value: op[1],
+                        done: false
+                    };
+                case 5:
+                    _.label++;
+                    y = op[1];
+                    op = [
+                        0
+                    ];
+                    continue;
+                case 7:
+                    op = _.ops.pop();
+                    _.trys.pop();
+                    continue;
+                default:
+                    if (!(t = _.trys, t = t.length > 0 && t[t.length - 1]) && (op[0] === 6 || op[0] === 2)) {
+                        _ = 0;
+                        continue;
+                    }
+                    if (op[0] === 3 && (!t || op[1] > t[0] && op[1] < t[3])) {
+                        _.label = op[1];
+                        break;
+                    }
+                    if (op[0] === 6 && _.label < t[1]) {
+                        _.label = t[1];
+                        t = op;
+                        break;
+                    }
+                    if (t && _.label < t[2]) {
+                        _.label = t[2];
+                        _.ops.push(op);
+                        break;
+                    }
+                    if (t[2]) _.ops.pop();
+                    _.trys.pop();
+                    continue;
+            }
+            op = body.call(thisArg, _);
+        } catch (e) {
+            op = [
+                6,
+                e
+            ];
+            y = 0;
+        } finally{
+            f = t = 0;
+        }
+        if (op[0] & 5) throw op[1];
+        return {
+            value: op[0] ? op[1] : void 0,
+            done: true
+        };
+    }
+}
+
+
+
+
+
+function validateEmail(email) {
+    var re = /[A-Z0-9._%+-]+@[A-Z0-9.-]+.[A-Z]{2,4}/gim;
+    return re.test(email);
+}
+function SubcribeNewsletter(param) {
+    var lang = param.lang;
+    var _React_useState = _sliced_to_array(react__rspack_import_1.useState(""), 2), email = _React_useState[0], setEmail = _React_useState[1];
+    var _React_useState1 = _sliced_to_array(react__rspack_import_1.useState(""), 2), firstname = _React_useState1[0], setFirstname = _React_useState1[1];
+    var _React_useState2 = _sliced_to_array(react__rspack_import_1.useState("initial"), 2), status = _React_useState2[0], setStatus = _React_useState2[1];
+    function subscribe(e) {
+        return _async_to_generator(function() {
+            var e1;
+            return _ts_generator(this, function(_state) {
+                switch(_state.label){
+                    case 0:
+                        e.preventDefault();
+                        if (!validateEmail(email)) {
+                            setStatus("failed");
+                            return [
+                                2
+                            ];
+                        }
+                        _state.label = 1;
+                    case 1:
+                        _state.trys.push([
+                            1,
+                            3,
+                            ,
+                            4
+                        ]);
+                        setStatus("waiting");
+                        return [
+                            4,
+                            fetch("https://subscribe-newsletter.gladysassistant.workers.dev/", {
+                                method: "post",
+                                headers: {
+                                    Accept: "application/json",
+                                    "Content-Type": "application/json"
+                                },
+                                body: JSON.stringify({
+                                    email: email,
+                                    firstname: firstname,
+                                    language: lang
+                                })
+                            })
+                        ];
+                    case 2:
+                        _state.sent();
+                        setEmail("");
+                        setFirstname("");
+                        setStatus("initial");
+                        return [
+                            3,
+                            4
+                        ];
+                    case 3:
+                        e1 = _state.sent();
+                        setStatus("failed");
+                        return [
+                            3,
+                            4
+                        ];
+                    case 4:
+                        return [
+                            2
+                        ];
+                }
+            });
+        })();
+    }
+    return /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsxs)("div", {
+        className: "row",
+        children: [
+            /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsxs)("div", {
+                className: "col col--8",
+                children: [
+                    /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)("h2", {
+                        children: /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)(_docusaurus_Translate__rspack_import_2/* ["default"] */.A, {
+                            id: "subscribeNewsletter.title",
+                            description: "Subscribe newsletter banner title",
+                            children: "Join the community, and get the latest news about the project!"
+                        })
+                    }),
+                    /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)(_docusaurus_Translate__rspack_import_2/* ["default"] */.A, {
+                        id: "subscribeNewsletter.text",
+                        description: "Subscribe newsletter banner text",
+                        children: "Emails are sent by Pierre-Gilles Leymarie, founder of the project. You can unsubscribe at any time \uD83D\uDE42"
+                    })
+                ]
+            }),
+            /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)("div", {
+                className: classnames__rspack_import_3_default()("col col--4", (_homeStyles_module_css__rspack_import_4_default().newsletterSectionInputCol)),
+                children: /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsxs)("form", {
+                    children: [
+                        status === "failed" && /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsxs)("div", {
+                            "class": "alert alert--danger",
+                            role: "alert",
+                            style: {
+                                marginBottom: "10px"
+                            },
+                            children: [
+                                /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)("button", {
+                                    "aria-label": "Close",
+                                    "class": "close",
+                                    type: "button",
+                                    onClick: function() {
+                                        return setStatus("initial");
+                                    },
+                                    children: /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)("span", {
+                                        "aria-hidden": "true",
+                                        children: "\xd7"
+                                    })
+                                }),
+                                /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)(_docusaurus_Translate__rspack_import_2/* ["default"] */.A, {
+                                    id: "subscribeNewsletter.error",
+                                    description: "Subscribe newsletter banner error",
+                                    children: "An error occured, are you sure your email is right? If yes, please retry."
+                                })
+                            ]
+                        }),
+                        /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)("div", {
+                            "class": "form-group",
+                            children: /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)("input", {
+                                type: "email",
+                                style: {
+                                    width: "100%",
+                                    lineHeight: "1.5",
+                                    borderRadius: "5px",
+                                    padding: "8px"
+                                },
+                                value: email,
+                                onChange: function(e) {
+                                    return setEmail(e.target.value);
+                                },
+                                placeholder: (0,_docusaurus_Translate__rspack_import_2/* .translate */.T)({
+                                    id: "subscribeNewsletter.emailPlaceholder",
+                                    message: "Email",
+                                    description: "Subscribe newsletter email placeholder"
+                                })
+                            })
+                        }),
+                        /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)("div", {
+                            "class": "form-group",
+                            children: /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)("input", {
+                                type: "text",
+                                style: {
+                                    width: "100%",
+                                    lineHeight: "1.5",
+                                    borderRadius: "5px",
+                                    padding: "8px",
+                                    marginTop: "10px"
+                                },
+                                value: firstname,
+                                onChange: function(e) {
+                                    return setFirstname(e.target.value);
+                                },
+                                placeholder: (0,_docusaurus_Translate__rspack_import_2/* .translate */.T)({
+                                    id: "subscribeNewsletter.firstnamePlaceholder",
+                                    message: "First name",
+                                    description: "Subscribe newsletter firstname placeholder"
+                                })
+                            })
+                        }),
+                        /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)("button", {
+                            onClick: subscribe,
+                            style: {
+                                marginTop: "10px"
+                            },
+                            "class": "button button--primary button--block",
+                            children: status === "waiting" ? /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)(_docusaurus_Translate__rspack_import_2/* ["default"] */.A, {
+                                id: "subscribeNewsletter.subscribing",
+                                description: "Subscribe newsletter banner subscribing button text",
+                                children: "Subscribing..."
+                            }) : /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)(_docusaurus_Translate__rspack_import_2/* ["default"] */.A, {
+                                id: "subscribeNewsletter.subscribeButton",
+                                description: "Subscribe newsletter banner subscribe button",
+                                children: "Subscribe"
+                            })
+                        })
+                    ]
+                })
+            })
+        ]
+    });
+}
+/* export default */ const __rspack_default_export = (SubcribeNewsletter);
+
+
+},
+57105(__unused_rspack_module, __webpack_exports__, __webpack_require__) {
+"use strict";
+__webpack_require__.d(__webpack_exports__, {
+  A: () => (MDXContentWrapper)
+});
+/* import */ var react_jsx_runtime__rspack_import_0 = __webpack_require__(74848);
+/* import */ var react__rspack_import_1 = __webpack_require__(96540);
+/* import */ var react_router_dom__rspack_import_6 = __webpack_require__(56347);
+/* import */ var _docusaurus_useDocusaurusContext__rspack_import_2 = __webpack_require__(19087);
+/* import */ var _theme_original_MDXContent__rspack_import_3 = __webpack_require__(43555);
+/* import */ var _docusaurus_theme_common__rspack_import_5 = __webpack_require__(5414);
+/* import */ var _components_home_SubcribeNewsletter__rspack_import_4 = __webpack_require__(93931);
+function _define_property(obj, key, value) {
+    if (key in obj) {
+        Object.defineProperty(obj, key, {
+            value: value,
+            enumerable: true,
+            configurable: true,
+            writable: true
+        });
+    } else {
+        obj[key] = value;
+    }
+    return obj;
+}
+function _object_spread(target) {
+    for(var i = 1; i < arguments.length; i++){
+        var source = arguments[i] != null ? arguments[i] : {};
+        var ownKeys = Object.keys(source);
+        if (typeof Object.getOwnPropertySymbols === "function") {
+            ownKeys = ownKeys.concat(Object.getOwnPropertySymbols(source).filter(function(sym) {
+                return Object.getOwnPropertyDescriptor(source, sym).enumerable;
+            }));
+        }
+        ownKeys.forEach(function(key) {
+            _define_property(target, key, source[key]);
+        });
+    }
+    return target;
+}
+
+
+
+
+
+
+
+var LOCATION_BLACK_LIST = [
+    "/fr/blog/",
+    "/blog/"
+];
+function MDXContentWrapper(props) {
+    var context = (0,_docusaurus_useDocusaurusContext__rspack_import_2/* ["default"] */.A)();
+    var i18n = context.i18n;
+    var language = i18n.currentLocale;
+    var isDarkTheme = (0,_docusaurus_theme_common__rspack_import_5/* .useColorMode */.G)().colorMode === "dark";
+    var color = isDarkTheme ? "white" : "black";
+    var pathname = (0,react_router_dom__rspack_import_6/* .useLocation */.zy)().pathname;
+    return /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsxs)(react_jsx_runtime__rspack_import_0.Fragment, {
+        children: [
+            /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)(_theme_original_MDXContent__rspack_import_3/* ["default"] */.A, _object_spread({}, props)),
+            !LOCATION_BLACK_LIST.includes(pathname) && /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsxs)("div", {
+                children: [
+                    /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)("div", {
+                        style: {
+                            borderTop: "1px solid ".concat(color),
+                            marginTop: "50px",
+                            marginBottom: "50px"
+                        }
+                    }),
+                    /*#__PURE__*/ (0,react_jsx_runtime__rspack_import_0.jsx)(_components_home_SubcribeNewsletter__rspack_import_4/* ["default"] */.A, {
+                        lang: language
+                    })
+                ]
+            })
+        ]
+    });
+}
+
+
+},
+46942(module) {
+/*!
+	Copyright (c) 2018 Jed Watson.
+	Licensed under the MIT License (MIT), see
+	http://jedwatson.github.io/classnames
+*/
+/* global define */
+
+(function () {
+	'use strict';
+
+	var hasOwn = {}.hasOwnProperty;
+
+	function classNames () {
+		var classes = '';
+
+		for (var i = 0; i < arguments.length; i++) {
+			var arg = arguments[i];
+			if (arg) {
+				classes = appendClass(classes, parseValue(arg));
+			}
+		}
+
+		return classes;
+	}
+
+	function parseValue (arg) {
+		if (typeof arg === 'string' || typeof arg === 'number') {
+			return arg;
+		}
+
+		if (typeof arg !== 'object') {
+			return '';
+		}
+
+		if (Array.isArray(arg)) {
+			return classNames.apply(null, arg);
+		}
+
+		if (arg.toString !== Object.prototype.toString && !arg.toString.toString().includes('[native code]')) {
+			return arg.toString();
+		}
+
+		var classes = '';
+
+		for (var key in arg) {
+			if (hasOwn.call(arg, key) && arg[key]) {
+				classes = appendClass(classes, key);
+			}
+		}
+
+		return classes;
+	}
+
+	function appendClass (value, newClass) {
+		if (!newClass) {
+			return value;
+		}
+	
+		if (value) {
+			return value + ' ' + newClass;
+		}
+	
+		return value + newClass;
+	}
+
+	if ( true && module.exports) {
+		classNames.default = classNames;
+		module.exports = classNames;
+	} else if (typeof define === 'function' && typeof define.amd === 'object' && define.amd) {
+		// register as 'classnames', consistent with npm package name
+		define('classnames', [], function () {
+			return classNames;
+		});
+	} else {
+		window.classNames = classNames;
+	}
+}());
+
+
+},
+28453(__unused_rspack___webpack_module__, __webpack_exports__, __webpack_require__) {
+"use strict";
+__webpack_require__.d(__webpack_exports__, {
+  R: () => (useMDXComponents),
+  x: () => (MDXProvider)
+});
+/* import */ var react__rspack_import_0 = __webpack_require__(96540);
+/**
+ * @import {MDXComponents} from 'mdx/types.js'
+ * @import {Component, ReactElement, ReactNode} from 'react'
+ */
+
+/**
+ * @callback MergeComponents
+ *   Custom merge function.
+ * @param {Readonly<MDXComponents>} currentComponents
+ *   Current components from the context.
+ * @returns {MDXComponents}
+ *   Additional components.
+ *
+ * @typedef Props
+ *   Configuration for `MDXProvider`.
+ * @property {ReactNode | null | undefined} [children]
+ *   Children (optional).
+ * @property {Readonly<MDXComponents> | MergeComponents | null | undefined} [components]
+ *   Additional components to use or a function that creates them (optional).
+ * @property {boolean | null | undefined} [disableParentContext=false]
+ *   Turn off outer component context (default: `false`).
+ */
+
+
+
+/** @type {Readonly<MDXComponents>} */
+const emptyComponents = {}
+
+const MDXContext = react__rspack_import_0.createContext(emptyComponents)
+
+/**
+ * Get current components from the MDX Context.
+ *
+ * @param {Readonly<MDXComponents> | MergeComponents | null | undefined} [components]
+ *   Additional components to use or a function that creates them (optional).
+ * @returns {MDXComponents}
+ *   Current components.
+ */
+function useMDXComponents(components) {
+  const contextComponents = react__rspack_import_0.useContext(MDXContext)
+
+  // Memoize to avoid unnecessary top-level context changes
+  return react__rspack_import_0.useMemo(
+    function () {
+      // Custom merge via a function prop
+      if (typeof components === 'function') {
+        return components(contextComponents)
+      }
+
+      return {...contextComponents, ...components}
+    },
+    [contextComponents, components]
+  )
+}
+
+/**
+ * Provider for MDX context.
+ *
+ * @param {Readonly<Props>} properties
+ *   Properties.
+ * @returns {ReactElement}
+ *   Element.
+ * @satisfies {Component}
+ */
+function MDXProvider(properties) {
+  /** @type {Readonly<MDXComponents>} */
+  let allComponents
+
+  if (properties.disableParentContext) {
+    allComponents =
+      typeof properties.components === 'function'
+        ? properties.components(emptyComponents)
+        : properties.components || emptyComponents
+  } else {
+    allComponents = useMDXComponents(properties.components)
+  }
+
+  return react__rspack_import_0.createElement(
+    MDXContext.Provider,
+    {value: allComponents},
+    properties.children
+  )
+}
+
+
+},
+
+};
+;

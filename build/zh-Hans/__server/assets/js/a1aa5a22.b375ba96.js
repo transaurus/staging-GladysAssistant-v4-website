@@ -1,0 +1,569 @@
+"use strict";
+exports.ids = ["1182"];
+exports.modules = {
+55740(__unused_rspack_module, __webpack_exports__, __webpack_require__) {
+__webpack_require__.r(__webpack_exports__);
+__webpack_require__.d(__webpack_exports__, {
+  assets: () => (assets),
+  contentTitle: () => (contentTitle),
+  "default": () => (MDXContent),
+  frontMatter: () => (frontMatter),
+  metadata: () => (/* reexport default export from named module */ _site_docusaurus_docusaurus_plugin_content_blog_default_site_blog_2021_09_30_using_node_red_with_gladys_assistant_md_f33_json__rspack_import_0),
+  toc: () => (toc)
+});
+/* import */ var _site_docusaurus_docusaurus_plugin_content_blog_default_site_blog_2021_09_30_using_node_red_with_gladys_assistant_md_f33_json__rspack_import_0 = __webpack_require__(67353);
+/* import */ var react_jsx_runtime__rspack_import_1 = __webpack_require__(74848);
+/* import */ var _mdx_js_react__rspack_import_2 = __webpack_require__(28453);
+
+
+const frontMatter = {
+	title: 'Integrate Node-RED with Gladys Assistant in MQTT',
+	description: 'Today we will learn how to integrate Node-RED, a low-code tool, with Gladys Assistant.',
+	authors: 'pierregilles',
+	image: '/img/presentation/node-red-gladys-assistant-en.jpg',
+	slug: 'integrate-node-red-with-gladys-assistant-in-mqtt'
+};
+const contentTitle = undefined;
+
+const assets = {
+"authorsImageUrls": [undefined],
+};
+
+
+
+const toc = [{
+  "value": "Start Gladys Assistant",
+  "id": "start-gladys-assistant",
+  "level": 2
+}, {
+  "value": "Start Node-RED",
+  "id": "start-node-red",
+  "level": 2
+}, {
+  "value": "Start Node-RED docker image",
+  "id": "start-node-red-docker-image",
+  "level": 3
+}, {
+  "value": "Secure Node-RED",
+  "id": "secure-node-red",
+  "level": 3
+}, {
+  "value": "Accessing Node-RED",
+  "id": "accessing-node-red",
+  "level": 3
+}, {
+  "value": "Configure MQTT in Gladys Assistant",
+  "id": "configure-mqtt-in-gladys-assistant",
+  "level": 2
+}, {
+  "value": "Create a MQTT device in Gladys Assistant",
+  "id": "create-a-mqtt-device-in-gladys-assistant",
+  "level": 3
+}, {
+  "value": "Control a device in Node-RED from Gladys Assistant",
+  "id": "control-a-device-in-node-red-from-gladys-assistant",
+  "level": 2
+}, {
+  "value": "Send sensor value from Node-RED to Gladys Assistant",
+  "id": "send-sensor-value-from-node-red-to-gladys-assistant",
+  "level": 2
+}, {
+  "value": "Create a Gladys MQTT device",
+  "id": "create-a-gladys-mqtt-device",
+  "level": 3
+}, {
+  "value": "Send a value from Node-RED every 15 seconds",
+  "id": "send-a-value-from-node-red-every-15-seconds",
+  "level": 3
+}, {
+  "value": "Going further",
+  "id": "going-further",
+  "level": 2
+}];
+function _createMdxContent(props) {
+  const _components = {
+    a: "a",
+    code: "code",
+    h2: "h2",
+    h3: "h3",
+    img: "img",
+    li: "li",
+    p: "p",
+    pre: "pre",
+    strong: "strong",
+    ul: "ul",
+    ...(0,_mdx_js_react__rspack_import_2/* .useMDXComponents */.R)(),
+    ...props.components
+  };
+  return (0,react_jsx_runtime__rspack_import_1.jsxs)(react_jsx_runtime__rspack_import_1.Fragment, {
+    children: [(0,react_jsx_runtime__rspack_import_1.jsx)(_components.p, {
+      children: "Hi !"
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.p, {
+      children: "In this tutorial I want to show you that it's possible to integrate Gladys Assistant with other cool open-source software like Node-RED."
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.h2, {
+      id: "start-gladys-assistant",
+      children: "Start Gladys Assistant"
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.p, {
+      children: "You need to have a Gladys Assistant instance for this tutorial."
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.p, {
+      children: "You can install Gladys Assistant on a Raspberry Pi with our pre-built Raspberry Pi OS image, or use Docker to spin up a Gladys container."
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsxs)(_components.p, {
+      children: ["To get started, follow our ", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.a, {
+        href: "/docs/",
+        children: "documentation"
+      }), "."]
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.h2, {
+      id: "start-node-red",
+      children: "Start Node-RED"
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.p, {
+      children: "We'll use Docker to install Node-RED."
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.h3, {
+      id: "start-node-red-docker-image",
+      children: "Start Node-RED docker image"
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsxs)(_components.p, {
+      children: ["Node-RED has a ", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.a, {
+        href: "https://nodered.org/docs/getting-started/",
+        children: "Getting Started"
+      }), " section on their website, but if you want to simply use Docker, you can run this command:"]
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.pre, {
+      children: (0,react_jsx_runtime__rspack_import_1.jsx)(_components.code, {
+        children: "docker run -d \\\n--log-opt max-size=10m \\\n--restart=always \\\n--privileged \\\n-u root \\\n--network=host \\\n--name node_red \\\n-v /var/lib/node-red:/data \\\nnodered/node-red\n"
+      })
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.p, {
+      children: (0,react_jsx_runtime__rspack_import_1.jsx)(_components.strong, {
+        children: "A few details:"
+      })
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsxs)(_components.ul, {
+      children: ["\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.li, {
+        children: "We used the \"privileged\" mode in case you want to run some home automation modules on your machine, and sometimes it needs more permissions to access the system. If you don't need it, you can safely remove it."
+      }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.li, {
+        children: "\"-u root\" is used to start the container as the \"root\" user. You can change \"root\" to the current user of your Linux machine. On a Raspberry Pi, it'll probably be \"pi\"."
+      }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.li, {
+        children: "\"/var/lib/node-red\": The folder where Node-RED data will be saved."
+      }), "\n"]
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.h3, {
+      id: "secure-node-red",
+      children: "Secure Node-RED"
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.p, {
+      children: "By default, Node-RED is open. We need to secure it so it's not open for everyone to use."
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.p, {
+      children: "Node-RED admin needs to be configured in command-line."
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.p, {
+      children: "You first need to hash your password by running the following command:"
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.pre, {
+      children: (0,react_jsx_runtime__rspack_import_1.jsx)(_components.code, {
+        children: "docker exec -it node_red node-red admin hash-pw\n"
+      })
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.p, {
+      children: "Enter your password."
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.p, {
+      children: "It'll then display a string like:"
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.pre, {
+      children: (0,react_jsx_runtime__rspack_import_1.jsx)(_components.code, {
+        children: "$2b$08$6yOj6Z/ya7eDdn3eKwy4WukuyHUxiJOcZyHFiHPaCQBckKpLxUPly\n"
+      })
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.p, {
+      children: "This is a hashed version of the password \"test\""
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsxs)(_components.p, {
+      children: ["Open the file ", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.code, {
+        children: "/var/lib/node-red/settings.js"
+      }), " by doing:"]
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.pre, {
+      children: (0,react_jsx_runtime__rspack_import_1.jsx)(_components.code, {
+        children: "nano /var/lib/node-red/settings.js\n"
+      })
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.p, {
+      children: "If it doesn't work, maybe nano is not installed on your machine."
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.p, {
+      children: "On Ubuntu/Debian, run:"
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.pre, {
+      children: (0,react_jsx_runtime__rspack_import_1.jsx)(_components.code, {
+        children: "sudo apt-get -y install nano\n"
+      })
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.p, {
+      children: "Go to the line with:"
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.pre, {
+      children: (0,react_jsx_runtime__rspack_import_1.jsx)(_components.code, {
+        children: "//adminAuth: {\n//    type: \"credentials\",\n//    users: [{\n//        username: \"admin\",\n//        password: \"$2a$08$zZWtXTja0fB1pzD4sHCMyOCMYz2Z6dNbM6tl8sJogENOMcxWV9DN.\",\n//        permissions: \"*\"\n//    }]\n//},\n"
+      })
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.p, {
+      children: "Un-comment those line, and replace the password with the hashed password you generated earlier."
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.p, {
+      children: "You should have something that looks like this:"
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.pre, {
+      children: (0,react_jsx_runtime__rspack_import_1.jsx)(_components.code, {
+        children: "adminAuth: {\n    type: \"credentials\",\n    users: [{\n        username: \"admin\",\n        password: \"$2b$08$6yOj6Z/ya7eDdn3eKwy4WukuyHUxiJOcZyHFiHPaCQBckKpLxUPly\",\n        permissions: \"*\"\n    }]\n},\n"
+      })
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.p, {
+      children: "Now restart node-red with the command:"
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.pre, {
+      children: (0,react_jsx_runtime__rspack_import_1.jsx)(_components.code, {
+        children: "docker restart node_red\n"
+      })
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.p, {
+      children: "And you should be good, Node-RED should be secured!"
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.h3, {
+      id: "accessing-node-red",
+      children: "Accessing Node-RED"
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsxs)(_components.p, {
+      children: ["Congrats, Node-RED should be available at ", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.code, {
+        children: "IP_OF_YOUR_MACHINE:1880"
+      }), " !"]
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.p, {
+      children: "You should see a login screen."
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.p, {
+      children: "Here, use the the login you previously set in the settings.js file."
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.p, {
+      children: "For me, it's:"
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.pre, {
+      children: (0,react_jsx_runtime__rspack_import_1.jsx)(_components.code, {
+        children: "Username: admin\nPassword: test\n"
+      })
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.p, {
+      children: (0,react_jsx_runtime__rspack_import_1.jsx)(_components.img, {
+        alt: "Node-RED",
+        src: (__webpack_require__(54318)/* ["default"] */.A) + "",
+        width: "1600",
+        height: "740"
+      })
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.h2, {
+      id: "configure-mqtt-in-gladys-assistant",
+      children: "Configure MQTT in Gladys Assistant"
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.p, {
+      children: "Now go to Gladys Assistant, and click on \"Integrations\" => \"MQTT\"."
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.p, {
+      children: "Go to the \"Setup\" tab, and click on the big blue button \"Install broker in Docker\" to setup a MQTT broker automatically."
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.p, {
+      children: "You can also use a MQTT broker you already configured previously."
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.h3, {
+      id: "create-a-mqtt-device-in-gladys-assistant",
+      children: "Create a MQTT device in Gladys Assistant"
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.p, {
+      children: "Back to the \"Devices\" tab in the MQTT integration, you can create a new device:"
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsxs)(_components.ul, {
+      children: ["\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.li, {
+        children: "Name: \"Lamp\""
+      }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.li, {
+        children: "External ID: \"mqtt-lamp\""
+      }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.li, {
+        children: "Room: \"Kitchen\""
+      }), "\n", (0,react_jsx_runtime__rspack_import_1.jsxs)(_components.li, {
+        children: ["Features: Add a \"Light On/Off\" feature to be able to control", "\n", (0,react_jsx_runtime__rspack_import_1.jsxs)(_components.ul, {
+          children: ["\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.li, {
+            children: "Name: \"Lamp\""
+          }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.li, {
+            children: "Feature external ID: \"mqtt-lamp\""
+          }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.li, {
+            children: "Minimum Value: 0"
+          }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.li, {
+            children: "Maximum Value: 1"
+          }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.li, {
+            children: "Is it a sensor ? No"
+          }), "\n"]
+        }), "\n"]
+      }), "\n"]
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.p, {
+      children: "Copy paste the MQTT topic displayed, you'll need it for later!"
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.h2, {
+      id: "control-a-device-in-node-red-from-gladys-assistant",
+      children: "Control a device in Node-RED from Gladys Assistant"
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.p, {
+      children: "In Node-RED, you can create a \"mqtt in\" node to receive data from Gladys in MQTT."
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.p, {
+      children: "You need to add the MQTT broker we just configured in Gladys by clicking on the little edit button (the pen icon next to Add new mqtt-broker):"
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.p, {
+      children: (0,react_jsx_runtime__rspack_import_1.jsx)(_components.img, {
+        alt: "Node-RED",
+        src: (__webpack_require__(7484)/* ["default"] */.A) + "",
+        width: "1416",
+        height: "1600"
+      })
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsxs)(_components.ul, {
+      children: ["\n", (0,react_jsx_runtime__rspack_import_1.jsxs)(_components.li, {
+        children: ["The server is ", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.code, {
+          children: "mqtt://localhost"
+        })]
+      }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.li, {
+        children: "Username: gladys"
+      }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.li, {
+        children: "Password: Copy paste the generated password from Gladys."
+      }), "\n"]
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.p, {
+      children: (0,react_jsx_runtime__rspack_import_1.jsx)(_components.img, {
+        alt: "Node-RED",
+        src: (__webpack_require__(16794)/* ["default"] */.A) + "",
+        width: "1600",
+        height: "847"
+      })
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.p, {
+      children: "Finally, you need to paste the MQTT topic we copy pasted from Gladys when creating the device previously:"
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.p, {
+      children: (0,react_jsx_runtime__rspack_import_1.jsx)(_components.img, {
+        alt: "Node-RED",
+        src: (__webpack_require__(93612)/* ["default"] */.A) + "",
+        width: "1600",
+        height: "1164"
+      })
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.p, {
+      children: "Now that this node is ready, you can connect pretty much anything to it, it'll be executed when a value is received on this MQTT topic."
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.p, {
+      children: "You could connect a simple debug to see the data coming, or you can plug a switch case to do a different action if the data sent by Gladys is \"0\" (Turn Off) or \"1\" (Turn On)."
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.p, {
+      children: "Example:"
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.p, {
+      children: (0,react_jsx_runtime__rspack_import_1.jsx)(_components.img, {
+        alt: "Node-RED",
+        src: (__webpack_require__(16953)/* ["default"] */.A) + "",
+        width: "1600",
+        height: "470"
+      })
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.h2, {
+      id: "send-sensor-value-from-node-red-to-gladys-assistant",
+      children: "Send sensor value from Node-RED to Gladys Assistant"
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.p, {
+      children: "We'll do the opposite scenario in Node-RED: Sending some data from Node-RED to Gladys."
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.p, {
+      children: "Let's imagine that I want to measure the CPU usage of my machine, and send this CPU usage every 10 seconds to Gladys."
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.h3, {
+      id: "create-a-gladys-mqtt-device",
+      children: "Create a Gladys MQTT device"
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.p, {
+      children: "I can create a Gladys a MQTT \"CPU Usage\" device:"
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsxs)(_components.ul, {
+      children: ["\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.li, {
+        children: "Name: \"CPU\""
+      }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.li, {
+        children: "External ID: \"mqtt-cpu\""
+      }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.li, {
+        children: "Room: \"Kitchen\""
+      }), "\n", (0,react_jsx_runtime__rspack_import_1.jsxs)(_components.li, {
+        children: ["Features: Add a \"Unknown\" feature (you can choose anything here, it's just for the example)", "\n", (0,react_jsx_runtime__rspack_import_1.jsxs)(_components.ul, {
+          children: ["\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.li, {
+            children: "Name: \"CPU\""
+          }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.li, {
+            children: "Feature external ID: \"mqtt-cpu\""
+          }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.li, {
+            children: "Minimum Value: 0"
+          }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.li, {
+            children: "Maximum Value: 100"
+          }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.li, {
+            children: "Is it a sensor ? yes"
+          }), "\n"]
+        }), "\n"]
+      }), "\n"]
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.p, {
+      children: "Copy paste the MQTT topic displayed, you'll need it for later!"
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.h3, {
+      id: "send-a-value-from-node-red-every-15-seconds",
+      children: "Send a value from Node-RED every 15 seconds"
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.p, {
+      children: "Add an \"Inject\" node in Node-RED."
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsxs)(_components.p, {
+      children: ["Set ", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.code, {
+        children: "msg.payload"
+      }), " to a random value (Here I put 15)"]
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.p, {
+      children: "Add a repeat interval at the end of the node, every 15 seconds."
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.p, {
+      children: (0,react_jsx_runtime__rspack_import_1.jsx)(_components.img, {
+        alt: "Node-RED",
+        src: (__webpack_require__(48122)/* ["default"] */.A) + "",
+        width: "1457",
+        height: "1600"
+      })
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.p, {
+      children: "Now add a \"mqtt out\" node, and paste the MQTT topic we saved earlier when creating the CPU device."
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.p, {
+      children: (0,react_jsx_runtime__rspack_import_1.jsx)(_components.img, {
+        alt: "Node-RED",
+        src: (__webpack_require__(56861)/* ["default"] */.A) + "",
+        width: "1600",
+        height: "1241"
+      })
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.p, {
+      children: "Connect the \"Inject\" node to the \"mqtt out\" node, and click \"deploy\"."
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.p, {
+      children: "Now you'll see that every 15 seconds, Node-RED will send the value \"15\" to Gladys in MQTT!"
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.p, {
+      children: "You can verify that by creating a dashboard and displaying the device we just created."
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.h2, {
+      id: "going-further",
+      children: "Going further"
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.p, {
+      children: "The goal of using Node-RED here is to be able to control devices that are not compatible with Gladys yet, so you might want to check their Node-RED modules to add a new compatibility in Gladys."
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsxs)(_components.p, {
+      children: ["You can search their ", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.a, {
+        href: "https://flows.nodered.org/search?type=node&sort=downloads",
+        children: "website"
+      })]
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.p, {
+      children: "And then, in Node-RED, click on the top-right menu, then \"Manage palette\" to install new modules."
+    }), "\n", (0,react_jsx_runtime__rspack_import_1.jsx)(_components.p, {
+      children: "You can then use the installed modules in Node-RED in the left-panel."
+    })]
+  });
+}
+function MDXContent(props = {}) {
+  const {wrapper: MDXLayout} = {
+    ...(0,_mdx_js_react__rspack_import_2/* .useMDXComponents */.R)(),
+    ...props.components
+  };
+  return MDXLayout ? (0,react_jsx_runtime__rspack_import_1.jsx)(MDXLayout, {
+    ...props,
+    children: (0,react_jsx_runtime__rspack_import_1.jsx)(_createMdxContent, {
+      ...props
+    })
+  }) : _createMdxContent(props);
+}
+
+
+
+},
+7484(__unused_rspack_module, __webpack_exports__, __webpack_require__) {
+__webpack_require__.d(__webpack_exports__, {
+  A: () => (__rspack_default_export)
+});
+/* export default */ const __rspack_default_export = (__webpack_require__.p + "assets/images/add-mqtt-broker-ff64002db4b11d3abe62daafef6d61d2.jpg");
+
+},
+16794(__unused_rspack_module, __webpack_exports__, __webpack_require__) {
+__webpack_require__.d(__webpack_exports__, {
+  A: () => (__rspack_default_export)
+});
+/* export default */ const __rspack_default_export = (__webpack_require__.p + "assets/images/broker-username-0bbcbba0c1a67beaabd409df32aad8c5.jpg");
+
+},
+48122(__unused_rspack_module, __webpack_exports__, __webpack_require__) {
+__webpack_require__.d(__webpack_exports__, {
+  A: () => (__rspack_default_export)
+});
+/* export default */ const __rspack_default_export = (__webpack_require__.p + "assets/images/inject-every-15-seconds-b995c6e4e1e3d1a0117d8e9c5c7cd7a9.jpg");
+
+},
+93612(__unused_rspack_module, __webpack_exports__, __webpack_require__) {
+__webpack_require__.d(__webpack_exports__, {
+  A: () => (__rspack_default_export)
+});
+/* export default */ const __rspack_default_export = (__webpack_require__.p + "assets/images/mqtt-in-059942a0b0702ade06ca0f6b8aef6401.jpg");
+
+},
+56861(__unused_rspack_module, __webpack_exports__, __webpack_require__) {
+__webpack_require__.d(__webpack_exports__, {
+  A: () => (__rspack_default_export)
+});
+/* export default */ const __rspack_default_export = (__webpack_require__.p + "assets/images/mqtt-out-7127570d5def03d56ead35f1a903a4b8.jpg");
+
+},
+54318(__unused_rspack_module, __webpack_exports__, __webpack_require__) {
+__webpack_require__.d(__webpack_exports__, {
+  A: () => (__rspack_default_export)
+});
+/* export default */ const __rspack_default_export = (__webpack_require__.p + "assets/images/node-red-695983b59f56cf56ee9c09c701ad73ee.jpg");
+
+},
+16953(__unused_rspack_module, __webpack_exports__, __webpack_require__) {
+__webpack_require__.d(__webpack_exports__, {
+  A: () => (__rspack_default_export)
+});
+/* export default */ const __rspack_default_export = (__webpack_require__.p + "assets/images/switch-mqtt-in-3603d915a9f7fcd56f9f0c832080945c.jpg");
+
+},
+28453(__unused_rspack___webpack_module__, __webpack_exports__, __webpack_require__) {
+__webpack_require__.d(__webpack_exports__, {
+  R: () => (useMDXComponents),
+  x: () => (MDXProvider)
+});
+/* import */ var react__rspack_import_0 = __webpack_require__(96540);
+/**
+ * @import {MDXComponents} from 'mdx/types.js'
+ * @import {Component, ReactElement, ReactNode} from 'react'
+ */
+
+/**
+ * @callback MergeComponents
+ *   Custom merge function.
+ * @param {Readonly<MDXComponents>} currentComponents
+ *   Current components from the context.
+ * @returns {MDXComponents}
+ *   Additional components.
+ *
+ * @typedef Props
+ *   Configuration for `MDXProvider`.
+ * @property {ReactNode | null | undefined} [children]
+ *   Children (optional).
+ * @property {Readonly<MDXComponents> | MergeComponents | null | undefined} [components]
+ *   Additional components to use or a function that creates them (optional).
+ * @property {boolean | null | undefined} [disableParentContext=false]
+ *   Turn off outer component context (default: `false`).
+ */
+
+
+
+/** @type {Readonly<MDXComponents>} */
+const emptyComponents = {}
+
+const MDXContext = react__rspack_import_0.createContext(emptyComponents)
+
+/**
+ * Get current components from the MDX Context.
+ *
+ * @param {Readonly<MDXComponents> | MergeComponents | null | undefined} [components]
+ *   Additional components to use or a function that creates them (optional).
+ * @returns {MDXComponents}
+ *   Current components.
+ */
+function useMDXComponents(components) {
+  const contextComponents = react__rspack_import_0.useContext(MDXContext)
+
+  // Memoize to avoid unnecessary top-level context changes
+  return react__rspack_import_0.useMemo(
+    function () {
+      // Custom merge via a function prop
+      if (typeof components === 'function') {
+        return components(contextComponents)
+      }
+
+      return {...contextComponents, ...components}
+    },
+    [contextComponents, components]
+  )
+}
+
+/**
+ * Provider for MDX context.
+ *
+ * @param {Readonly<Props>} properties
+ *   Properties.
+ * @returns {ReactElement}
+ *   Element.
+ * @satisfies {Component}
+ */
+function MDXProvider(properties) {
+  /** @type {Readonly<MDXComponents>} */
+  let allComponents
+
+  if (properties.disableParentContext) {
+    allComponents =
+      typeof properties.components === 'function'
+        ? properties.components(emptyComponents)
+        : properties.components || emptyComponents
+  } else {
+    allComponents = useMDXComponents(properties.components)
+  }
+
+  return react__rspack_import_0.createElement(
+    MDXContext.Provider,
+    {value: allComponents},
+    properties.children
+  )
+}
+
+
+},
+67353(module) {
+module.exports = JSON.parse('{"permalink":"/zh-Hans/blog/integrate-node-red-with-gladys-assistant-in-mqtt","editUrl":"https://github.com/GladysAssistant/v4-website/edit/master/blog/2021-09-30-using-node-red-with-gladys-assistant.md","source":"@site/blog/2021-09-30-using-node-red-with-gladys-assistant.md","title":"Integrate Node-RED with Gladys Assistant in MQTT","description":"Today we will learn how to integrate Node-RED, a low-code tool, with Gladys Assistant.","date":"2021-09-30T00:00:00.000Z","tags":[],"readingTime":5.47,"hasTruncateMarker":false,"authors":[{"name":"Pierre-Gilles Leymarie","title":"Founder of Gladys Assistant","url":"https://github.com/Pierre-Gilles","socials":{"x":"https://x.com/pierregillesl","github":"https://github.com/Pierre-Gilles"},"imageURL":"/zh-Hans/img/pierre-gilles.jpg","key":"pierregilles","page":null}],"frontMatter":{"title":"Integrate Node-RED with Gladys Assistant in MQTT","description":"Today we will learn how to integrate Node-RED, a low-code tool, with Gladys Assistant.","authors":"pierregilles","image":"/img/presentation/node-red-gladys-assistant-en.jpg","slug":"integrate-node-red-with-gladys-assistant-in-mqtt"},"unlisted":false,"prevItem":{"title":"New release: Display chart on Gladys dashboard & Major upgrade on Zigbee2mqtt","permalink":"/zh-Hans/blog/display-chart-and-major-zigbee2mqtt-upgrade"},"nextItem":{"title":"Gladys Assistant 4.5 is available, with the multi-dashboard feature!","permalink":"/zh-Hans/blog/gladys-assistant-4-5-is-here"}}')
+
+},
+
+};
+;
